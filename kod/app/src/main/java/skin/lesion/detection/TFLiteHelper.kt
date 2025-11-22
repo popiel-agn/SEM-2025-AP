@@ -2,7 +2,6 @@ package skin.lesion.detection
 
 import android.content.Context
 import android.graphics.Bitmap
-import android.util.Log
 import androidx.core.graphics.scale
 import org.tensorflow.lite.Interpreter
 import skin.lesion.detection.models.LesionType

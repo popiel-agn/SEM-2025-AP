@@ -16,12 +16,10 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Add
-import androidx.compose.material.icons.filled.Home
 import androidx.compose.material.icons.filled.Info
 import androidx.compose.material3.BottomAppBar
 import androidx.compose.material3.CenterAlignedTopAppBar
 import androidx.compose.material3.ExperimentalMaterial3Api
-import androidx.compose.material3.FloatingActionButton
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
 import androidx.compose.material3.MaterialTheme
@@ -70,13 +68,6 @@ internal fun ScreenLayout(
                         horizontalArrangement = Arrangement.SpaceAround,
                         modifier = Modifier.fillMaxWidth()
                     ) {
-                        IconButton(onClick = {}) {
-                            Icon(
-                                Icons.Filled.Home,
-                                contentDescription = "Strona główna",
-                                modifier = Modifier.size(32.dp)
-                            )
-                        }
                         IconButton(onClick = {
                             val options = arrayOf("Aparat", "Galeria")
                             AlertDialog.Builder(context)
