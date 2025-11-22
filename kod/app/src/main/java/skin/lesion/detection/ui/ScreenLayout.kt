@@ -29,7 +29,10 @@ import androidx.compose.material3.TopAppBarDefaults
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.asImageBitmap
+import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import skin.lesion.detection.models.PredictionResult
 
@@ -104,7 +107,17 @@ internal fun ScreenLayout(
                 .padding(paddingValues)
                 .padding(16.dp),
             horizontalAlignment = Alignment.CenterHorizontally,
+            verticalArrangement = Arrangement.Center
         ) {
+            if (imageBitmap == null) {
+                Text(
+                    text = "Dodaj nową zmianę skórną klikając '+'",
+                    color = Color.LightGray,
+                    fontWeight = FontWeight.Bold,
+                    textAlign = TextAlign.Center
+                )
+            }
+
             imageBitmap?.let {
                 Image(
                     bitmap = it.asImageBitmap(),
