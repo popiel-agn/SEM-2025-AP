@@ -10,6 +10,7 @@ models/
 *.keras
 *.h5
 *.tflite
+*.zip
 logs/
 *.log
 venv/
