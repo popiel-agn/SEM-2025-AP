@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2024.1.7)  6 APR 2025 15:45
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2024.1.7)  7 JAN 2026 19:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2291,7 +2291,22 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'praca.bbl' found.
- (praca.bbl)
+ (praca.bbl
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                10.1117/12.221630
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                riganti_artificial_2020
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+)
 Package biblatex Info: Reference section=0 on input line 26.
 Package biblatex Info: Reference segment=0 on input line 26.
 \c@lstlisting=\count516
@@ -2301,11 +2316,6 @@ LaTeX Font Info:    Font shape `TU/Calibri(1)/m/n' will be
 (Font)              scaled to size 18.67929pt on input line 28.
 LaTeX Font Info:    Font shape `TU/Calibri(1)/b/n' will be
 (Font)              scaled to size 18.67929pt on input line 28.
-
-Underfull \hbox (badness 1603) in paragraph at lines 28--28
-[]\TU/Calibri(1)/m/n/17.28 Klasyfikacja zmian skórnych z pomocą sieci
- []
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 28--28
 
@@ -2362,17 +2372,17 @@ LaTeX Font Info:    Font shape `TU/Calibri(0)/b/n' will be
  (praca.toc
 LaTeX Font Info:    Font shape `TU/Calibri(0)/b/n' will be
 (Font)              scaled to size 12.97174pt on input line 2.
- [1
-
-])
+)
 \tf@toc=\write8
 \openout8 = `praca.toc'.
 
- [2] (praca.tdo)
+ [1
+
+] (praca.tdo)
 \tf@tdo=\write9
 \openout9 = `praca.tdo'.
 
- [3
+ [2
 
 ] (wstep.tex
 Rozdział 1.
@@ -2385,64 +2395,90 @@ LaTeX Font Info:    Font shape `TU/Calibri(0)/b/n' will be
 
 ]
 Rozdział 2.
-) (rozdzial3.tex [2
+[2
 
 ]
+
+LaTeX Warning: Citation 'riganti_artificial_2020' on page 3 undefined on input 
+line 21.
+
+LaTeX Font Info:    Font shape `TU/Calibri(0)/m/it' will be
+(Font)              scaled to size 12.94171pt on input line 25.
+
+LaTeX Warning: Citation '10.1117/12.221630' on page 3 undefined on input line 2
+8.
+
+
+LaTeX Warning: Citation 'al-rimy_adaptive_2023' on page 3 undefined on input li
+ne 30.
+
+[3]) (rozdzial3.tex [4]
 Rozdział 3.
-) (rozdzial4.tex [3
+) (rozdzial4.tex [5
 
 ]
 Rozdział 4.
-) (rozdzial5.tex [4
+) (rozdzial5.tex [6
 
 ]
 Rozdział 5.
-) (zakonczenie.tex [5
+) (zakonczenie.tex [7
 
 ]
 Rozdział 6.
-)
+) [8
 
-LaTeX Warning: Empty bibliography on input line 43.
+]
+LaTeX Font Info:    Font shape `TU/InconsolataLGC(0)/m/n' will be
+(Font)              scaled to size 10.79993pt on input line 43.
+ [9
 
-[6
-
-] (praca.lot)
+] [10] [11] (praca.lot)
 \tf@lot=\write10
 \openout10 = `praca.lot'.
 
- [7
+ [12
 
 ] (praca.lof)
 \tf@lof=\write11
 \openout11 = `praca.lof'.
 
- [8
+ [13
 
 ] (praca.lol)
 \tf@lol=\write12
 \openout12 = `praca.lol'.
 
- [9
+ [14
 
-] (praca.aux)
+]
+(praca.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-10-10>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `praca.out' has not changed.
-(rerunfilecheck)             Checksum: 5EFC9E2AD9AB5B9CFDFC3D5BB1A547D7;3442.
+(rerunfilecheck)             Checksum: 979E404087B6C89D851CCC5EE9FCAF59;3065.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                praca
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'praca.run.xml'.
 \openout1 = `praca.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 41197 strings out of 409955
- 794635 string characters out of 5781419
- 1923674 words of memory out of 5000000
- 62331 multiletter control sequences out of 15000+600000
- 560822 words of font info for 100 fonts, out of 8000000 for 9000
+ 41592 strings out of 409955
+ 806163 string characters out of 5781419
+ 1933674 words of memory out of 5000000
+ 62724 multiletter control sequences out of 15000+600000
+ 560830 words of font info for 101 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 123i,9n,137p,1152b,3848s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 123i,9n,137p,2745b,5480s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on praca.pdf (14 pages).
+Output written on praca.pdf (18 pages).

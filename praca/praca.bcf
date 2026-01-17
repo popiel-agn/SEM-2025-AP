@@ -3059,6 +3059,55 @@
     <bcf:datasource type="file" datatype="bibtex">bibliografia.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
+    <bcf:citekey order="1" intorder="1">CHAPMAN20153</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">HALEEM202370</bcf:citekey>
+    <bcf:citekey order="2" intorder="2">mahara_revolutionising_2023</bcf:citekey>
+    <bcf:citekey order="2" intorder="3">thacharodi_revolutionizing_2024</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">amisha_overview_2019</bcf:citekey>
+    <bcf:citekey order="3" intorder="2">sezer_application_2020</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">glos_medycyna_2017</bcf:citekey>
+    <bcf:citekey order="4" intorder="2">alonso_predictive_2019</bcf:citekey>
+    <bcf:citekey order="4" intorder="3">briganti_artificial_2020</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">amisha_overview_2019</bcf:citekey>
+    <bcf:citekey order="5" intorder="2">riganti_artificial_2020</bcf:citekey>
+    <bcf:citekey order="5" intorder="3">halcox_assessment_2017</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">briganti_artificial_2020</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">das_collaboration_2023</bcf:citekey>
+    <bcf:citekey order="7" intorder="2">topalovic_artificial_2019</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">rajaraman_visualization_2018</bcf:citekey>
+    <bcf:citekey order="8" intorder="2">10.1117/12.221630</bcf:citekey>
+    <bcf:citekey order="8" intorder="3">ismael_deep_2021</bcf:citekey>
+    <bcf:citekey order="8" intorder="4">hussain_corodet_2021</bcf:citekey>
+    <bcf:citekey order="8" intorder="5">lee_validation_2023</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">briganti_artificial_2020</bcf:citekey>
+    <bcf:citekey order="9" intorder="2">yang_application_2019</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">rajaraman_pre-trained_2018</bcf:citekey>
+    <bcf:citekey order="10" intorder="2">al-rimy_adaptive_2023</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">ais.2021.15</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">lidstromer_artificial_2021</bcf:citekey>
+    <bcf:citekeycount count="1">CHAPMAN20153</bcf:citekeycount>
+    <bcf:citekeycount count="1">HALEEM202370</bcf:citekeycount>
+    <bcf:citekeycount count="1">mahara_revolutionising_2023</bcf:citekeycount>
+    <bcf:citekeycount count="1">thacharodi_revolutionizing_2024</bcf:citekeycount>
+    <bcf:citekeycount count="2">amisha_overview_2019</bcf:citekeycount>
+    <bcf:citekeycount count="1">sezer_application_2020</bcf:citekeycount>
+    <bcf:citekeycount count="1">glos_medycyna_2017</bcf:citekeycount>
+    <bcf:citekeycount count="1">alonso_predictive_2019</bcf:citekeycount>
+    <bcf:citekeycount count="3">briganti_artificial_2020</bcf:citekeycount>
+    <bcf:citekeycount count="0">riganti_artificial_2020</bcf:citekeycount>
+    <bcf:citekeycount count="1">halcox_assessment_2017</bcf:citekeycount>
+    <bcf:citekeycount count="1">das_collaboration_2023</bcf:citekeycount>
+    <bcf:citekeycount count="1">topalovic_artificial_2019</bcf:citekeycount>
+    <bcf:citekeycount count="1">rajaraman_visualization_2018</bcf:citekeycount>
+    <bcf:citekeycount count="0">10.1117/12.221630</bcf:citekeycount>
+    <bcf:citekeycount count="1">ismael_deep_2021</bcf:citekeycount>
+    <bcf:citekeycount count="1">hussain_corodet_2021</bcf:citekeycount>
+    <bcf:citekeycount count="1">lee_validation_2023</bcf:citekeycount>
+    <bcf:citekeycount count="1">yang_application_2019</bcf:citekeycount>
+    <bcf:citekeycount count="1">rajaraman_pre-trained_2018</bcf:citekeycount>
+    <bcf:citekeycount count="0">al-rimy_adaptive_2023</bcf:citekeycount>
+    <bcf:citekeycount count="1">ais.2021.15</bcf:citekeycount>
+    <bcf:citekeycount count="1">lidstromer_artificial_2021</bcf:citekeycount>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">

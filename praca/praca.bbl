@@ -16,5 +16,3190 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{alonso_predictive_2019}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=6ed437672715faec24e1afcc22ab017d}{%
+           family={Alonso},
+           familyi={A\bibinitperiod},
+           given={Susel\bibnamedelima Góngora},
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=86522c193e7ce6586d3b6e52f3d48aab}{%
+           family={De\bibnamedelima La\bibnamedelimb Torre\bibnamedelima Díez},
+           familyi={D\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim D\bibinitperiod},
+           given={Isabel},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=99a51cfefe6c853c0b43b755acb528c0}{%
+           family={Zapiraín},
+           familyi={Z\bibinitperiod},
+           given={Begoña\bibnamedelima García},
+           giveni={B\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{d9506a6e33cf13d5203308e57f0efb0d}
+      \strng{fullhash}{d9506a6e33cf13d5203308e57f0efb0d}
+      \strng{bibnamehash}{d9506a6e33cf13d5203308e57f0efb0d}
+      \strng{authorbibnamehash}{d9506a6e33cf13d5203308e57f0efb0d}
+      \strng{authornamehash}{d9506a6e33cf13d5203308e57f0efb0d}
+      \strng{authorfullhash}{d9506a6e33cf13d5203308e57f0efb0d}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0148-5598, 1573-689X}
+      \field{journaltitle}{Journal of Medical Systems}
+      \field{month}{5}
+      \field{number}{5}
+      \field{title}{Predictive, {Personalized}, {Preventive} and {Participatory} ({4P}) {Medicine} {Applied} to {Telemedicine} and {eHealth} in the {Literature}}
+      \field{urlday}{25}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{volume}{43}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{140}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1007/s10916-019-1279-4
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/s10916-019-1279-4
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s10916-019-1279-4
+      \endverb
+    \endentry
+    \entry{amisha_overview_2019}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=5095f3097670c1f4c11e58d4b45c8da6}{%
+           family={{Amisha}},
+           familyi={A\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=c628b795f2f5ac98cf3d7dfd410537e8}{%
+           family={Malik},
+           familyi={M\bibinitperiod},
+           given={Paras},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e4d74f67202becae10768635938f933f}{%
+           family={Pathania},
+           familyi={P\bibinitperiod},
+           given={Monika},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4bfcb3c8877533f827c78769d341d555}{%
+           family={Rathaur},
+           familyi={R\bibinitperiod},
+           given={VyasKumar},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{1a23af17c89c461b12cfd9b76373a20c}
+      \strng{fullhash}{2658b46ae008669e81690910d79487cf}
+      \strng{bibnamehash}{2658b46ae008669e81690910d79487cf}
+      \strng{authorbibnamehash}{2658b46ae008669e81690910d79487cf}
+      \strng{authornamehash}{1a23af17c89c461b12cfd9b76373a20c}
+      \strng{authorfullhash}{2658b46ae008669e81690910d79487cf}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2249-4863}
+      \field{journaltitle}{Journal of Family Medicine and Primary Care}
+      \field{number}{7}
+      \field{title}{Overview of artificial intelligence in medicine}
+      \field{urlday}{25}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{volume}{8}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{2328}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.4103/jfmpc.jfmpc_440_19
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.lww.com/10.4103/jfmpc.jfmpc_440_19
+      \endverb
+      \verb{url}
+      \verb https://journals.lww.com/10.4103/jfmpc.jfmpc_440_19
+      \endverb
+    \endentry
+    \entry{briganti_artificial_2020}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7736116bfbe481055b20f864d03dbddf}{%
+           family={Briganti},
+           familyi={B\bibinitperiod},
+           given={Giovanni},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f6c38566f7f1b8a84824182b638a7cf4}{%
+           family={Le\bibnamedelima Moine},
+           familyi={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Olivier},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{eba06849d8304f4e0abc56d8e8a50632}
+      \strng{fullhash}{eba06849d8304f4e0abc56d8e8a50632}
+      \strng{bibnamehash}{eba06849d8304f4e0abc56d8e8a50632}
+      \strng{authorbibnamehash}{eba06849d8304f4e0abc56d8e8a50632}
+      \strng{authornamehash}{eba06849d8304f4e0abc56d8e8a50632}
+      \strng{authorfullhash}{eba06849d8304f4e0abc56d8e8a50632}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{2296-858X}
+      \field{journaltitle}{Frontiers in Medicine}
+      \field{month}{2}
+      \field{shorttitle}{Artificial {Intelligence} in {Medicine}}
+      \field{title}{Artificial {Intelligence} in {Medicine}: {Today} and {Tomorrow}}
+      \field{urlday}{25}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{volume}{7}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{27}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3389/fmed.2020.00027
+      \endverb
+      \verb{urlraw}
+      \verb https://www.frontiersin.org/article/10.3389/fmed.2020.00027/full
+      \endverb
+      \verb{url}
+      \verb https://www.frontiersin.org/article/10.3389/fmed.2020.00027/full
+      \endverb
+    \endentry
+    \entry{CHAPMAN20153}{inbook}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=676fddb2c068acb5fa291bd947b0f752}{%
+           family={Chapman},
+           familyi={C\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a8d90d53f2963fa07818558d2ee95dcc}{%
+           family={Larsson},
+           familyi={L\bibinitperiod},
+           given={Erik},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a19e40bc3e2522e0b58f8fa93eef2531}{%
+           family={{von Wrycza}},
+           familyi={v\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c1425aaee0afa76c292fafe3a41c285}{%
+           family={Dahlman},
+           familyi={D\bibinitperiod},
+           given={Erik},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=259271b16e241470190e543b84a60792}{%
+           family={Parkvall},
+           familyi={P\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=06ff1c9a06acec2be99fba0941521e8a}{%
+           family={Sköld},
+           familyi={S\bibinitperiod},
+           given={Johan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{6}{}{%
+        {{hash=676fddb2c068acb5fa291bd947b0f752}{%
+           family={Chapman},
+           familyi={C\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=a8d90d53f2963fa07818558d2ee95dcc}{%
+           family={Larsson},
+           familyi={L\bibinitperiod},
+           given={Erik},
+           giveni={E\bibinitperiod}}}%
+        {{hash=a19e40bc3e2522e0b58f8fa93eef2531}{%
+           family={{von Wrycza}},
+           familyi={v\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=0c1425aaee0afa76c292fafe3a41c285}{%
+           family={Dahlman},
+           familyi={D\bibinitperiod},
+           given={Erik},
+           giveni={E\bibinitperiod}}}%
+        {{hash=259271b16e241470190e543b84a60792}{%
+           family={Parkvall},
+           familyi={P\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=06ff1c9a06acec2be99fba0941521e8a}{%
+           family={Sköld},
+           familyi={S\bibinitperiod},
+           given={Johan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{e558fad337637b22e2546544e4a86b78}
+      \strng{fullhash}{64095d80473c2ede80003117dc94f3b3}
+      \strng{bibnamehash}{64095d80473c2ede80003117dc94f3b3}
+      \strng{authorbibnamehash}{64095d80473c2ede80003117dc94f3b3}
+      \strng{authornamehash}{e558fad337637b22e2546544e4a86b78}
+      \strng{authorfullhash}{64095d80473c2ede80003117dc94f3b3}
+      \strng{editorbibnamehash}{64095d80473c2ede80003117dc94f3b3}
+      \strng{editornamehash}{e558fad337637b22e2546544e4a86b78}
+      \strng{editorfullhash}{64095d80473c2ede80003117dc94f3b3}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This introductory chapter provides an overview of the research and standardization background behind today’s HSPA technologies. A review of WCDMA development and standardization is provided in order for the reader to understand the framework upon which the 3G specifications have been built. This is followed by an insight into the workings of the standardization organizations that relate to WCDMA and HSPA, in particular 3GPP and ITU. The motivations and constraints behind the continuing evolution of HSPA are reviewed. This provides the reader with a framework with which to understand the drivers and processes behind the evolution features described in Part III of the book. In addition, a brief insight into the spectrum allocations and availability for HSPA is given.}
+      \field{booktitle}{HSPA Evolution}
+      \field{isbn}{978-0-08-099969-2}
+      \field{title}{Chapter 1 - From 3G to 4G: background and motivation of 3G evolution}
+      \field{year}{2015}
+      \field{pages}{3\bibrangedash 20}
+      \range{pages}{18}
+      \verb{doi}
+      \verb https://doi.org/10.1016/B978-0-08-099969-2.00001-6
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/B9780080999692000016
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/B9780080999692000016
+      \endverb
+      \keyw{WCDMA,HSPA,3GPP,ITU,3G,HSDPA,HSUPA,GSM,LTE,UTRA,ACTS,FRAMES,ETSI,ARIB,IMT}
+    \endentry
+    \entry{das_collaboration_2023}{article}{}
+      \name{author}{23}{}{%
+        {{un=0,uniquepart=base,hash=2ecf76aae2219c1a33af868ae80722ae}{%
+           family={Das},
+           familyi={D\bibinitperiod},
+           given={Nilakash},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=404c4479666f6720fa279dfe1dfdc354}{%
+           family={Happaerts},
+           familyi={H\bibinitperiod},
+           given={Sofie},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=90c894b4b35861412f090ebd0242e622}{%
+           family={Gyselinck},
+           familyi={G\bibinitperiod},
+           given={Iwein},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0bc384b24d3bd9d2e503137348c2cc87}{%
+           family={Staes},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ea0a2372f0e299f6d07c562cc7ceda33}{%
+           family={Derom},
+           familyi={D\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1cc3916eba97d89f566dbb61f5a284a2}{%
+           family={Brusselle},
+           familyi={B\bibinitperiod},
+           given={Guy},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8e0a9bafc320965785676ba790226c9d}{%
+           family={Burgos},
+           familyi={B\bibinitperiod},
+           given={Felip},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=81ee405a616ecd55f0e4c4d2f57e2ebe}{%
+           family={Contoli},
+           familyi={C\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ad1dfc8e891112703b5ffe8d734fee3}{%
+           family={Dinh-Xuan},
+           familyi={D\bibinithyphendelim X\bibinitperiod},
+           given={Anh\bibnamedelima Tuan},
+           giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4fdc1358b5fbeb6b3b1b37953cf0cf96}{%
+           family={Franssen},
+           familyi={F\bibinitperiod},
+           given={Frits\bibnamedelima M.E.},
+           giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0608a44eda2247cb3b3335cb0e8631ba}{%
+           family={Gonem},
+           familyi={G\bibinitperiod},
+           given={Sherif},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6293ca829a40b03a07398c8f09548343}{%
+           family={Greening},
+           familyi={G\bibinitperiod},
+           given={Neil},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b4655d333d6cbb99cac426c5301adf71}{%
+           family={Haenebalcke},
+           familyi={H\bibinitperiod},
+           given={Christel},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=274c9413eb4bdbeab8c290c6f892c109}{%
+           family={Man},
+           familyi={M\bibinitperiod},
+           given={William\bibnamedelima D-C.},
+           giveni={W\bibinitperiod\bibinitdelim D\bibinithyphendelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=accfff1b988f6e76267086c1a0aaa553}{%
+           family={Moisés},
+           familyi={M\bibinitperiod},
+           given={Jorge},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fd29505ecf8b25e88b101d104b6b4e92}{%
+           family={Peché},
+           familyi={P\bibinitperiod},
+           given={Rudi},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d2a66c9c1527eace73532d49783efbf0}{%
+           family={Poberezhets},
+           familyi={P\bibinitperiod},
+           given={Vitalii},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1cde94d91270a39ee7f8adaf56531523}{%
+           family={Quint},
+           familyi={Q\bibinitperiod},
+           given={Jennifer\bibnamedelima K.},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5c3a0786d6f1b15ad60e1c178c966fb8}{%
+           family={Steiner},
+           familyi={S\bibinitperiod},
+           given={Michael\bibnamedelima C.},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ec67b225eec9415abc4215d40585e5bf}{%
+           family={Vanderhelst},
+           familyi={V\bibinitperiod},
+           given={Eef},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=83f4deb12f018c268a3a945c0a1d57f2}{%
+           family={Abdo},
+           familyi={A\bibinitperiod},
+           given={Mustafa},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cf9038af49bd80c41855142a107803a7}{%
+           family={Topalovic},
+           familyi={T\bibinitperiod},
+           given={Marko},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cb785027a316116f83943e0214e021ec}{%
+           family={Janssens},
+           familyi={J\bibinitperiod},
+           given={Wim},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{55748ab3432a482a406f2acb881fdaa1}
+      \strng{fullhash}{5dda59e1fbac142f3dea93b7a2aa7b15}
+      \strng{bibnamehash}{c536fc24435ced6f7e299f53341e1e97}
+      \strng{authorbibnamehash}{c536fc24435ced6f7e299f53341e1e97}
+      \strng{authornamehash}{55748ab3432a482a406f2acb881fdaa1}
+      \strng{authorfullhash}{5dda59e1fbac142f3dea93b7a2aa7b15}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Background Few studies have investigated the collaborative potential between artificial intelligence (AI) and pulmonologists for diagnosing pulmonary disease. We hypothesised that the collaboration between a pulmonologist and AI with explanations (explainable AI (XAI)) is superior in diagnostic interpretation of pulmonary function tests (PFTs) than the pulmonologist without support. Methods The study was conducted in two phases, a monocentre study (phase 1) and a multicentre intervention study (phase 2). Each phase utilised two different sets of 24 PFT reports of patients with a clinically validated gold standard diagnosis. Each PFT was interpreted without (control) and with XAI's suggestions (intervention). Pulmonologists provided a differential diagnosis consisting of a preferential diagnosis and optionally up to three additional diagnoses. The primary end-point compared accuracy of preferential and additional diagnoses between control and intervention. Secondary end-points were the number of diagnoses in differential diagnosis, diagnostic confidence and inter-rater agreement. We also analysed how XAI influenced pulmonologists’ decisions. Results In phase 1 (n=16 pulmonologists), mean preferential and differential diagnostic accuracy significantly increased by 10.4\% and 9.4\%, respectively, between control and intervention (p{<}0.001). Improvements were somewhat lower but highly significant (p{<}0.0001) in phase 2 (5.4\% and 8.7\%, respectively; n=62 pulmonologists). In both phases, the number of diagnoses in the differential diagnosis did not reduce, but diagnostic confidence and inter-rater agreement significantly increased during intervention. Pulmonologists updated their decisions with XAI's feedback and consistently improved their baseline performance if AI provided correct predictions. Conclusion A collaboration between a pulmonologist and XAI is better at interpreting PFTs than individual pulmonologists reading without XAI support or XAI alone.}
+      \field{issn}{0903-1936, 1399-3003}
+      \field{journaltitle}{European Respiratory Journal}
+      \field{month}{5}
+      \field{number}{5}
+      \field{title}{Collaboration between explainable artificial intelligence and pulmonologists improves the accuracy of pulmonary function test interpretation}
+      \field{urlday}{25}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{volume}{61}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \field{pages}{2201720}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1183/13993003.01720-2022
+      \endverb
+      \verb{urlraw}
+      \verb https://publications.ersnet.org/lookup/doi/10.1183/13993003.01720-2022
+      \endverb
+      \verb{url}
+      \verb https://publications.ersnet.org/lookup/doi/10.1183/13993003.01720-2022
+      \endverb
+    \endentry
+    \entry{ais.2021.15}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=8ee870839373bdec087796433d91b98e}{%
+           family={Elyan},
+           familyi={E\bibinitperiod},
+           given={Eyad},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8f166622cec23e6c0519dc364a6bd09b}{%
+           family={Vuttipittayamongkol},
+           familyi={V\bibinitperiod},
+           given={Pattaramon},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=594518bf2201436eb43d9c7f3994cd8e}{%
+           family={Johnston},
+           familyi={J\bibinitperiod},
+           given={Pamela},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b144a389f780c714fa4038d7dd4fa27b}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={Kyle},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f39d1e2cf026f5dd95695506fd605bd3}{%
+           family={McPherson},
+           familyi={M\bibinitperiod},
+           given={Kyle},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0ab050216712150a3b347a6290f2f257}{%
+           family={Moreno-García},
+           familyi={M\bibinithyphendelim G\bibinitperiod},
+           given={Carlos\bibnamedelima Francisco},
+           giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5be1d96df47e9680d491d156aaeaa1c5}{%
+           family={Jayne},
+           familyi={J\bibinitperiod},
+           given={Chrisina},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d2768b9802718c4a9a473d374864a6c1}{%
+           family={Sarker},
+           familyi={S\bibinitperiod},
+           given={Md.\bibnamedelimi Mostafa\bibnamedelima Kamal},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{81f0f86412d4d37c0be3950e59af0fa2}
+      \strng{fullhash}{4744c52301c69d506b0e93faf286c0aa}
+      \strng{bibnamehash}{4744c52301c69d506b0e93faf286c0aa}
+      \strng{authorbibnamehash}{4744c52301c69d506b0e93faf286c0aa}
+      \strng{authornamehash}{81f0f86412d4d37c0be3950e59af0fa2}
+      \strng{authorfullhash}{4744c52301c69d506b0e93faf286c0aa}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The recent development in the areas of deep learning and deep convolutional neural networks has significantly progressed and advanced the field of computer vision (CV) and image analysis and understanding. Complex tasks such as classifying and segmenting medical images and localising and recognising objects of interest have become much less challenging. This progress has the potential of accelerating research and deployment of multitudes of medical applications that utilise CV. However, in reality, there are limited practical examples being physically deployed into front-line health facilities. In this paper, we examine the current state of the art in CV as applied to the medical domain. We discuss the main challenges in CV and intelligent data-driven medical applications and suggest future directions to accelerate research, development, and deployment of CV applications in health practices. First, we critically review existing literature in the CV domain that addresses complex vision tasks, including: medical image classification; shape and object recognition from images; and medical segmentation. Second, we present an in-depth discussion of the various challenges that are considered barriers to accelerating research, development, and deployment of intelligent CV methods in real-life medical applications and hospitals. Finally, we conclude by discussing future directions.}
+      \field{issn}{2771-0408}
+      \field{journaltitle}{Artificial Intelligence Surgery}
+      \field{number}{1}
+      \field{title}{Computer vision and machine learning for medical image analysis: recent advances, challenges, and way forward}
+      \field{volume}{2}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.20517/ais.2021.15
+      \endverb
+      \verb{urlraw}
+      \verb https://www.oaepublish.com/articles/ais.2021.15
+      \endverb
+      \verb{url}
+      \verb https://www.oaepublish.com/articles/ais.2021.15
+      \endverb
+    \endentry
+    \entry{glos_medycyna_2017}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f456034223017ec2661110cdf8a206f5}{%
+           family={Głos},
+           familyi={G\bibinitperiod},
+           given={Aleksandra},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Kraków}%
+      }
+      \list{publisher}{1}{%
+        {Interdyscyplinarne Centrum Etyki UJ}%
+      }
+      \strng{namehash}{f456034223017ec2661110cdf8a206f5}
+      \strng{fullhash}{f456034223017ec2661110cdf8a206f5}
+      \strng{bibnamehash}{f456034223017ec2661110cdf8a206f5}
+      \strng{authorbibnamehash}{f456034223017ec2661110cdf8a206f5}
+      \strng{authornamehash}{f456034223017ec2661110cdf8a206f5}
+      \strng{authorfullhash}{f456034223017ec2661110cdf8a206f5}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Filozofia w Praktyce}
+      \field{number}{Artykuł 6}
+      \field{title}{{MEDYCYNA} {P4} {I} {ANTYNOMIE} {SAMOWIEDZY}}
+      \field{volume}{Tom 3}
+      \field{year}{2017}
+    \endentry
+    \entry{halcox_assessment_2017}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=7e0871d470b31100e41e74eca4912137}{%
+           family={Halcox},
+           familyi={H\bibinitperiod},
+           given={Julian\bibnamedelima P.J.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d0c5ac1b9c0ab90adce7e464d6f4310d}{%
+           family={Wareham},
+           familyi={W\bibinitperiod},
+           given={Kathie},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9aa8a3dfef7634a1c01d50a277661ca2}{%
+           family={Cardew},
+           familyi={C\bibinitperiod},
+           given={Antonia},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=419a13b25552c3d1e07189f09eb0f23a}{%
+           family={Gilmore},
+           familyi={G\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4e889d385098f31988c8d0751f786d0c}{%
+           family={Barry},
+           familyi={B\bibinitperiod},
+           given={James\bibnamedelima P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4423258d27f50e711791ec4a9e1ca981}{%
+           family={Phillips},
+           familyi={P\bibinitperiod},
+           given={Ceri},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fdd6afff44b6dcb6150a1b3b858c45a7}{%
+           family={Gravenor},
+           familyi={G\bibinitperiod},
+           given={Michael\bibnamedelima B.},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{666a737c4707399728d32db590e42c1f}
+      \strng{fullhash}{2d96a2f62b4bbb53537515961aa451e3}
+      \strng{bibnamehash}{2d96a2f62b4bbb53537515961aa451e3}
+      \strng{authorbibnamehash}{2d96a2f62b4bbb53537515961aa451e3}
+      \strng{authornamehash}{666a737c4707399728d32db590e42c1f}
+      \strng{authorfullhash}{2d96a2f62b4bbb53537515961aa451e3}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Background: Asymptomatic atrial fibrillation (AF) is increasingly common in the aging population and implicated in many ischemic strokes. Earlier identification of AF with appropriate anticoagulation may decrease stroke morbidity and mortality. Methods: We conducted a randomized controlled trial of AF screening using an AliveCor Kardia monitor attached to a WiFi-enabled iPod to obtain ECGs (iECGs) in ambulatory patients. Patients ≥65 years of age with a CHADS-VASc score ≥2 free from AF were randomized to the iECG arm or routine care (RC). iECG participants acquired iECGs twice weekly over 12 months (plus additional iECGs if symptomatic) onto a secure study server with overread by an automated AF detection algorithm and by a cardiac physiologist and/or consultant cardiologist. Time to diagnosis of AF was the primary outcome measure. The overall cost of the devices, ECG interpretation, and patient management were captured and used to generate the cost per AF diagnosis in iECG patients. Clinical events and patient attitudes/experience were also evaluated. Results: We studied 1001 patients (500 iECG, 501 RC) who were 72.6±5.4 years of age; 534 were female. Mean CHADS-VASc score was 3.0 (heart failure, 1.4\%; hypertension, 54\%; diabetes mellitus, 30\%; prior stroke/transient ischemic attack, 6.5\%; arterial disease, 15.9\%; all CHADS-VASc risk factors were evenly distributed between groups). Nineteen patients in the iECG group were diagnosed with AF over the 12-month study period versus 5 in the RC arm (hazard ratio, 3.9; 95\% confidence interval=1.4–10.4; P =0.007) at a cost per AF diagnosis of \$10 780 (£8255). There was a similar number of stroke/transient ischemic attack/systemic embolic events (6 versus 10, iECG versus RC; hazard ratio=0.61; 95\% confidence interval=0.22–1.69; P =0.34). The majority of iECG patients were satisfied with the device, finding it easy to use without restricting activities or causing anxiety. Conclusions: Screening with twice-weekly single-lead iECG with remote interpretation in ambulatory patients ≥65 years of age at increased risk of stroke is significantly more likely to identify incident AF than RC over a 12-month period. This approach is also highly acceptable to this group of patients, supporting further evaluation in an appropriately powered, event-driven clinical trial. Clinical Trial Registration: URL: https://www.isrctn.com . Unique identifier: ISRCTN10709813.}
+      \field{issn}{0009-7322, 1524-4539}
+      \field{journaltitle}{Circulation}
+      \field{month}{11}
+      \field{number}{19}
+      \field{shorttitle}{Assessment of {Remote} {Heart} {Rhythm} {Sampling} {Using} the {AliveCor} {Heart} {Monitor} to {Screen} for {Atrial} {Fibrillation}}
+      \field{title}{Assessment of {Remote} {Heart} {Rhythm} {Sampling} {Using} the {AliveCor} {Heart} {Monitor} to {Screen} for {Atrial} {Fibrillation}: {The} {REHEARSE}-{AF} {Study}}
+      \field{urlday}{25}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{volume}{136}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{1784\bibrangedash 1794}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1161/CIRCULATIONAHA.117.030583
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.117.030583
+      \endverb
+      \verb{url}
+      \verb https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.117.030583
+      \endverb
+    \endentry
+    \entry{HALEEM202370}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=ac64f478d5bbd373bdb223b8547d13de}{%
+           family={Haleem},
+           familyi={H\bibinitperiod},
+           given={Abid},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1e9e80fb5bc43df028d06eb40fe68a21}{%
+           family={Javaid},
+           familyi={J\bibinitperiod},
+           given={Mohd},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=be190e020a86a4a1dbc8bba3b05aab5b}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Ravi\bibnamedelima Pratap},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bdea3b1a4dd215f268474c41762736e5}{%
+           family={Rab},
+           familyi={R\bibinitperiod},
+           given={Shanay},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7fc6d2201e1460e83153ebd28815a882}{%
+           family={Suman},
+           familyi={S\bibinitperiod},
+           given={Rajiv},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c17336279aee2379200111ab52565c88}
+      \strng{fullhash}{5387e9c9d842dbb681947102ad383cce}
+      \strng{bibnamehash}{5387e9c9d842dbb681947102ad383cce}
+      \strng{authorbibnamehash}{5387e9c9d842dbb681947102ad383cce}
+      \strng{authornamehash}{c17336279aee2379200111ab52565c88}
+      \strng{authorfullhash}{5387e9c9d842dbb681947102ad383cce}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Nanotechnology has extensive application as nanomedicine in the medical field. Some nanoparticles have possible applications in novel diagnostic instruments, imagery and methodologies, targeted medicinal products, pharmaceutical products, biomedical implants, and tissue engineering. Today treatments of high toxicity can be administered with improved safety using nanotechnology, such as chemotherapeutic cancer drugs. Further, wearable gadgets can detect crucial changes in vital signs, cancer cell conditions, and infections that are genuinely happening in the body. We anticipate these technologies to provide doctors with considerably much better direct access to critical data on the reasons for changes in the signs of life or illness because of the technological presence at the source of the problem. Biomedicine can be utilised for therapies with predictive analytics and artificial intelligence. For carrying out this study, relevant papers on Nanotechnology in the medical field from Scopus, Google scholar, ResearchGate, and other research platforms are identified and studied. The study discusses different types of Nanoparticles used in the medical field. This paper discusses nanotechnology applications in the medical field. The class, features, and characteristics of Nanotechnology for medicine are also briefed. Scientists, governments, civil society organisations, and the general public will need to collaborate across sectors to assess the significance of nanotechnology and guide its advancement in various fields. The current research includes several possible Nanotechnology uses in the medical field. As a result, the study provides a brief and well-organised report on nanotechnology that should be valuable to researchers, engineers, and scientists for future research projects.}
+      \field{issn}{2414-6447}
+      \field{journaltitle}{Global Health Journal}
+      \field{number}{2}
+      \field{title}{Applications of nanotechnology in medical field: a brief review}
+      \field{volume}{7}
+      \field{year}{2023}
+      \field{pages}{70\bibrangedash 77}
+      \range{pages}{8}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.glohj.2023.02.008
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2414644723000337
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2414644723000337
+      \endverb
+      \keyw{Nanotechnology,Nanomedicine,Nanoparticles,Medical,Treatment}
+    \endentry
+    \entry{hussain_corodet_2021}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=cd540e3e310fc5f08b27865532a95366}{%
+           family={Hussain},
+           familyi={H\bibinitperiod},
+           given={Emtiaz},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fc15d2fb4681a5b7c98cb0e2cf09d8c8}{%
+           family={Hasan},
+           familyi={H\bibinitperiod},
+           given={Mahmudul},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=47d5141ab4709a5341bad553942c0d65}{%
+           family={Rahman},
+           familyi={R\bibinitperiod},
+           given={Md\bibnamedelima Anisur},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2a26e69cfdeb821a8799ba16cb71b531}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Ickjai},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=83b09656090fdfb0391866c992e61e12}{%
+           family={Tamanna},
+           familyi={T\bibinitperiod},
+           given={Tasmi},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=823f843d0ff859f8f6d371fa1fda6a70}{%
+           family={Parvez},
+           familyi={P\bibinitperiod},
+           given={Mohammad\bibnamedelima Zavid},
+           giveni={M\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{dcd1af8ee68d9fa682617cfc400f8b6a}
+      \strng{fullhash}{98c8dd8fab8b34af34222062d6529e4d}
+      \strng{bibnamehash}{98c8dd8fab8b34af34222062d6529e4d}
+      \strng{authorbibnamehash}{98c8dd8fab8b34af34222062d6529e4d}
+      \strng{authornamehash}{dcd1af8ee68d9fa682617cfc400f8b6a}
+      \strng{authorfullhash}{98c8dd8fab8b34af34222062d6529e4d}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{09600779}
+      \field{journaltitle}{Chaos, Solitons \& Fractals}
+      \field{month}{1}
+      \field{shorttitle}{{CoroDet}}
+      \field{title}{{CoroDet}: {A} deep learning based classification for {COVID}-19 detection using chest {X}-ray images}
+      \field{urlday}{4}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{volume}{142}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{110495}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.chaos.2020.110495
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0960077920308870
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0960077920308870
+      \endverb
+    \endentry
+    \entry{ismael_deep_2021}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=54c87b8f2cd0c0bc77df164847ae077e}{%
+           family={Ismael},
+           familyi={I\bibinitperiod},
+           given={Aras\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a8869797ee36f6a2bbca6dff6e362694}{%
+           family={Şengür},
+           familyi={Ş\bibinitperiod},
+           given={Abdulkadir},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{3e51b47e1ca4d589eed4f4e85b7bdbcf}
+      \strng{fullhash}{3e51b47e1ca4d589eed4f4e85b7bdbcf}
+      \strng{bibnamehash}{3e51b47e1ca4d589eed4f4e85b7bdbcf}
+      \strng{authorbibnamehash}{3e51b47e1ca4d589eed4f4e85b7bdbcf}
+      \strng{authornamehash}{3e51b47e1ca4d589eed4f4e85b7bdbcf}
+      \strng{authorfullhash}{3e51b47e1ca4d589eed4f4e85b7bdbcf}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{09574174}
+      \field{journaltitle}{Expert Systems with Applications}
+      \field{month}{2}
+      \field{title}{Deep learning approaches for {COVID}-19 detection based on chest {X}-ray images}
+      \field{urlday}{4}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{volume}{164}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{114054}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.eswa.2020.114054
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0957417420308198
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0957417420308198
+      \endverb
+    \endentry
+    \entry{lee_validation_2023}{article}{}
+      \name{author}{3}{}{%
+        {{un=1,uniquepart=given,hash=763bff7696b36c4875cccd2fdfebc5f6}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Kyu\bibnamedelima Hong},
+           giveni={K\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=21fb17580d3608cc34727ab371b886f7}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Ro\bibnamedelima Woon},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=d7ad58c898d05f6bbe708d9c85c8b9e9}{%
+           family={Kwon},
+           familyi={K\bibinitperiod},
+           given={Ye\bibnamedelima Eun},
+           giveni={Y\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{ee0c26b92fc7e91d99fd7c440d194a2e}
+      \strng{fullhash}{ee0c26b92fc7e91d99fd7c440d194a2e}
+      \strng{bibnamehash}{ee0c26b92fc7e91d99fd7c440d194a2e}
+      \strng{authorbibnamehash}{ee0c26b92fc7e91d99fd7c440d194a2e}
+      \strng{authornamehash}{ee0c26b92fc7e91d99fd7c440d194a2e}
+      \strng{authorfullhash}{ee0c26b92fc7e91d99fd7c440d194a2e}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This study evaluates the diagnostic accuracy and clinical utility of two artificial intelligence (AI) techniques: Kakao Brain Artificial Neural Network for Chest X-ray Reading (KARA-CXR), an assistive technology developed using large-scale AI and large language models (LLMs), and ChatGPT, a well-known LLM. The study was conducted to validate the performance of the two technologies in chest X-ray reading and explore their potential applications in the medical imaging diagnosis domain. The study methodology consisted of randomly selecting 2000 chest X-ray images from a single institution’s patient database, and two radiologists evaluated the readings provided by KARA-CXR and ChatGPT. The study used five qualitative factors to evaluate the readings generated by each model: accuracy, false findings, location inaccuracies, count inaccuracies, and hallucinations. Statistical analysis showed that KARA-CXR achieved significantly higher diagnostic accuracy compared to ChatGPT. In the ‘Acceptable’ accuracy category, KARA-CXR was rated at 70.50\% and 68.00\% by two observers, while ChatGPT achieved 40.50\% and 47.00\%. Interobserver agreement was moderate for both systems, with KARA at 0.74 and GPT4 at 0.73. For ‘False Findings’, KARA-CXR scored 68.00\% and 68.50\%, while ChatGPT scored 37.00\% for both observers, with high interobserver agreements of 0.96 for KARA and 0.97 for GPT4. In ‘Location Inaccuracy’ and ‘Hallucinations’, KARA-CXR outperformed ChatGPT with significant margins. KARA-CXR demonstrated a non-hallucination rate of 75\%, which is significantly higher than ChatGPT’s 38\%. The interobserver agreement was high for KARA (0.91) and moderate to high for GPT4 (0.85) in the hallucination category. In conclusion, this study demonstrates the potential of AI and large-scale language models in medical imaging and diagnostics. It also shows that in the chest X-ray domain, KARA-CXR has relatively higher accuracy than ChatGPT.}
+      \field{issn}{2075-4418}
+      \field{journaltitle}{Diagnostics}
+      \field{month}{12}
+      \field{number}{1}
+      \field{shorttitle}{Validation of a {Deep} {Learning} {Chest} {X}-ray {Interpretation} {Model}}
+      \field{title}{Validation of a {Deep} {Learning} {Chest} {X}-ray {Interpretation} {Model}: {Integrating} {Large}-{Scale} {AI} and {Large} {Language} {Models} for {Comparative} {Analysis} with {ChatGPT}}
+      \field{urlday}{4}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{volume}{14}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \field{pages}{90}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/diagnostics14010090
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2075-4418/14/1/90
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2075-4418/14/1/90
+      \endverb
+    \endentry
+    \entry{mahara_revolutionising_2023}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=745ca6595d595ac220965f45bbdadebb}{%
+           family={Mahara},
+           familyi={M\bibinitperiod},
+           given={Gehendra},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38d2b5755bdd835f002a42f12d8523ba}{%
+           family={Tian},
+           familyi={T\bibinitperiod},
+           given={Cuihong},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0de405dcb09b655c3bd03588c671f6d2}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Xiaojia},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f27ec46ccd272a021fd78bdac92dd490}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c3a7f61d5b01ee879b447557116a2053}
+      \strng{fullhash}{2230114e27c08a1b442413f82404e1e8}
+      \strng{bibnamehash}{2230114e27c08a1b442413f82404e1e8}
+      \strng{authorbibnamehash}{2230114e27c08a1b442413f82404e1e8}
+      \strng{authornamehash}{c3a7f61d5b01ee879b447557116a2053}
+      \strng{authorfullhash}{2230114e27c08a1b442413f82404e1e8}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{2047-2978, 2047-2986}
+      \field{journaltitle}{Journal of Global Health}
+      \field{month}{8}
+      \field{shorttitle}{Revolutionising health care}
+      \field{title}{Revolutionising health care: {Exploring} the latest advances in medical sciences}
+      \field{urlday}{25}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{volume}{13}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \field{pages}{03042}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.7189/jogh.13.03042
+      \endverb
+      \verb{urlraw}
+      \verb https://jogh.org/2023/jogh-13-03042
+      \endverb
+      \verb{url}
+      \verb https://jogh.org/2023/jogh-13-03042
+      \endverb
+    \endentry
+    \entry{sezer_application_2020}{inbook}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c4b58d8dbe7ddab513e52d059c40d694}{%
+           family={Nayak},
+           familyi={N\bibinitperiod},
+           given={Smita},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5316a29a8ca997e9d2bde02b9fff2053}{%
+           family={Kumar\bibnamedelima Das},
+           familyi={K\bibinitperiod\bibinitdelim D\bibinitperiod},
+           given={Rajesh},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=bb8e1735f3a050a8cc87e06f2ffb5a47}{%
+           family={Sezer},
+           familyi={S\bibinitperiod},
+           given={Volkan},
+           giveni={V\bibinitperiod}}}%
+        {{hash=617f41b2b13ea5919f42267c3f593ebb}{%
+           family={Öncü},
+           familyi={Ö\bibinitperiod},
+           given={Sinan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9f6093b488d1ab6888111e3de2814d95}{%
+           family={Boyraz\bibnamedelima Baykas},
+           familyi={B\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Pınar},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {IntechOpen}%
+      }
+      \strng{namehash}{601c7ee643ec77dfb9aed3bf447a831b}
+      \strng{fullhash}{601c7ee643ec77dfb9aed3bf447a831b}
+      \strng{bibnamehash}{601c7ee643ec77dfb9aed3bf447a831b}
+      \strng{authorbibnamehash}{601c7ee643ec77dfb9aed3bf447a831b}
+      \strng{authornamehash}{601c7ee643ec77dfb9aed3bf447a831b}
+      \strng{authorfullhash}{601c7ee643ec77dfb9aed3bf447a831b}
+      \strng{editorbibnamehash}{f2f3abf3b9202567b0ef44f442c08322}
+      \strng{editornamehash}{f2f3abf3b9202567b0ef44f442c08322}
+      \strng{editorfullhash}{f2f3abf3b9202567b0ef44f442c08322}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Technological integration of Artificial Intelligence (AI) and machine learning in the Prosthetic and Orthotic industry and in the field of assistive technology has become boon for the Persons with Disabilities. The concept of neural network has been used by the leading manufacturers of rehabilitation aids for simulating various anatomical and biomechanical functions of the lost parts of the human body. The involvement of human interaction with various agents’ i.e. electronic circuitry, software, robotics, etc. has made a revolutionary impact in the rehabilitation field to develop devices like Bionic leg, mind or thought control prosthesis and exoskeletons. Application of Artificial Intelligence and robotics technology has a huge impact in achieving independent mobility and enhances the quality of life in Persons with Disabilities (PwDs).}
+      \field{booktitle}{Service {Robotics}}
+      \field{isbn}{9781789844283 9781789844290}
+      \field{month}{11}
+      \field{title}{Application of {Artificial} {Intelligence} ({AI}) in {Prosthetic} and {Orthotic} {Rehabilitation}}
+      \field{urlday}{25}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.5772/intechopen.93903
+      \endverb
+      \verb{urlraw}
+      \verb https://www.intechopen.com/books/service-robotics/application-of-artificial-intelligence-ai-in-prosthetic-and-orthotic-rehabilitation
+      \endverb
+      \verb{url}
+      \verb https://www.intechopen.com/books/service-robotics/application-of-artificial-intelligence-ai-in-prosthetic-and-orthotic-rehabilitation
+      \endverb
+    \endentry
+    \entry{rajaraman_pre-trained_2018}{article}{}
+      \name{author}{8}{ul=2}{%
+        {{un=0,uniquepart=base,hash=31ef56eb33fe35570aea0f69ad1abe2c}{%
+           family={Rajaraman},
+           familyi={R\bibinitperiod},
+           given={Sivaramakrishnan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4601680a4f098cc62bbf8cbe1097ccd9}{%
+           family={Antani},
+           familyi={A\bibinitperiod},
+           given={Sameer\bibnamedelima K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b8688890fa8278851b9b01cd5af43278}{%
+           family={Poostchi},
+           familyi={P\bibinitperiod},
+           given={Mahdieh},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6d5965f92d71c8afd5aa054c6eac757c}{%
+           family={Silamut},
+           familyi={S\bibinitperiod},
+           given={Kamolrat},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0fa036cee161d8f0fe3810d3aef8dfa3}{%
+           family={Hossain},
+           familyi={H\bibinitperiod},
+           given={Md.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=80455c928c664de57ebdc8c09bfbe647}{%
+           family={Maude},
+           familyi={M\bibinitperiod},
+           given={Richard\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9dbcfe1201b57e0366cba35ad188fc39}{%
+           family={Jaeger},
+           familyi={J\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f9fd180fb96277185990c0be5fb2d382}{%
+           family={Thoma},
+           familyi={T\bibinitperiod},
+           given={George\bibnamedelima R.},
+           giveni={G\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{cd324fe81622f0f66a0d2ca2b7b5f8dd}
+      \strng{fullhash}{a974c4412c2df07179adce34776d70e4}
+      \strng{bibnamehash}{a974c4412c2df07179adce34776d70e4}
+      \strng{authorbibnamehash}{a974c4412c2df07179adce34776d70e4}
+      \strng{authornamehash}{cd324fe81622f0f66a0d2ca2b7b5f8dd}
+      \strng{authorfullhash}{a974c4412c2df07179adce34776d70e4}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Malaria is a blood disease caused by the Plasmodium parasites transmitted through the bite of female Anopheles mosquito. Microscopists commonly examine thick and thin blood smears to diagnose disease and compute parasitemia. However, their accuracy depends on smear quality and expertise in classifying and counting parasitized and uninfected cells. Such an examination could be arduous for large-scale diagnoses resulting in poor quality. State-of-the-art image-analysis based computer-aided diagnosis (CADx) methods using machine learning (ML) techniques, applied to microscopic images of the smears using hand-engineered features demand expertise in analyzing morphological, textural, and positional variations of the region of interest (ROI). In contrast, Convolutional Neural Networks (CNN), a class of deep learning (DL) models promise highly scalable and superior results with end-to-end feature extraction and classification. Automated malaria screening using DL techniques could, therefore, serve as an effective diagnostic aid. In this study, we evaluate the performance of pre-trained CNN based DL models as feature extractors toward classifying parasitized and uninfected cells to aid in improved disease screening. We experimentally determine the optimal model layers for feature extraction from the underlying data. Statistical validation of the results demonstrates the use of pre-trained CNNs as a promising tool for feature extraction for this purpose.}
+      \field{issn}{2167-8359}
+      \field{journaltitle}{PeerJ}
+      \field{month}{4}
+      \field{title}{Pre-trained convolutional neural networks as feature extractors toward improved malaria parasite detection in thin blood smear images}
+      \field{urlday}{4}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{volume}{6}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{e4568}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.7717/peerj.4568
+      \endverb
+      \verb{urlraw}
+      \verb https://peerj.com/articles/4568
+      \endverb
+      \verb{url}
+      \verb https://peerj.com/articles/4568
+      \endverb
+    \endentry
+    \entry{rajaraman_visualization_2018}{article}{}
+      \name{author}{5}{ul=2}{%
+        {{un=0,uniquepart=base,hash=31ef56eb33fe35570aea0f69ad1abe2c}{%
+           family={Rajaraman},
+           familyi={R\bibinitperiod},
+           given={Sivaramakrishnan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=361748512c66f81b646143444d376ace}{%
+           family={Candemir},
+           familyi={C\bibinitperiod},
+           given={Sema},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eb62b48f89ef4566490b74df2d896428}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Incheol},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c7f0eabd299c5b9fbb6a38d35523440f}{%
+           family={Thoma},
+           familyi={T\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2dbaa1a2302cf67c0d7b29a644ab8457}{%
+           family={Antani},
+           familyi={A\bibinitperiod},
+           given={Sameer},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{ca0e0e607c7cecfba29ce13daf9a5adc}
+      \strng{fullhash}{37e098561b2b229847a4a95b6b57f3f7}
+      \strng{bibnamehash}{37e098561b2b229847a4a95b6b57f3f7}
+      \strng{authorbibnamehash}{37e098561b2b229847a4a95b6b57f3f7}
+      \strng{authornamehash}{ca0e0e607c7cecfba29ce13daf9a5adc}
+      \strng{authorfullhash}{37e098561b2b229847a4a95b6b57f3f7}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Pneumonia affects 7\% of the global population, resulting in 2 million pediatric deaths every year. Chest X-ray (CXR) analysis is routinely performed to diagnose the disease. Computer-aided diagnostic (CADx) tools aim to supplement decision-making. These tools process the handcrafted and/or convolutional neural network (CNN) extracted image features for visual recognition. However, CNNs are perceived as black boxes since their performance lack explanations. This is a serious bottleneck in applications involving medical screening/diagnosis since poorly interpreted model behavior could adversely affect the clinical decision. In this study, we evaluate, visualize, and explain the performance of customized CNNs to detect pneumonia and further differentiate between bacterial and viral types in pediatric CXRs. We present a novel visualization strategy to localize the region of interest (ROI) that is considered relevant for model predictions across all the inputs that belong to an expected class. We statistically validate the models' performance toward the underlying tasks. We observe that the customized VGG16 model achieves 96.2\% and 93.6\% accuracy in detecting the disease and distinguishing between bacterial and viral pneumonia respectively. The model outperforms the state-of-the-art in all performance metrics and demonstrates reduced bias and improved generalization.}
+      \field{issn}{2076-3417}
+      \field{journaltitle}{Applied Sciences (Basel, Switzerland)}
+      \field{month}{10}
+      \field{number}{10}
+      \field{title}{Visualization and {Interpretation} of {Convolutional} {Neural} {Network} {Predictions} in {Detecting} {Pneumonia} in {Pediatric} {Chest} {Radiographs}}
+      \field{volume}{8}
+      \field{year}{2018}
+      \field{pages}{1715}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/app8101715
+      \endverb
+      \keyw{chest X-rays,clinical decision,computer vision,computer-aided diagnosis,convolutional neural networks,explanation,pediatric,pneumonia,visualization}
+    \endentry
+    \entry{lidstromer_artificial_2021}{inbook}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ff003b3cd766a84e4f60d17699a0514c}{%
+           family={Richens},
+           familyi={R\bibinitperiod},
+           given={Jonathan\bibnamedelima G.},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=58072deb291c58e4c7b009d11690104b}{%
+           family={Buchard},
+           familyi={B\bibinitperiod},
+           given={Albert},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=04687f07157342c0b4b4664a1dd81d85}{%
+           family={Lidströmer},
+           familyi={L\bibinitperiod},
+           given={Niklas},
+           giveni={N\bibinitperiod}}}%
+        {{hash=1e68fafd7bdaef4e83ad1edfc6521f77}{%
+           family={Ashrafian},
+           familyi={A\bibinitperiod},
+           given={Hutan},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{808afcc39f15e82cab9b6f58b5dc1eb7}
+      \strng{fullhash}{808afcc39f15e82cab9b6f58b5dc1eb7}
+      \strng{bibnamehash}{808afcc39f15e82cab9b6f58b5dc1eb7}
+      \strng{authorbibnamehash}{808afcc39f15e82cab9b6f58b5dc1eb7}
+      \strng{authornamehash}{808afcc39f15e82cab9b6f58b5dc1eb7}
+      \strng{authorfullhash}{808afcc39f15e82cab9b6f58b5dc1eb7}
+      \strng{editorbibnamehash}{0ce127589e6a658221ffe1f9424f494a}
+      \strng{editornamehash}{0ce127589e6a658221ffe1f9424f494a}
+      \strng{editorfullhash}{0ce127589e6a658221ffe1f9424f494a}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Artificial {Intelligence} in {Medicine}}
+      \field{isbn}{9783030580803}
+      \field{title}{Artificial {Intelligence} for {Medical} {Diagnosis}}
+      \field{urlday}{25}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 21}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1007/978-3-030-58080-3_29-1
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/10.1007/978-3-030-58080-3_29-1
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/10.1007/978-3-030-58080-3_29-1
+      \endverb
+    \endentry
+    \entry{thacharodi_revolutionizing_2024}{article}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=956f04c49c754b080755ead1868cd626}{%
+           family={Thacharodi},
+           familyi={T\bibinitperiod},
+           given={Aswin},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1c2dcf2c68fa513939585c5a96f15dc2}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Prabhakar},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c0e6d741eae30038a16ef0ebd904e087}{%
+           family={Meenatchi},
+           familyi={M\bibinitperiod},
+           given={Ramu},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3c247a67dad8fb63be1789cc960943b1}{%
+           family={Tawfeeq\bibnamedelima Ahmed},
+           familyi={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Z.\bibnamedelimi H.},
+           giveni={Z\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f8f62e9e211bb6ad58188cbe616431fa}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Rejith\bibnamedelimb R.\bibnamedelimi S.},
+           giveni={R\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2f475a3cef9ee240871899ff4cf4d7b2}{%
+           family={V},
+           familyi={V\bibinitperiod},
+           given={Neha},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3e57fe1d5cda0b9a9a21cdd3c3de2b2b}{%
+           family={Kavish},
+           familyi={K\bibinitperiod},
+           given={Sanjana},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=11bd4d0affc0a84c684abaa682bf1e7c}{%
+           family={Maqbool},
+           familyi={M\bibinitperiod},
+           given={Mohsin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ffccc7e438e5b1b1a8dc02fb32cb561}{%
+           family={Hassan},
+           familyi={H\bibinitperiod},
+           given={Saqib},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{b179aa5b909e6d37f3cd88e127443e13}
+      \strng{fullhash}{b47e882d3e5c7240563f7d2fa9093ef2}
+      \strng{bibnamehash}{b47e882d3e5c7240563f7d2fa9093ef2}
+      \strng{authorbibnamehash}{b47e882d3e5c7240563f7d2fa9093ef2}
+      \strng{authornamehash}{b179aa5b909e6d37f3cd88e127443e13}
+      \strng{authorfullhash}{b47e882d3e5c7240563f7d2fa9093ef2}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Abstract The increasing integration of new technologies is driving a fundamental revolution in the healthcare sector. Developments in artificial intelligence (AI), machine learning, and big data analytics have completely transformed the diagnosis, treatment, and care of patients. AI‐powered solutions are enhancing the efficiency and accuracy of healthcare delivery by demonstrating exceptional skills in personalized medicine, early disease detection, and predictive analytics. Furthermore, telemedicine and remote patient monitoring systems have overcome geographical constraints, offering easy and accessible healthcare services, particularly in underserved areas. Wearable technology, the Internet of Medical Things, and sensor technologies have empowered individuals to take an active role in tracking and managing their health. These devices facilitate real‐time data collection, enabling preventive and personalized care. Additionally, the development of 3D printing technology has revolutionized the medical field by enabling the production of customized prosthetics, implants, and anatomical models, significantly impacting surgical planning and treatment strategies. Accepting these advancements holds the potential to create a more patient‐centered, efficient healthcare system that emphasizes individualized care, preventive care, and better overall health outcomes. This review's novelty lies in exploring how these technologies are radically transforming the healthcare industry, paving the way for a more personalized and effective healthcare for all. It highlights the capacity of modern technology to revolutionize healthcare delivery by addressing long‐standing challenges and improving health outcomes. Although the approval and use of digital technology and advanced data analysis face scientific and regulatory obstacles, they have the potential for transforming translational research. as these technologies continue to evolve, they are poised to significantly alter the healthcare environment, offering a more sustainable, efficient, and accessible healthcare ecosystem for future generations. Innovation across multiple fronts will shape the future of advanced healthcare technology, revolutionizing the provision of healthcare, enhancing patient outcomes, and equipping both patients and healthcare professionals with the tools to make better decisions and receive personalized treatment. As these technologies continue to develop and become integrated into standard healthcare practices, the future of healthcare will probably be more accessible, effective, and efficient than ever before.}
+      \field{issn}{2771-1749, 2771-1757}
+      \field{journaltitle}{Health Care Science}
+      \field{month}{10}
+      \field{number}{5}
+      \field{shorttitle}{Revolutionizing healthcare and medicine}
+      \field{title}{Revolutionizing healthcare and medicine: {The} impact of modern technologies for a healthier future—{A} comprehensive review}
+      \field{urlday}{25}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{volume}{3}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \field{pages}{329\bibrangedash 349}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1002/hcs2.115
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/hcs2.115
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/hcs2.115
+      \endverb
+    \endentry
+    \entry{topalovic_artificial_2019}{article}{}
+      \name{author}{18}{}{%
+        {{un=0,uniquepart=base,hash=cf9038af49bd80c41855142a107803a7}{%
+           family={Topalovic},
+           familyi={T\bibinitperiod},
+           given={Marko},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ecf76aae2219c1a33af868ae80722ae}{%
+           family={Das},
+           familyi={D\bibinitperiod},
+           given={Nilakash},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ff199e88d731828a79f5f20f0dfc33d4}{%
+           family={Burgel},
+           familyi={B\bibinitperiod},
+           given={Pierre-Régis},
+           giveni={P\bibinithyphendelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=829cb2c84b8be14133374c0fe8432ad1}{%
+           family={Daenen},
+           familyi={D\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ea0a2372f0e299f6d07c562cc7ceda33}{%
+           family={Derom},
+           familyi={D\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b4655d333d6cbb99cac426c5301adf71}{%
+           family={Haenebalcke},
+           familyi={H\bibinitperiod},
+           given={Christel},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=868026c5b2a2f315c8a44f0b43011950}{%
+           family={Janssen},
+           familyi={J\bibinitperiod},
+           given={Rob},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d507257120e0a0ae32365fb7179769bd}{%
+           family={Kerstjens},
+           familyi={K\bibinitperiod},
+           given={Huib\bibnamedelima A.M.},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=87a344f47d951625d061cfebf39766e3}{%
+           family={Liistro},
+           familyi={L\bibinitperiod},
+           given={Giuseppe},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=36a05e57f9f8248d342b2e96684e849a}{%
+           family={Louis},
+           familyi={L\bibinitperiod},
+           given={Renaud},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c0d3fc80ce2b459471744b6a63ffe9a}{%
+           family={Ninane},
+           familyi={N\bibinitperiod},
+           given={Vincent},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a2f192d5953c5a89b9538184baedc7dc}{%
+           family={Pison},
+           familyi={P\bibinitperiod},
+           given={Christophe},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0ec0b0abdeb88648e3cb9831de3701ef}{%
+           family={Schlesser},
+           familyi={S\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f43a627cdb4425c1db9e28444e3eff83}{%
+           family={Vercauter},
+           familyi={V\bibinitperiod},
+           given={Piet},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3d6d01d085666d59d8330e9e3735fc4e}{%
+           family={Vogelmeier},
+           familyi={V\bibinitperiod},
+           given={Claus\bibnamedelima F.},
+           giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c1ecf2b976e9096f4458e8bb7ea02672}{%
+           family={Wouters},
+           familyi={W\bibinitperiod},
+           given={Emiel},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=013074bd59fe2a2df465cd767c9e5ad4}{%
+           family={Wynants},
+           familyi={W\bibinitperiod},
+           given={Jokke},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cb785027a316116f83943e0214e021ec}{%
+           family={Janssens},
+           familyi={J\bibinitperiod},
+           given={Wim},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{14a9a7b574f9d1bb6c1984812de73d71}
+      \strng{fullhash}{960873fa1b144723aea9793be437f140}
+      \strng{bibnamehash}{960873fa1b144723aea9793be437f140}
+      \strng{authorbibnamehash}{960873fa1b144723aea9793be437f140}
+      \strng{authornamehash}{14a9a7b574f9d1bb6c1984812de73d71}
+      \strng{authorfullhash}{960873fa1b144723aea9793be437f140}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The interpretation of pulmonary function tests (PFTs) to diagnose respiratory diseases is built on expert opinion that relies on the recognition of patterns and the clinical context for detection of specific diseases. In this study, we aimed to explore the accuracy and interrater variability of pulmonologists when interpreting PFTs compared with artificial intelligence (AI)-based software that was developed and validated in more than 1500 historical patient cases. 120 pulmonologists from 16 European hospitals evaluated 50 cases with PFT and clinical information, resulting in 6000 independent interpretations. The AI software examined the same data. American Thoracic Society/European Respiratory Society guidelines were used as the gold standard for PFT pattern interpretation. The gold standard for diagnosis was derived from clinical history, PFT and all additional tests. The pattern recognition of PFTs by pulmonologists (senior 73\%, junior 27\%) matched the guidelines in 74.4±5.9\% of the cases (range 56–88\%). The interrater variability of κ=0.67 pointed to a common agreement. Pulmonologists made correct diagnoses in 44.6±8.7\% of the cases (range 24–62\%) with a large interrater variability (κ=0.35). The AI-based software perfectly matched the PFT pattern interpretations (100\%) and assigned a correct diagnosis in 82\% of all cases (p{<}0.0001 for both measures). The interpretation of PFTs by pulmonologists leads to marked variations and errors. AI-based software provides more accurate interpretations and may serve as a powerful decision support tool to improve clinical practice.}
+      \field{issn}{0903-1936, 1399-3003}
+      \field{journaltitle}{European Respiratory Journal}
+      \field{month}{4}
+      \field{number}{4}
+      \field{title}{Artificial intelligence outperforms pulmonologists in the interpretation of pulmonary function tests}
+      \field{urlday}{25}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{volume}{53}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{1801660}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1183/13993003.01660-2018
+      \endverb
+      \verb{urlraw}
+      \verb https://publications.ersnet.org/lookup/doi/10.1183/13993003.01660-2018
+      \endverb
+      \verb{url}
+      \verb https://publications.ersnet.org/lookup/doi/10.1183/13993003.01660-2018
+      \endverb
+    \endentry
+    \entry{yang_application_2019}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=cee9331bf65fef655ae4123fd24db499}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Young\bibnamedelima Joo},
+           giveni={Y\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4f5d0cc610f5a694712993f179536b2b}{%
+           family={Bang},
+           familyi={B\bibinitperiod},
+           given={Chang\bibnamedelima Seok},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7d1533e9f4281308eff868c370897ca8}
+      \strng{fullhash}{7d1533e9f4281308eff868c370897ca8}
+      \strng{bibnamehash}{7d1533e9f4281308eff868c370897ca8}
+      \strng{authorbibnamehash}{7d1533e9f4281308eff868c370897ca8}
+      \strng{authornamehash}{7d1533e9f4281308eff868c370897ca8}
+      \strng{authorfullhash}{7d1533e9f4281308eff868c370897ca8}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1007-9327}
+      \field{journaltitle}{World Journal of Gastroenterology}
+      \field{month}{4}
+      \field{number}{14}
+      \field{title}{Application of artificial intelligence in gastroenterology}
+      \field{urlday}{25}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{volume}{25}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{1666\bibrangedash 1683}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.3748/wjg.v25.i14.1666
+      \endverb
+      \verb{urlraw}
+      \verb https://www.wjgnet.com/1007-9327/full/v25/i14/1666.htm
+      \endverb
+      \verb{url}
+      \verb https://www.wjgnet.com/1007-9327/full/v25/i14/1666.htm
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{alonso_predictive_2019}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=6ed437672715faec24e1afcc22ab017d}{%
+           family={Alonso},
+           familyi={A\bibinitperiod},
+           given={Susel\bibnamedelima Góngora},
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=86522c193e7ce6586d3b6e52f3d48aab}{%
+           family={De\bibnamedelima La\bibnamedelimb Torre\bibnamedelima Díez},
+           familyi={D\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim D\bibinitperiod},
+           given={Isabel},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=99a51cfefe6c853c0b43b755acb528c0}{%
+           family={Zapiraín},
+           familyi={Z\bibinitperiod},
+           given={Begoña\bibnamedelima García},
+           giveni={B\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{d9506a6e33cf13d5203308e57f0efb0d}
+      \strng{fullhash}{d9506a6e33cf13d5203308e57f0efb0d}
+      \strng{bibnamehash}{d9506a6e33cf13d5203308e57f0efb0d}
+      \strng{authorbibnamehash}{d9506a6e33cf13d5203308e57f0efb0d}
+      \strng{authornamehash}{d9506a6e33cf13d5203308e57f0efb0d}
+      \strng{authorfullhash}{d9506a6e33cf13d5203308e57f0efb0d}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0148-5598, 1573-689X}
+      \field{journaltitle}{Journal of Medical Systems}
+      \field{month}{5}
+      \field{number}{5}
+      \field{title}{Predictive, {Personalized}, {Preventive} and {Participatory} ({4P}) {Medicine} {Applied} to {Telemedicine} and {eHealth} in the {Literature}}
+      \field{urlday}{25}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{volume}{43}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{140}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1007/s10916-019-1279-4
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/s10916-019-1279-4
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s10916-019-1279-4
+      \endverb
+    \endentry
+    \entry{amisha_overview_2019}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=5095f3097670c1f4c11e58d4b45c8da6}{%
+           family={{Amisha}},
+           familyi={A\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=c628b795f2f5ac98cf3d7dfd410537e8}{%
+           family={Malik},
+           familyi={M\bibinitperiod},
+           given={Paras},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e4d74f67202becae10768635938f933f}{%
+           family={Pathania},
+           familyi={P\bibinitperiod},
+           given={Monika},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4bfcb3c8877533f827c78769d341d555}{%
+           family={Rathaur},
+           familyi={R\bibinitperiod},
+           given={VyasKumar},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{1a23af17c89c461b12cfd9b76373a20c}
+      \strng{fullhash}{2658b46ae008669e81690910d79487cf}
+      \strng{bibnamehash}{2658b46ae008669e81690910d79487cf}
+      \strng{authorbibnamehash}{2658b46ae008669e81690910d79487cf}
+      \strng{authornamehash}{1a23af17c89c461b12cfd9b76373a20c}
+      \strng{authorfullhash}{2658b46ae008669e81690910d79487cf}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2249-4863}
+      \field{journaltitle}{Journal of Family Medicine and Primary Care}
+      \field{number}{7}
+      \field{title}{Overview of artificial intelligence in medicine}
+      \field{urlday}{25}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{volume}{8}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{2328}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.4103/jfmpc.jfmpc_440_19
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.lww.com/10.4103/jfmpc.jfmpc_440_19
+      \endverb
+      \verb{url}
+      \verb https://journals.lww.com/10.4103/jfmpc.jfmpc_440_19
+      \endverb
+    \endentry
+    \entry{briganti_artificial_2020}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7736116bfbe481055b20f864d03dbddf}{%
+           family={Briganti},
+           familyi={B\bibinitperiod},
+           given={Giovanni},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f6c38566f7f1b8a84824182b638a7cf4}{%
+           family={Le\bibnamedelima Moine},
+           familyi={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Olivier},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{eba06849d8304f4e0abc56d8e8a50632}
+      \strng{fullhash}{eba06849d8304f4e0abc56d8e8a50632}
+      \strng{bibnamehash}{eba06849d8304f4e0abc56d8e8a50632}
+      \strng{authorbibnamehash}{eba06849d8304f4e0abc56d8e8a50632}
+      \strng{authornamehash}{eba06849d8304f4e0abc56d8e8a50632}
+      \strng{authorfullhash}{eba06849d8304f4e0abc56d8e8a50632}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{2296-858X}
+      \field{journaltitle}{Frontiers in Medicine}
+      \field{month}{2}
+      \field{shorttitle}{Artificial {Intelligence} in {Medicine}}
+      \field{title}{Artificial {Intelligence} in {Medicine}: {Today} and {Tomorrow}}
+      \field{urlday}{25}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{volume}{7}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{27}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3389/fmed.2020.00027
+      \endverb
+      \verb{urlraw}
+      \verb https://www.frontiersin.org/article/10.3389/fmed.2020.00027/full
+      \endverb
+      \verb{url}
+      \verb https://www.frontiersin.org/article/10.3389/fmed.2020.00027/full
+      \endverb
+    \endentry
+    \entry{CHAPMAN20153}{inbook}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=676fddb2c068acb5fa291bd947b0f752}{%
+           family={Chapman},
+           familyi={C\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a8d90d53f2963fa07818558d2ee95dcc}{%
+           family={Larsson},
+           familyi={L\bibinitperiod},
+           given={Erik},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a19e40bc3e2522e0b58f8fa93eef2531}{%
+           family={{von Wrycza}},
+           familyi={v\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c1425aaee0afa76c292fafe3a41c285}{%
+           family={Dahlman},
+           familyi={D\bibinitperiod},
+           given={Erik},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=259271b16e241470190e543b84a60792}{%
+           family={Parkvall},
+           familyi={P\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=06ff1c9a06acec2be99fba0941521e8a}{%
+           family={Sköld},
+           familyi={S\bibinitperiod},
+           given={Johan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{6}{}{%
+        {{hash=676fddb2c068acb5fa291bd947b0f752}{%
+           family={Chapman},
+           familyi={C\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=a8d90d53f2963fa07818558d2ee95dcc}{%
+           family={Larsson},
+           familyi={L\bibinitperiod},
+           given={Erik},
+           giveni={E\bibinitperiod}}}%
+        {{hash=a19e40bc3e2522e0b58f8fa93eef2531}{%
+           family={{von Wrycza}},
+           familyi={v\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=0c1425aaee0afa76c292fafe3a41c285}{%
+           family={Dahlman},
+           familyi={D\bibinitperiod},
+           given={Erik},
+           giveni={E\bibinitperiod}}}%
+        {{hash=259271b16e241470190e543b84a60792}{%
+           family={Parkvall},
+           familyi={P\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=06ff1c9a06acec2be99fba0941521e8a}{%
+           family={Sköld},
+           familyi={S\bibinitperiod},
+           given={Johan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{e558fad337637b22e2546544e4a86b78}
+      \strng{fullhash}{64095d80473c2ede80003117dc94f3b3}
+      \strng{bibnamehash}{64095d80473c2ede80003117dc94f3b3}
+      \strng{authorbibnamehash}{64095d80473c2ede80003117dc94f3b3}
+      \strng{authornamehash}{e558fad337637b22e2546544e4a86b78}
+      \strng{authorfullhash}{64095d80473c2ede80003117dc94f3b3}
+      \strng{editorbibnamehash}{64095d80473c2ede80003117dc94f3b3}
+      \strng{editornamehash}{e558fad337637b22e2546544e4a86b78}
+      \strng{editorfullhash}{64095d80473c2ede80003117dc94f3b3}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This introductory chapter provides an overview of the research and standardization background behind today’s HSPA technologies. A review of WCDMA development and standardization is provided in order for the reader to understand the framework upon which the 3G specifications have been built. This is followed by an insight into the workings of the standardization organizations that relate to WCDMA and HSPA, in particular 3GPP and ITU. The motivations and constraints behind the continuing evolution of HSPA are reviewed. This provides the reader with a framework with which to understand the drivers and processes behind the evolution features described in Part III of the book. In addition, a brief insight into the spectrum allocations and availability for HSPA is given.}
+      \field{booktitle}{HSPA Evolution}
+      \field{isbn}{978-0-08-099969-2}
+      \field{title}{Chapter 1 - From 3G to 4G: background and motivation of 3G evolution}
+      \field{year}{2015}
+      \field{pages}{3\bibrangedash 20}
+      \range{pages}{18}
+      \verb{doi}
+      \verb https://doi.org/10.1016/B978-0-08-099969-2.00001-6
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/B9780080999692000016
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/B9780080999692000016
+      \endverb
+      \keyw{WCDMA,HSPA,3GPP,ITU,3G,HSDPA,HSUPA,GSM,LTE,UTRA,ACTS,FRAMES,ETSI,ARIB,IMT}
+    \endentry
+    \entry{das_collaboration_2023}{article}{}
+      \name{author}{23}{}{%
+        {{un=0,uniquepart=base,hash=2ecf76aae2219c1a33af868ae80722ae}{%
+           family={Das},
+           familyi={D\bibinitperiod},
+           given={Nilakash},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=404c4479666f6720fa279dfe1dfdc354}{%
+           family={Happaerts},
+           familyi={H\bibinitperiod},
+           given={Sofie},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=90c894b4b35861412f090ebd0242e622}{%
+           family={Gyselinck},
+           familyi={G\bibinitperiod},
+           given={Iwein},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0bc384b24d3bd9d2e503137348c2cc87}{%
+           family={Staes},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ea0a2372f0e299f6d07c562cc7ceda33}{%
+           family={Derom},
+           familyi={D\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1cc3916eba97d89f566dbb61f5a284a2}{%
+           family={Brusselle},
+           familyi={B\bibinitperiod},
+           given={Guy},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8e0a9bafc320965785676ba790226c9d}{%
+           family={Burgos},
+           familyi={B\bibinitperiod},
+           given={Felip},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=81ee405a616ecd55f0e4c4d2f57e2ebe}{%
+           family={Contoli},
+           familyi={C\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ad1dfc8e891112703b5ffe8d734fee3}{%
+           family={Dinh-Xuan},
+           familyi={D\bibinithyphendelim X\bibinitperiod},
+           given={Anh\bibnamedelima Tuan},
+           giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4fdc1358b5fbeb6b3b1b37953cf0cf96}{%
+           family={Franssen},
+           familyi={F\bibinitperiod},
+           given={Frits\bibnamedelima M.E.},
+           giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0608a44eda2247cb3b3335cb0e8631ba}{%
+           family={Gonem},
+           familyi={G\bibinitperiod},
+           given={Sherif},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6293ca829a40b03a07398c8f09548343}{%
+           family={Greening},
+           familyi={G\bibinitperiod},
+           given={Neil},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b4655d333d6cbb99cac426c5301adf71}{%
+           family={Haenebalcke},
+           familyi={H\bibinitperiod},
+           given={Christel},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=274c9413eb4bdbeab8c290c6f892c109}{%
+           family={Man},
+           familyi={M\bibinitperiod},
+           given={William\bibnamedelima D-C.},
+           giveni={W\bibinitperiod\bibinitdelim D\bibinithyphendelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=accfff1b988f6e76267086c1a0aaa553}{%
+           family={Moisés},
+           familyi={M\bibinitperiod},
+           given={Jorge},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fd29505ecf8b25e88b101d104b6b4e92}{%
+           family={Peché},
+           familyi={P\bibinitperiod},
+           given={Rudi},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d2a66c9c1527eace73532d49783efbf0}{%
+           family={Poberezhets},
+           familyi={P\bibinitperiod},
+           given={Vitalii},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1cde94d91270a39ee7f8adaf56531523}{%
+           family={Quint},
+           familyi={Q\bibinitperiod},
+           given={Jennifer\bibnamedelima K.},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5c3a0786d6f1b15ad60e1c178c966fb8}{%
+           family={Steiner},
+           familyi={S\bibinitperiod},
+           given={Michael\bibnamedelima C.},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ec67b225eec9415abc4215d40585e5bf}{%
+           family={Vanderhelst},
+           familyi={V\bibinitperiod},
+           given={Eef},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=83f4deb12f018c268a3a945c0a1d57f2}{%
+           family={Abdo},
+           familyi={A\bibinitperiod},
+           given={Mustafa},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cf9038af49bd80c41855142a107803a7}{%
+           family={Topalovic},
+           familyi={T\bibinitperiod},
+           given={Marko},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cb785027a316116f83943e0214e021ec}{%
+           family={Janssens},
+           familyi={J\bibinitperiod},
+           given={Wim},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{55748ab3432a482a406f2acb881fdaa1}
+      \strng{fullhash}{5dda59e1fbac142f3dea93b7a2aa7b15}
+      \strng{bibnamehash}{c536fc24435ced6f7e299f53341e1e97}
+      \strng{authorbibnamehash}{c536fc24435ced6f7e299f53341e1e97}
+      \strng{authornamehash}{55748ab3432a482a406f2acb881fdaa1}
+      \strng{authorfullhash}{5dda59e1fbac142f3dea93b7a2aa7b15}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Background Few studies have investigated the collaborative potential between artificial intelligence (AI) and pulmonologists for diagnosing pulmonary disease. We hypothesised that the collaboration between a pulmonologist and AI with explanations (explainable AI (XAI)) is superior in diagnostic interpretation of pulmonary function tests (PFTs) than the pulmonologist without support. Methods The study was conducted in two phases, a monocentre study (phase 1) and a multicentre intervention study (phase 2). Each phase utilised two different sets of 24 PFT reports of patients with a clinically validated gold standard diagnosis. Each PFT was interpreted without (control) and with XAI's suggestions (intervention). Pulmonologists provided a differential diagnosis consisting of a preferential diagnosis and optionally up to three additional diagnoses. The primary end-point compared accuracy of preferential and additional diagnoses between control and intervention. Secondary end-points were the number of diagnoses in differential diagnosis, diagnostic confidence and inter-rater agreement. We also analysed how XAI influenced pulmonologists’ decisions. Results In phase 1 (n=16 pulmonologists), mean preferential and differential diagnostic accuracy significantly increased by 10.4\% and 9.4\%, respectively, between control and intervention (p{<}0.001). Improvements were somewhat lower but highly significant (p{<}0.0001) in phase 2 (5.4\% and 8.7\%, respectively; n=62 pulmonologists). In both phases, the number of diagnoses in the differential diagnosis did not reduce, but diagnostic confidence and inter-rater agreement significantly increased during intervention. Pulmonologists updated their decisions with XAI's feedback and consistently improved their baseline performance if AI provided correct predictions. Conclusion A collaboration between a pulmonologist and XAI is better at interpreting PFTs than individual pulmonologists reading without XAI support or XAI alone.}
+      \field{issn}{0903-1936, 1399-3003}
+      \field{journaltitle}{European Respiratory Journal}
+      \field{month}{5}
+      \field{number}{5}
+      \field{title}{Collaboration between explainable artificial intelligence and pulmonologists improves the accuracy of pulmonary function test interpretation}
+      \field{urlday}{25}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{volume}{61}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \field{pages}{2201720}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1183/13993003.01720-2022
+      \endverb
+      \verb{urlraw}
+      \verb https://publications.ersnet.org/lookup/doi/10.1183/13993003.01720-2022
+      \endverb
+      \verb{url}
+      \verb https://publications.ersnet.org/lookup/doi/10.1183/13993003.01720-2022
+      \endverb
+    \endentry
+    \entry{ais.2021.15}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=8ee870839373bdec087796433d91b98e}{%
+           family={Elyan},
+           familyi={E\bibinitperiod},
+           given={Eyad},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8f166622cec23e6c0519dc364a6bd09b}{%
+           family={Vuttipittayamongkol},
+           familyi={V\bibinitperiod},
+           given={Pattaramon},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=594518bf2201436eb43d9c7f3994cd8e}{%
+           family={Johnston},
+           familyi={J\bibinitperiod},
+           given={Pamela},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b144a389f780c714fa4038d7dd4fa27b}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={Kyle},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f39d1e2cf026f5dd95695506fd605bd3}{%
+           family={McPherson},
+           familyi={M\bibinitperiod},
+           given={Kyle},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0ab050216712150a3b347a6290f2f257}{%
+           family={Moreno-García},
+           familyi={M\bibinithyphendelim G\bibinitperiod},
+           given={Carlos\bibnamedelima Francisco},
+           giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5be1d96df47e9680d491d156aaeaa1c5}{%
+           family={Jayne},
+           familyi={J\bibinitperiod},
+           given={Chrisina},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d2768b9802718c4a9a473d374864a6c1}{%
+           family={Sarker},
+           familyi={S\bibinitperiod},
+           given={Md.\bibnamedelimi Mostafa\bibnamedelima Kamal},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{81f0f86412d4d37c0be3950e59af0fa2}
+      \strng{fullhash}{4744c52301c69d506b0e93faf286c0aa}
+      \strng{bibnamehash}{4744c52301c69d506b0e93faf286c0aa}
+      \strng{authorbibnamehash}{4744c52301c69d506b0e93faf286c0aa}
+      \strng{authornamehash}{81f0f86412d4d37c0be3950e59af0fa2}
+      \strng{authorfullhash}{4744c52301c69d506b0e93faf286c0aa}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The recent development in the areas of deep learning and deep convolutional neural networks has significantly progressed and advanced the field of computer vision (CV) and image analysis and understanding. Complex tasks such as classifying and segmenting medical images and localising and recognising objects of interest have become much less challenging. This progress has the potential of accelerating research and deployment of multitudes of medical applications that utilise CV. However, in reality, there are limited practical examples being physically deployed into front-line health facilities. In this paper, we examine the current state of the art in CV as applied to the medical domain. We discuss the main challenges in CV and intelligent data-driven medical applications and suggest future directions to accelerate research, development, and deployment of CV applications in health practices. First, we critically review existing literature in the CV domain that addresses complex vision tasks, including: medical image classification; shape and object recognition from images; and medical segmentation. Second, we present an in-depth discussion of the various challenges that are considered barriers to accelerating research, development, and deployment of intelligent CV methods in real-life medical applications and hospitals. Finally, we conclude by discussing future directions.}
+      \field{issn}{2771-0408}
+      \field{journaltitle}{Artificial Intelligence Surgery}
+      \field{number}{1}
+      \field{title}{Computer vision and machine learning for medical image analysis: recent advances, challenges, and way forward}
+      \field{volume}{2}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.20517/ais.2021.15
+      \endverb
+      \verb{urlraw}
+      \verb https://www.oaepublish.com/articles/ais.2021.15
+      \endverb
+      \verb{url}
+      \verb https://www.oaepublish.com/articles/ais.2021.15
+      \endverb
+    \endentry
+    \entry{glos_medycyna_2017}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f456034223017ec2661110cdf8a206f5}{%
+           family={Głos},
+           familyi={G\bibinitperiod},
+           given={Aleksandra},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Kraków}%
+      }
+      \list{publisher}{1}{%
+        {Interdyscyplinarne Centrum Etyki UJ}%
+      }
+      \strng{namehash}{f456034223017ec2661110cdf8a206f5}
+      \strng{fullhash}{f456034223017ec2661110cdf8a206f5}
+      \strng{bibnamehash}{f456034223017ec2661110cdf8a206f5}
+      \strng{authorbibnamehash}{f456034223017ec2661110cdf8a206f5}
+      \strng{authornamehash}{f456034223017ec2661110cdf8a206f5}
+      \strng{authorfullhash}{f456034223017ec2661110cdf8a206f5}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Filozofia w Praktyce}
+      \field{number}{Artykuł 6}
+      \field{title}{{MEDYCYNA} {P4} {I} {ANTYNOMIE} {SAMOWIEDZY}}
+      \field{volume}{Tom 3}
+      \field{year}{2017}
+    \endentry
+    \entry{halcox_assessment_2017}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=7e0871d470b31100e41e74eca4912137}{%
+           family={Halcox},
+           familyi={H\bibinitperiod},
+           given={Julian\bibnamedelima P.J.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d0c5ac1b9c0ab90adce7e464d6f4310d}{%
+           family={Wareham},
+           familyi={W\bibinitperiod},
+           given={Kathie},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9aa8a3dfef7634a1c01d50a277661ca2}{%
+           family={Cardew},
+           familyi={C\bibinitperiod},
+           given={Antonia},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=419a13b25552c3d1e07189f09eb0f23a}{%
+           family={Gilmore},
+           familyi={G\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4e889d385098f31988c8d0751f786d0c}{%
+           family={Barry},
+           familyi={B\bibinitperiod},
+           given={James\bibnamedelima P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4423258d27f50e711791ec4a9e1ca981}{%
+           family={Phillips},
+           familyi={P\bibinitperiod},
+           given={Ceri},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fdd6afff44b6dcb6150a1b3b858c45a7}{%
+           family={Gravenor},
+           familyi={G\bibinitperiod},
+           given={Michael\bibnamedelima B.},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{666a737c4707399728d32db590e42c1f}
+      \strng{fullhash}{2d96a2f62b4bbb53537515961aa451e3}
+      \strng{bibnamehash}{2d96a2f62b4bbb53537515961aa451e3}
+      \strng{authorbibnamehash}{2d96a2f62b4bbb53537515961aa451e3}
+      \strng{authornamehash}{666a737c4707399728d32db590e42c1f}
+      \strng{authorfullhash}{2d96a2f62b4bbb53537515961aa451e3}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Background: Asymptomatic atrial fibrillation (AF) is increasingly common in the aging population and implicated in many ischemic strokes. Earlier identification of AF with appropriate anticoagulation may decrease stroke morbidity and mortality. Methods: We conducted a randomized controlled trial of AF screening using an AliveCor Kardia monitor attached to a WiFi-enabled iPod to obtain ECGs (iECGs) in ambulatory patients. Patients ≥65 years of age with a CHADS-VASc score ≥2 free from AF were randomized to the iECG arm or routine care (RC). iECG participants acquired iECGs twice weekly over 12 months (plus additional iECGs if symptomatic) onto a secure study server with overread by an automated AF detection algorithm and by a cardiac physiologist and/or consultant cardiologist. Time to diagnosis of AF was the primary outcome measure. The overall cost of the devices, ECG interpretation, and patient management were captured and used to generate the cost per AF diagnosis in iECG patients. Clinical events and patient attitudes/experience were also evaluated. Results: We studied 1001 patients (500 iECG, 501 RC) who were 72.6±5.4 years of age; 534 were female. Mean CHADS-VASc score was 3.0 (heart failure, 1.4\%; hypertension, 54\%; diabetes mellitus, 30\%; prior stroke/transient ischemic attack, 6.5\%; arterial disease, 15.9\%; all CHADS-VASc risk factors were evenly distributed between groups). Nineteen patients in the iECG group were diagnosed with AF over the 12-month study period versus 5 in the RC arm (hazard ratio, 3.9; 95\% confidence interval=1.4–10.4; P =0.007) at a cost per AF diagnosis of \$10 780 (£8255). There was a similar number of stroke/transient ischemic attack/systemic embolic events (6 versus 10, iECG versus RC; hazard ratio=0.61; 95\% confidence interval=0.22–1.69; P =0.34). The majority of iECG patients were satisfied with the device, finding it easy to use without restricting activities or causing anxiety. Conclusions: Screening with twice-weekly single-lead iECG with remote interpretation in ambulatory patients ≥65 years of age at increased risk of stroke is significantly more likely to identify incident AF than RC over a 12-month period. This approach is also highly acceptable to this group of patients, supporting further evaluation in an appropriately powered, event-driven clinical trial. Clinical Trial Registration: URL: https://www.isrctn.com . Unique identifier: ISRCTN10709813.}
+      \field{issn}{0009-7322, 1524-4539}
+      \field{journaltitle}{Circulation}
+      \field{month}{11}
+      \field{number}{19}
+      \field{shorttitle}{Assessment of {Remote} {Heart} {Rhythm} {Sampling} {Using} the {AliveCor} {Heart} {Monitor} to {Screen} for {Atrial} {Fibrillation}}
+      \field{title}{Assessment of {Remote} {Heart} {Rhythm} {Sampling} {Using} the {AliveCor} {Heart} {Monitor} to {Screen} for {Atrial} {Fibrillation}: {The} {REHEARSE}-{AF} {Study}}
+      \field{urlday}{25}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{volume}{136}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{1784\bibrangedash 1794}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1161/CIRCULATIONAHA.117.030583
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.117.030583
+      \endverb
+      \verb{url}
+      \verb https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.117.030583
+      \endverb
+    \endentry
+    \entry{HALEEM202370}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=ac64f478d5bbd373bdb223b8547d13de}{%
+           family={Haleem},
+           familyi={H\bibinitperiod},
+           given={Abid},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1e9e80fb5bc43df028d06eb40fe68a21}{%
+           family={Javaid},
+           familyi={J\bibinitperiod},
+           given={Mohd},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=be190e020a86a4a1dbc8bba3b05aab5b}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Ravi\bibnamedelima Pratap},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bdea3b1a4dd215f268474c41762736e5}{%
+           family={Rab},
+           familyi={R\bibinitperiod},
+           given={Shanay},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7fc6d2201e1460e83153ebd28815a882}{%
+           family={Suman},
+           familyi={S\bibinitperiod},
+           given={Rajiv},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c17336279aee2379200111ab52565c88}
+      \strng{fullhash}{5387e9c9d842dbb681947102ad383cce}
+      \strng{bibnamehash}{5387e9c9d842dbb681947102ad383cce}
+      \strng{authorbibnamehash}{5387e9c9d842dbb681947102ad383cce}
+      \strng{authornamehash}{c17336279aee2379200111ab52565c88}
+      \strng{authorfullhash}{5387e9c9d842dbb681947102ad383cce}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Nanotechnology has extensive application as nanomedicine in the medical field. Some nanoparticles have possible applications in novel diagnostic instruments, imagery and methodologies, targeted medicinal products, pharmaceutical products, biomedical implants, and tissue engineering. Today treatments of high toxicity can be administered with improved safety using nanotechnology, such as chemotherapeutic cancer drugs. Further, wearable gadgets can detect crucial changes in vital signs, cancer cell conditions, and infections that are genuinely happening in the body. We anticipate these technologies to provide doctors with considerably much better direct access to critical data on the reasons for changes in the signs of life or illness because of the technological presence at the source of the problem. Biomedicine can be utilised for therapies with predictive analytics and artificial intelligence. For carrying out this study, relevant papers on Nanotechnology in the medical field from Scopus, Google scholar, ResearchGate, and other research platforms are identified and studied. The study discusses different types of Nanoparticles used in the medical field. This paper discusses nanotechnology applications in the medical field. The class, features, and characteristics of Nanotechnology for medicine are also briefed. Scientists, governments, civil society organisations, and the general public will need to collaborate across sectors to assess the significance of nanotechnology and guide its advancement in various fields. The current research includes several possible Nanotechnology uses in the medical field. As a result, the study provides a brief and well-organised report on nanotechnology that should be valuable to researchers, engineers, and scientists for future research projects.}
+      \field{issn}{2414-6447}
+      \field{journaltitle}{Global Health Journal}
+      \field{number}{2}
+      \field{title}{Applications of nanotechnology in medical field: a brief review}
+      \field{volume}{7}
+      \field{year}{2023}
+      \field{pages}{70\bibrangedash 77}
+      \range{pages}{8}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.glohj.2023.02.008
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2414644723000337
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2414644723000337
+      \endverb
+      \keyw{Nanotechnology,Nanomedicine,Nanoparticles,Medical,Treatment}
+    \endentry
+    \entry{hussain_corodet_2021}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=cd540e3e310fc5f08b27865532a95366}{%
+           family={Hussain},
+           familyi={H\bibinitperiod},
+           given={Emtiaz},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fc15d2fb4681a5b7c98cb0e2cf09d8c8}{%
+           family={Hasan},
+           familyi={H\bibinitperiod},
+           given={Mahmudul},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=47d5141ab4709a5341bad553942c0d65}{%
+           family={Rahman},
+           familyi={R\bibinitperiod},
+           given={Md\bibnamedelima Anisur},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2a26e69cfdeb821a8799ba16cb71b531}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Ickjai},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=83b09656090fdfb0391866c992e61e12}{%
+           family={Tamanna},
+           familyi={T\bibinitperiod},
+           given={Tasmi},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=823f843d0ff859f8f6d371fa1fda6a70}{%
+           family={Parvez},
+           familyi={P\bibinitperiod},
+           given={Mohammad\bibnamedelima Zavid},
+           giveni={M\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{dcd1af8ee68d9fa682617cfc400f8b6a}
+      \strng{fullhash}{98c8dd8fab8b34af34222062d6529e4d}
+      \strng{bibnamehash}{98c8dd8fab8b34af34222062d6529e4d}
+      \strng{authorbibnamehash}{98c8dd8fab8b34af34222062d6529e4d}
+      \strng{authornamehash}{dcd1af8ee68d9fa682617cfc400f8b6a}
+      \strng{authorfullhash}{98c8dd8fab8b34af34222062d6529e4d}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{09600779}
+      \field{journaltitle}{Chaos, Solitons \& Fractals}
+      \field{month}{1}
+      \field{shorttitle}{{CoroDet}}
+      \field{title}{{CoroDet}: {A} deep learning based classification for {COVID}-19 detection using chest {X}-ray images}
+      \field{urlday}{4}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{volume}{142}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{110495}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.chaos.2020.110495
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0960077920308870
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0960077920308870
+      \endverb
+    \endentry
+    \entry{ismael_deep_2021}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=54c87b8f2cd0c0bc77df164847ae077e}{%
+           family={Ismael},
+           familyi={I\bibinitperiod},
+           given={Aras\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a8869797ee36f6a2bbca6dff6e362694}{%
+           family={Şengür},
+           familyi={Ş\bibinitperiod},
+           given={Abdulkadir},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{3e51b47e1ca4d589eed4f4e85b7bdbcf}
+      \strng{fullhash}{3e51b47e1ca4d589eed4f4e85b7bdbcf}
+      \strng{bibnamehash}{3e51b47e1ca4d589eed4f4e85b7bdbcf}
+      \strng{authorbibnamehash}{3e51b47e1ca4d589eed4f4e85b7bdbcf}
+      \strng{authornamehash}{3e51b47e1ca4d589eed4f4e85b7bdbcf}
+      \strng{authorfullhash}{3e51b47e1ca4d589eed4f4e85b7bdbcf}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{09574174}
+      \field{journaltitle}{Expert Systems with Applications}
+      \field{month}{2}
+      \field{title}{Deep learning approaches for {COVID}-19 detection based on chest {X}-ray images}
+      \field{urlday}{4}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{volume}{164}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{114054}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.eswa.2020.114054
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0957417420308198
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0957417420308198
+      \endverb
+    \endentry
+    \entry{lee_validation_2023}{article}{}
+      \name{author}{3}{}{%
+        {{un=1,uniquepart=given,hash=763bff7696b36c4875cccd2fdfebc5f6}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Kyu\bibnamedelima Hong},
+           giveni={K\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=21fb17580d3608cc34727ab371b886f7}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Ro\bibnamedelima Woon},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=d7ad58c898d05f6bbe708d9c85c8b9e9}{%
+           family={Kwon},
+           familyi={K\bibinitperiod},
+           given={Ye\bibnamedelima Eun},
+           giveni={Y\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{ee0c26b92fc7e91d99fd7c440d194a2e}
+      \strng{fullhash}{ee0c26b92fc7e91d99fd7c440d194a2e}
+      \strng{bibnamehash}{ee0c26b92fc7e91d99fd7c440d194a2e}
+      \strng{authorbibnamehash}{ee0c26b92fc7e91d99fd7c440d194a2e}
+      \strng{authornamehash}{ee0c26b92fc7e91d99fd7c440d194a2e}
+      \strng{authorfullhash}{ee0c26b92fc7e91d99fd7c440d194a2e}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This study evaluates the diagnostic accuracy and clinical utility of two artificial intelligence (AI) techniques: Kakao Brain Artificial Neural Network for Chest X-ray Reading (KARA-CXR), an assistive technology developed using large-scale AI and large language models (LLMs), and ChatGPT, a well-known LLM. The study was conducted to validate the performance of the two technologies in chest X-ray reading and explore their potential applications in the medical imaging diagnosis domain. The study methodology consisted of randomly selecting 2000 chest X-ray images from a single institution’s patient database, and two radiologists evaluated the readings provided by KARA-CXR and ChatGPT. The study used five qualitative factors to evaluate the readings generated by each model: accuracy, false findings, location inaccuracies, count inaccuracies, and hallucinations. Statistical analysis showed that KARA-CXR achieved significantly higher diagnostic accuracy compared to ChatGPT. In the ‘Acceptable’ accuracy category, KARA-CXR was rated at 70.50\% and 68.00\% by two observers, while ChatGPT achieved 40.50\% and 47.00\%. Interobserver agreement was moderate for both systems, with KARA at 0.74 and GPT4 at 0.73. For ‘False Findings’, KARA-CXR scored 68.00\% and 68.50\%, while ChatGPT scored 37.00\% for both observers, with high interobserver agreements of 0.96 for KARA and 0.97 for GPT4. In ‘Location Inaccuracy’ and ‘Hallucinations’, KARA-CXR outperformed ChatGPT with significant margins. KARA-CXR demonstrated a non-hallucination rate of 75\%, which is significantly higher than ChatGPT’s 38\%. The interobserver agreement was high for KARA (0.91) and moderate to high for GPT4 (0.85) in the hallucination category. In conclusion, this study demonstrates the potential of AI and large-scale language models in medical imaging and diagnostics. It also shows that in the chest X-ray domain, KARA-CXR has relatively higher accuracy than ChatGPT.}
+      \field{issn}{2075-4418}
+      \field{journaltitle}{Diagnostics}
+      \field{month}{12}
+      \field{number}{1}
+      \field{shorttitle}{Validation of a {Deep} {Learning} {Chest} {X}-ray {Interpretation} {Model}}
+      \field{title}{Validation of a {Deep} {Learning} {Chest} {X}-ray {Interpretation} {Model}: {Integrating} {Large}-{Scale} {AI} and {Large} {Language} {Models} for {Comparative} {Analysis} with {ChatGPT}}
+      \field{urlday}{4}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{volume}{14}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \field{pages}{90}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/diagnostics14010090
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2075-4418/14/1/90
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2075-4418/14/1/90
+      \endverb
+    \endentry
+    \entry{mahara_revolutionising_2023}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=745ca6595d595ac220965f45bbdadebb}{%
+           family={Mahara},
+           familyi={M\bibinitperiod},
+           given={Gehendra},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38d2b5755bdd835f002a42f12d8523ba}{%
+           family={Tian},
+           familyi={T\bibinitperiod},
+           given={Cuihong},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0de405dcb09b655c3bd03588c671f6d2}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Xiaojia},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f27ec46ccd272a021fd78bdac92dd490}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c3a7f61d5b01ee879b447557116a2053}
+      \strng{fullhash}{2230114e27c08a1b442413f82404e1e8}
+      \strng{bibnamehash}{2230114e27c08a1b442413f82404e1e8}
+      \strng{authorbibnamehash}{2230114e27c08a1b442413f82404e1e8}
+      \strng{authornamehash}{c3a7f61d5b01ee879b447557116a2053}
+      \strng{authorfullhash}{2230114e27c08a1b442413f82404e1e8}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{2047-2978, 2047-2986}
+      \field{journaltitle}{Journal of Global Health}
+      \field{month}{8}
+      \field{shorttitle}{Revolutionising health care}
+      \field{title}{Revolutionising health care: {Exploring} the latest advances in medical sciences}
+      \field{urlday}{25}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{volume}{13}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \field{pages}{03042}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.7189/jogh.13.03042
+      \endverb
+      \verb{urlraw}
+      \verb https://jogh.org/2023/jogh-13-03042
+      \endverb
+      \verb{url}
+      \verb https://jogh.org/2023/jogh-13-03042
+      \endverb
+    \endentry
+    \entry{sezer_application_2020}{inbook}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c4b58d8dbe7ddab513e52d059c40d694}{%
+           family={Nayak},
+           familyi={N\bibinitperiod},
+           given={Smita},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5316a29a8ca997e9d2bde02b9fff2053}{%
+           family={Kumar\bibnamedelima Das},
+           familyi={K\bibinitperiod\bibinitdelim D\bibinitperiod},
+           given={Rajesh},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=bb8e1735f3a050a8cc87e06f2ffb5a47}{%
+           family={Sezer},
+           familyi={S\bibinitperiod},
+           given={Volkan},
+           giveni={V\bibinitperiod}}}%
+        {{hash=617f41b2b13ea5919f42267c3f593ebb}{%
+           family={Öncü},
+           familyi={Ö\bibinitperiod},
+           given={Sinan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9f6093b488d1ab6888111e3de2814d95}{%
+           family={Boyraz\bibnamedelima Baykas},
+           familyi={B\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Pınar},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {IntechOpen}%
+      }
+      \strng{namehash}{601c7ee643ec77dfb9aed3bf447a831b}
+      \strng{fullhash}{601c7ee643ec77dfb9aed3bf447a831b}
+      \strng{bibnamehash}{601c7ee643ec77dfb9aed3bf447a831b}
+      \strng{authorbibnamehash}{601c7ee643ec77dfb9aed3bf447a831b}
+      \strng{authornamehash}{601c7ee643ec77dfb9aed3bf447a831b}
+      \strng{authorfullhash}{601c7ee643ec77dfb9aed3bf447a831b}
+      \strng{editorbibnamehash}{f2f3abf3b9202567b0ef44f442c08322}
+      \strng{editornamehash}{f2f3abf3b9202567b0ef44f442c08322}
+      \strng{editorfullhash}{f2f3abf3b9202567b0ef44f442c08322}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Technological integration of Artificial Intelligence (AI) and machine learning in the Prosthetic and Orthotic industry and in the field of assistive technology has become boon for the Persons with Disabilities. The concept of neural network has been used by the leading manufacturers of rehabilitation aids for simulating various anatomical and biomechanical functions of the lost parts of the human body. The involvement of human interaction with various agents’ i.e. electronic circuitry, software, robotics, etc. has made a revolutionary impact in the rehabilitation field to develop devices like Bionic leg, mind or thought control prosthesis and exoskeletons. Application of Artificial Intelligence and robotics technology has a huge impact in achieving independent mobility and enhances the quality of life in Persons with Disabilities (PwDs).}
+      \field{booktitle}{Service {Robotics}}
+      \field{isbn}{9781789844283 9781789844290}
+      \field{month}{11}
+      \field{title}{Application of {Artificial} {Intelligence} ({AI}) in {Prosthetic} and {Orthotic} {Rehabilitation}}
+      \field{urlday}{25}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.5772/intechopen.93903
+      \endverb
+      \verb{urlraw}
+      \verb https://www.intechopen.com/books/service-robotics/application-of-artificial-intelligence-ai-in-prosthetic-and-orthotic-rehabilitation
+      \endverb
+      \verb{url}
+      \verb https://www.intechopen.com/books/service-robotics/application-of-artificial-intelligence-ai-in-prosthetic-and-orthotic-rehabilitation
+      \endverb
+    \endentry
+    \entry{rajaraman_pre-trained_2018}{article}{}
+      \name{author}{8}{ul=2}{%
+        {{un=0,uniquepart=base,hash=31ef56eb33fe35570aea0f69ad1abe2c}{%
+           family={Rajaraman},
+           familyi={R\bibinitperiod},
+           given={Sivaramakrishnan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4601680a4f098cc62bbf8cbe1097ccd9}{%
+           family={Antani},
+           familyi={A\bibinitperiod},
+           given={Sameer\bibnamedelima K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b8688890fa8278851b9b01cd5af43278}{%
+           family={Poostchi},
+           familyi={P\bibinitperiod},
+           given={Mahdieh},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6d5965f92d71c8afd5aa054c6eac757c}{%
+           family={Silamut},
+           familyi={S\bibinitperiod},
+           given={Kamolrat},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0fa036cee161d8f0fe3810d3aef8dfa3}{%
+           family={Hossain},
+           familyi={H\bibinitperiod},
+           given={Md.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=80455c928c664de57ebdc8c09bfbe647}{%
+           family={Maude},
+           familyi={M\bibinitperiod},
+           given={Richard\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9dbcfe1201b57e0366cba35ad188fc39}{%
+           family={Jaeger},
+           familyi={J\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f9fd180fb96277185990c0be5fb2d382}{%
+           family={Thoma},
+           familyi={T\bibinitperiod},
+           given={George\bibnamedelima R.},
+           giveni={G\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{cd324fe81622f0f66a0d2ca2b7b5f8dd}
+      \strng{fullhash}{a974c4412c2df07179adce34776d70e4}
+      \strng{bibnamehash}{a974c4412c2df07179adce34776d70e4}
+      \strng{authorbibnamehash}{a974c4412c2df07179adce34776d70e4}
+      \strng{authornamehash}{cd324fe81622f0f66a0d2ca2b7b5f8dd}
+      \strng{authorfullhash}{a974c4412c2df07179adce34776d70e4}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Malaria is a blood disease caused by the Plasmodium parasites transmitted through the bite of female Anopheles mosquito. Microscopists commonly examine thick and thin blood smears to diagnose disease and compute parasitemia. However, their accuracy depends on smear quality and expertise in classifying and counting parasitized and uninfected cells. Such an examination could be arduous for large-scale diagnoses resulting in poor quality. State-of-the-art image-analysis based computer-aided diagnosis (CADx) methods using machine learning (ML) techniques, applied to microscopic images of the smears using hand-engineered features demand expertise in analyzing morphological, textural, and positional variations of the region of interest (ROI). In contrast, Convolutional Neural Networks (CNN), a class of deep learning (DL) models promise highly scalable and superior results with end-to-end feature extraction and classification. Automated malaria screening using DL techniques could, therefore, serve as an effective diagnostic aid. In this study, we evaluate the performance of pre-trained CNN based DL models as feature extractors toward classifying parasitized and uninfected cells to aid in improved disease screening. We experimentally determine the optimal model layers for feature extraction from the underlying data. Statistical validation of the results demonstrates the use of pre-trained CNNs as a promising tool for feature extraction for this purpose.}
+      \field{issn}{2167-8359}
+      \field{journaltitle}{PeerJ}
+      \field{month}{4}
+      \field{title}{Pre-trained convolutional neural networks as feature extractors toward improved malaria parasite detection in thin blood smear images}
+      \field{urlday}{4}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{volume}{6}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{e4568}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.7717/peerj.4568
+      \endverb
+      \verb{urlraw}
+      \verb https://peerj.com/articles/4568
+      \endverb
+      \verb{url}
+      \verb https://peerj.com/articles/4568
+      \endverb
+    \endentry
+    \entry{rajaraman_visualization_2018}{article}{}
+      \name{author}{5}{ul=2}{%
+        {{un=0,uniquepart=base,hash=31ef56eb33fe35570aea0f69ad1abe2c}{%
+           family={Rajaraman},
+           familyi={R\bibinitperiod},
+           given={Sivaramakrishnan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=361748512c66f81b646143444d376ace}{%
+           family={Candemir},
+           familyi={C\bibinitperiod},
+           given={Sema},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eb62b48f89ef4566490b74df2d896428}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Incheol},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c7f0eabd299c5b9fbb6a38d35523440f}{%
+           family={Thoma},
+           familyi={T\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2dbaa1a2302cf67c0d7b29a644ab8457}{%
+           family={Antani},
+           familyi={A\bibinitperiod},
+           given={Sameer},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{ca0e0e607c7cecfba29ce13daf9a5adc}
+      \strng{fullhash}{37e098561b2b229847a4a95b6b57f3f7}
+      \strng{bibnamehash}{37e098561b2b229847a4a95b6b57f3f7}
+      \strng{authorbibnamehash}{37e098561b2b229847a4a95b6b57f3f7}
+      \strng{authornamehash}{ca0e0e607c7cecfba29ce13daf9a5adc}
+      \strng{authorfullhash}{37e098561b2b229847a4a95b6b57f3f7}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Pneumonia affects 7\% of the global population, resulting in 2 million pediatric deaths every year. Chest X-ray (CXR) analysis is routinely performed to diagnose the disease. Computer-aided diagnostic (CADx) tools aim to supplement decision-making. These tools process the handcrafted and/or convolutional neural network (CNN) extracted image features for visual recognition. However, CNNs are perceived as black boxes since their performance lack explanations. This is a serious bottleneck in applications involving medical screening/diagnosis since poorly interpreted model behavior could adversely affect the clinical decision. In this study, we evaluate, visualize, and explain the performance of customized CNNs to detect pneumonia and further differentiate between bacterial and viral types in pediatric CXRs. We present a novel visualization strategy to localize the region of interest (ROI) that is considered relevant for model predictions across all the inputs that belong to an expected class. We statistically validate the models' performance toward the underlying tasks. We observe that the customized VGG16 model achieves 96.2\% and 93.6\% accuracy in detecting the disease and distinguishing between bacterial and viral pneumonia respectively. The model outperforms the state-of-the-art in all performance metrics and demonstrates reduced bias and improved generalization.}
+      \field{issn}{2076-3417}
+      \field{journaltitle}{Applied Sciences (Basel, Switzerland)}
+      \field{month}{10}
+      \field{number}{10}
+      \field{title}{Visualization and {Interpretation} of {Convolutional} {Neural} {Network} {Predictions} in {Detecting} {Pneumonia} in {Pediatric} {Chest} {Radiographs}}
+      \field{volume}{8}
+      \field{year}{2018}
+      \field{pages}{1715}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/app8101715
+      \endverb
+      \keyw{chest X-rays,clinical decision,computer vision,computer-aided diagnosis,convolutional neural networks,explanation,pediatric,pneumonia,visualization}
+    \endentry
+    \entry{lidstromer_artificial_2021}{inbook}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ff003b3cd766a84e4f60d17699a0514c}{%
+           family={Richens},
+           familyi={R\bibinitperiod},
+           given={Jonathan\bibnamedelima G.},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=58072deb291c58e4c7b009d11690104b}{%
+           family={Buchard},
+           familyi={B\bibinitperiod},
+           given={Albert},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=04687f07157342c0b4b4664a1dd81d85}{%
+           family={Lidströmer},
+           familyi={L\bibinitperiod},
+           given={Niklas},
+           giveni={N\bibinitperiod}}}%
+        {{hash=1e68fafd7bdaef4e83ad1edfc6521f77}{%
+           family={Ashrafian},
+           familyi={A\bibinitperiod},
+           given={Hutan},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{808afcc39f15e82cab9b6f58b5dc1eb7}
+      \strng{fullhash}{808afcc39f15e82cab9b6f58b5dc1eb7}
+      \strng{bibnamehash}{808afcc39f15e82cab9b6f58b5dc1eb7}
+      \strng{authorbibnamehash}{808afcc39f15e82cab9b6f58b5dc1eb7}
+      \strng{authornamehash}{808afcc39f15e82cab9b6f58b5dc1eb7}
+      \strng{authorfullhash}{808afcc39f15e82cab9b6f58b5dc1eb7}
+      \strng{editorbibnamehash}{0ce127589e6a658221ffe1f9424f494a}
+      \strng{editornamehash}{0ce127589e6a658221ffe1f9424f494a}
+      \strng{editorfullhash}{0ce127589e6a658221ffe1f9424f494a}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Artificial {Intelligence} in {Medicine}}
+      \field{isbn}{9783030580803}
+      \field{title}{Artificial {Intelligence} for {Medical} {Diagnosis}}
+      \field{urlday}{25}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 21}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1007/978-3-030-58080-3_29-1
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/10.1007/978-3-030-58080-3_29-1
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/10.1007/978-3-030-58080-3_29-1
+      \endverb
+    \endentry
+    \entry{thacharodi_revolutionizing_2024}{article}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=956f04c49c754b080755ead1868cd626}{%
+           family={Thacharodi},
+           familyi={T\bibinitperiod},
+           given={Aswin},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1c2dcf2c68fa513939585c5a96f15dc2}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Prabhakar},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c0e6d741eae30038a16ef0ebd904e087}{%
+           family={Meenatchi},
+           familyi={M\bibinitperiod},
+           given={Ramu},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3c247a67dad8fb63be1789cc960943b1}{%
+           family={Tawfeeq\bibnamedelima Ahmed},
+           familyi={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Z.\bibnamedelimi H.},
+           giveni={Z\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f8f62e9e211bb6ad58188cbe616431fa}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Rejith\bibnamedelimb R.\bibnamedelimi S.},
+           giveni={R\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2f475a3cef9ee240871899ff4cf4d7b2}{%
+           family={V},
+           familyi={V\bibinitperiod},
+           given={Neha},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3e57fe1d5cda0b9a9a21cdd3c3de2b2b}{%
+           family={Kavish},
+           familyi={K\bibinitperiod},
+           given={Sanjana},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=11bd4d0affc0a84c684abaa682bf1e7c}{%
+           family={Maqbool},
+           familyi={M\bibinitperiod},
+           given={Mohsin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ffccc7e438e5b1b1a8dc02fb32cb561}{%
+           family={Hassan},
+           familyi={H\bibinitperiod},
+           given={Saqib},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{b179aa5b909e6d37f3cd88e127443e13}
+      \strng{fullhash}{b47e882d3e5c7240563f7d2fa9093ef2}
+      \strng{bibnamehash}{b47e882d3e5c7240563f7d2fa9093ef2}
+      \strng{authorbibnamehash}{b47e882d3e5c7240563f7d2fa9093ef2}
+      \strng{authornamehash}{b179aa5b909e6d37f3cd88e127443e13}
+      \strng{authorfullhash}{b47e882d3e5c7240563f7d2fa9093ef2}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Abstract The increasing integration of new technologies is driving a fundamental revolution in the healthcare sector. Developments in artificial intelligence (AI), machine learning, and big data analytics have completely transformed the diagnosis, treatment, and care of patients. AI‐powered solutions are enhancing the efficiency and accuracy of healthcare delivery by demonstrating exceptional skills in personalized medicine, early disease detection, and predictive analytics. Furthermore, telemedicine and remote patient monitoring systems have overcome geographical constraints, offering easy and accessible healthcare services, particularly in underserved areas. Wearable technology, the Internet of Medical Things, and sensor technologies have empowered individuals to take an active role in tracking and managing their health. These devices facilitate real‐time data collection, enabling preventive and personalized care. Additionally, the development of 3D printing technology has revolutionized the medical field by enabling the production of customized prosthetics, implants, and anatomical models, significantly impacting surgical planning and treatment strategies. Accepting these advancements holds the potential to create a more patient‐centered, efficient healthcare system that emphasizes individualized care, preventive care, and better overall health outcomes. This review's novelty lies in exploring how these technologies are radically transforming the healthcare industry, paving the way for a more personalized and effective healthcare for all. It highlights the capacity of modern technology to revolutionize healthcare delivery by addressing long‐standing challenges and improving health outcomes. Although the approval and use of digital technology and advanced data analysis face scientific and regulatory obstacles, they have the potential for transforming translational research. as these technologies continue to evolve, they are poised to significantly alter the healthcare environment, offering a more sustainable, efficient, and accessible healthcare ecosystem for future generations. Innovation across multiple fronts will shape the future of advanced healthcare technology, revolutionizing the provision of healthcare, enhancing patient outcomes, and equipping both patients and healthcare professionals with the tools to make better decisions and receive personalized treatment. As these technologies continue to develop and become integrated into standard healthcare practices, the future of healthcare will probably be more accessible, effective, and efficient than ever before.}
+      \field{issn}{2771-1749, 2771-1757}
+      \field{journaltitle}{Health Care Science}
+      \field{month}{10}
+      \field{number}{5}
+      \field{shorttitle}{Revolutionizing healthcare and medicine}
+      \field{title}{Revolutionizing healthcare and medicine: {The} impact of modern technologies for a healthier future—{A} comprehensive review}
+      \field{urlday}{25}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{volume}{3}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \field{pages}{329\bibrangedash 349}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1002/hcs2.115
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/hcs2.115
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/hcs2.115
+      \endverb
+    \endentry
+    \entry{topalovic_artificial_2019}{article}{}
+      \name{author}{18}{}{%
+        {{un=0,uniquepart=base,hash=cf9038af49bd80c41855142a107803a7}{%
+           family={Topalovic},
+           familyi={T\bibinitperiod},
+           given={Marko},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ecf76aae2219c1a33af868ae80722ae}{%
+           family={Das},
+           familyi={D\bibinitperiod},
+           given={Nilakash},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ff199e88d731828a79f5f20f0dfc33d4}{%
+           family={Burgel},
+           familyi={B\bibinitperiod},
+           given={Pierre-Régis},
+           giveni={P\bibinithyphendelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=829cb2c84b8be14133374c0fe8432ad1}{%
+           family={Daenen},
+           familyi={D\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ea0a2372f0e299f6d07c562cc7ceda33}{%
+           family={Derom},
+           familyi={D\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b4655d333d6cbb99cac426c5301adf71}{%
+           family={Haenebalcke},
+           familyi={H\bibinitperiod},
+           given={Christel},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=868026c5b2a2f315c8a44f0b43011950}{%
+           family={Janssen},
+           familyi={J\bibinitperiod},
+           given={Rob},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d507257120e0a0ae32365fb7179769bd}{%
+           family={Kerstjens},
+           familyi={K\bibinitperiod},
+           given={Huib\bibnamedelima A.M.},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=87a344f47d951625d061cfebf39766e3}{%
+           family={Liistro},
+           familyi={L\bibinitperiod},
+           given={Giuseppe},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=36a05e57f9f8248d342b2e96684e849a}{%
+           family={Louis},
+           familyi={L\bibinitperiod},
+           given={Renaud},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c0d3fc80ce2b459471744b6a63ffe9a}{%
+           family={Ninane},
+           familyi={N\bibinitperiod},
+           given={Vincent},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a2f192d5953c5a89b9538184baedc7dc}{%
+           family={Pison},
+           familyi={P\bibinitperiod},
+           given={Christophe},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0ec0b0abdeb88648e3cb9831de3701ef}{%
+           family={Schlesser},
+           familyi={S\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f43a627cdb4425c1db9e28444e3eff83}{%
+           family={Vercauter},
+           familyi={V\bibinitperiod},
+           given={Piet},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3d6d01d085666d59d8330e9e3735fc4e}{%
+           family={Vogelmeier},
+           familyi={V\bibinitperiod},
+           given={Claus\bibnamedelima F.},
+           giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c1ecf2b976e9096f4458e8bb7ea02672}{%
+           family={Wouters},
+           familyi={W\bibinitperiod},
+           given={Emiel},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=013074bd59fe2a2df465cd767c9e5ad4}{%
+           family={Wynants},
+           familyi={W\bibinitperiod},
+           given={Jokke},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cb785027a316116f83943e0214e021ec}{%
+           family={Janssens},
+           familyi={J\bibinitperiod},
+           given={Wim},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{14a9a7b574f9d1bb6c1984812de73d71}
+      \strng{fullhash}{960873fa1b144723aea9793be437f140}
+      \strng{bibnamehash}{960873fa1b144723aea9793be437f140}
+      \strng{authorbibnamehash}{960873fa1b144723aea9793be437f140}
+      \strng{authornamehash}{14a9a7b574f9d1bb6c1984812de73d71}
+      \strng{authorfullhash}{960873fa1b144723aea9793be437f140}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The interpretation of pulmonary function tests (PFTs) to diagnose respiratory diseases is built on expert opinion that relies on the recognition of patterns and the clinical context for detection of specific diseases. In this study, we aimed to explore the accuracy and interrater variability of pulmonologists when interpreting PFTs compared with artificial intelligence (AI)-based software that was developed and validated in more than 1500 historical patient cases. 120 pulmonologists from 16 European hospitals evaluated 50 cases with PFT and clinical information, resulting in 6000 independent interpretations. The AI software examined the same data. American Thoracic Society/European Respiratory Society guidelines were used as the gold standard for PFT pattern interpretation. The gold standard for diagnosis was derived from clinical history, PFT and all additional tests. The pattern recognition of PFTs by pulmonologists (senior 73\%, junior 27\%) matched the guidelines in 74.4±5.9\% of the cases (range 56–88\%). The interrater variability of κ=0.67 pointed to a common agreement. Pulmonologists made correct diagnoses in 44.6±8.7\% of the cases (range 24–62\%) with a large interrater variability (κ=0.35). The AI-based software perfectly matched the PFT pattern interpretations (100\%) and assigned a correct diagnosis in 82\% of all cases (p{<}0.0001 for both measures). The interpretation of PFTs by pulmonologists leads to marked variations and errors. AI-based software provides more accurate interpretations and may serve as a powerful decision support tool to improve clinical practice.}
+      \field{issn}{0903-1936, 1399-3003}
+      \field{journaltitle}{European Respiratory Journal}
+      \field{month}{4}
+      \field{number}{4}
+      \field{title}{Artificial intelligence outperforms pulmonologists in the interpretation of pulmonary function tests}
+      \field{urlday}{25}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{volume}{53}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{1801660}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1183/13993003.01660-2018
+      \endverb
+      \verb{urlraw}
+      \verb https://publications.ersnet.org/lookup/doi/10.1183/13993003.01660-2018
+      \endverb
+      \verb{url}
+      \verb https://publications.ersnet.org/lookup/doi/10.1183/13993003.01660-2018
+      \endverb
+    \endentry
+    \entry{yang_application_2019}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=cee9331bf65fef655ae4123fd24db499}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Young\bibnamedelima Joo},
+           giveni={Y\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4f5d0cc610f5a694712993f179536b2b}{%
+           family={Bang},
+           familyi={B\bibinitperiod},
+           given={Chang\bibnamedelima Seok},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7d1533e9f4281308eff868c370897ca8}
+      \strng{fullhash}{7d1533e9f4281308eff868c370897ca8}
+      \strng{bibnamehash}{7d1533e9f4281308eff868c370897ca8}
+      \strng{authorbibnamehash}{7d1533e9f4281308eff868c370897ca8}
+      \strng{authornamehash}{7d1533e9f4281308eff868c370897ca8}
+      \strng{authorfullhash}{7d1533e9f4281308eff868c370897ca8}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1007-9327}
+      \field{journaltitle}{World Journal of Gastroenterology}
+      \field{month}{4}
+      \field{number}{14}
+      \field{title}{Application of artificial intelligence in gastroenterology}
+      \field{urlday}{25}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{volume}{25}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{1666\bibrangedash 1683}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.3748/wjg.v25.i14.1666
+      \endverb
+      \verb{urlraw}
+      \verb https://www.wjgnet.com/1007-9327/full/v25/i14/1666.htm
+      \endverb
+      \verb{url}
+      \verb https://www.wjgnet.com/1007-9327/full/v25/i14/1666.htm
+      \endverb
+    \endentry
+  \enddatalist
+  \missing{10.1117/12.221630}
+  \missing{riganti_artificial_2020}
+\endrefsection
 \endinput
 

@@ -1,9 +1,21 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'praca.blg'
-[128] biber-MSWIN64:340> INFO - === 
-[168] Biber.pm:419> INFO - Reading 'praca.bcf'
-[351] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
-[388] bbl.pm:660> INFO - Writing 'praca.bbl' with encoding 'UTF-8'
-[388] bbl.pm:763> INFO - Output to praca.bbl
-[389] Biber.pm:131> WARN - The file 'praca.bcf' does not contain any citations!
-[389] Biber.pm:133> INFO - WARNINGS: 1
+[167] biber-MSWIN64:340> INFO - === 
+[201] Biber.pm:419> INFO - Reading 'praca.bcf'
+[329] Biber.pm:979> INFO - Found 22 citekeys in bib section 0
+[392] Biber.pm:4419> INFO - Processing section 0
+[404] Biber.pm:4610> INFO - Looking for bibtex file 'bibliografia.bib' for section 0
+[463] bibtex.pm:1713> INFO - LaTeX decoding ...
+[521] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliografia.bib'
+[765] UCollate.pm:68> INFO - Overriding locale 'pl-PL' defaults 'variable = shifted' with 'variable = non-ignorable'
+[765] UCollate.pm:68> INFO - Overriding locale 'pl-PL' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[765] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'pl-PL'
+[818] UCollate.pm:68> INFO - Overriding locale 'pl-PL' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[818] UCollate.pm:68> INFO - Overriding locale 'pl-PL' defaults 'variable = shifted' with 'variable = non-ignorable'
+[818] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'pl-PL'
+[854] bbl.pm:660> INFO - Writing 'praca.bbl' with encoding 'UTF-8'
+[923] bbl.pm:763> INFO - Output to praca.bbl
+[923] Biber.pm:131> WARN - ISBN '9781789844283 9781789844290' in entry 'sezer_application_2020' is invalid - run biber with '--validate_datamodel' for details.
+[924] Biber.pm:131> WARN - I didn't find a database entry for 'riganti_artificial_2020' (section 0)
+[924] Biber.pm:131> WARN - I didn't find a database entry for '10.1117/12.221630' (section 0)
+[924] Biber.pm:133> INFO - WARNINGS: 3
