@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "skin.lesion.detection.app-mergeDebugResources-44:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\popie\\.gradle\\caches\\8.13\\transforms\\f1e6c883ea2fd2ba9669de50a8b4b301\\transformed\\material3-release\\res\\values-v30\\values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}
