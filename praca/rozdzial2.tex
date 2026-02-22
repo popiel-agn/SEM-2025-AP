@@ -3,8 +3,9 @@
 
 \def\filename{rozdzial2}
 
-\chapter{Wpływ rozwoju sztucznej inteligencji na medycynę}
+\chapter{Głębokie uczenie w diagnostyce dermatologicznej}
 
+\section{Wpływ rozwoju sztucznej inteligencji na medycynę}
 Dynamiczny rozwój technologii w XXI wieku wraz z rosnącym zapotrzebowaniem pacjentów na efektywne rozwiązania w sektorze opieki zdrowotnej, istotnie wpłynął na transformację współczesnej medycyny w ostatnich dekadach \cite{CHAPMAN20153}.
 Innowacje takie jak elektroniczna dokumentacja medyczna, telemedycyna oraz technologie przenośne znacznie usprawniły dostępność i wygodę świadczeń usług zdrowotnych, a przełomowe rozwiązania nanotechnologii i druku 3D zrewolucjonizowały dziedzinę implantologii i inżynierii tkankowej \cite{HALEEM202370, mahara_revolutionising_2023, thacharodi_revolutionizing_2024}.
 
@@ -18,42 +19,65 @@ Stan zdrowia pacjenta w medycynie 4P jest opisywany poprzez spersonalizowaną ch
 Inteligentne technologie medyczne wspomagają autonomię oraz wygodę pacjenta jednocześnie zmniejszając biurokrację i koszty usług medycznych poprzez ograniczenie dokumentacji automatyzację procesów \cite{glos_medycyna_2017, alonso_predictive_2019, briganti_artificial_2020}.
 
 W ciągu ostatniej dekady algorytmy oparte na sztucznej inteligencji w postaci przenośnych urządzeń znalazły szerokie zastosowanie w kardiologii poprzez obserwowanie i analizę parametrów fizjologicznych oraz rejestrację sygnału elektrokardiograficznego.
-Zdalne monitorowanie zapisu EKG z wykorzystaniem takich urządzeń jak Fitbit czy Apple Watch 4 jak i aplikacji mobilnych, np. Kardia, umożliwia wczesne wykrywanie migotania przedsionków oraz wspiera zarówno pacjentów oraz lekarzy w dokładniejszej ocenie stanu zdrowia \cite{amisha_overview_2019, riganti_artificial_2020, halcox_assessment_2017}.
+Zdalne monitorowanie zapisu EKG z wykorzystaniem takich urządzeń jak Fitbit czy Apple Watch 4 jak i aplikacji mobilnych, np. Kardia, umożliwia wczesne wykrywanie migotania przedsionków oraz wspiera zarówno pacjentów oraz lekarzy w dokładniejszej ocenie stanu zdrowia \cite{amisha_overview_2019, briganti_artificial_2020, halcox_assessment_2017}.
 Systemy przenośnych urządzeń monitorujących zsynchronizowanych z smartfonem i opartych na analizie AI sprawdziły się również w przypadku endokrynologii, dostarczając stały przepływ informacji na temat poziomu glukozy we krwi pacjentów z cukrzycą, oraz w neurologii w celu wczesnego wykrywania ataków epilepsji \cite{briganti_artificial_2020}.
 
 Modele sztucznej inteligencji znajdują szerokie zastosowanie w diagnostyce, obejmującej między innymi takie techniki jak radiografia rentgenowska, rezonans magnetyczny, endoskopia, ultrasonografia oraz patologia cyfrowa.
 Podejście to określane jest mianem diagnostyki komputerowo wspomaganej - CADx, czyli \textit{computer-aided diagnosis}.
 W pulmonologii sztuczna inteligencja jest wykorzystywana do interpretacji wyników badań czynnościowych płuc.
 Oprogramowanie implementujące AI, zwłaszcza z ekspertyzą pulmonologów, charakteryzuje się wyższą dokładnością diagnostyczną niż samodzielna analiza specjalistów \cite{das_collaboration_2023, topalovic_artificial_2019}.
-Konwolucyjne sieci neuronowe (CNN), czyli modele głębokiego uczenia specjalizujące się w analizie obrazów, sprawdziły się w przypadku wykrywania zapalenia i raka płuc, wirusa COVID-19 oraz innych anomalii na zdjęciach rentgenowskich klatki piersiowej \cite{rajaraman_visualization_2018, 10.1117/12.221630, ismael_deep_2021, hussain_corodet_2021, lee_validation_2023}.
+Konwolucyjne sieci neuronowe (CNN), czyli modele głębokiego uczenia specjalizujące się w analizie obrazów, sprawdziły się w przypadku wykrywania zapalenia i raka płuc, wirusa COVID-19 oraz innych anomalii na zdjęciach rentgenowskich klatki piersiowej \cite{rajaraman_visualization_2018, ismael_deep_2021, hussain_corodet_2021, lee_validation_2023}.
 W dziedzinie gastroenterologii wykorzystano CNN do przetwarzania obrazów z endoskopii i ultrasonografii w celu skutecznego wykrywania nieprawidłowości takich jak refluks żołądkowo-przełykowy i zanikowe zapalenie błony śluzowej żołądka \cite{briganti_artificial_2020, yang_application_2019}.
-CADx okazało się również skuteczną metodą w przypadku klasyfikacji komórek zarażonych malarią oraz rozpoznawania choroby zwyrodnieniowej stawu kolanowego \cite{rajaraman_pre-trained_2018, al-rimy_adaptive_2023}. 
+CADx okazało się również skuteczną metodą w przypadku klasyfikacji komórek zarażonych malarią oraz rozpoznawania choroby zwyrodnieniowej stawu kolanowego \cite{rajaraman_pre-trained_2018, adaptive_2023}. 
 Liczne badania poświęcone zastosowaniu metod sztucznej inteligencji w diagnostyce medycznej obrazowej wskazują na wysoką skuteczność modeli głębokiego uczenia w zadaniach klasyfikacji binarnej oraz wieloklasowej, wykrywania obiektów na zdjęciach oraz ich segmentacji \cite{ais.2021.15}.
 Wynika to z faktu, że systemy wizji komputerowej oparte na sieciach neuronowych uczą się bezpośrednio z obrazów, czego konsekwencją jest identyfikacja skomplikowanych wzorców i zależności często niezauważanych przez doświadczonych lekarzy.
 Modele te funkcjonują jako systemy typu "black-box", co pozwala im zakwalifikować subtelne przypadki chorób i wykryć je w wczesnym stadium \cite{lidstromer_artificial_2021}. 
 
-\section{Rozwój diagnostyki w dermatologii}
-
 Szczególnie istotnym zastosowaniem wizji komputerowej w systemach \textit{computer-aided diagnosis} stanowi dermatologia, której problematyki podjęto się w niniejszej pracy.
 W kolejnych podrozdziałach przeprowadzono analizę porównawczą dotychczasowych metod diagnostycznych w dermatologii z nowoczesnymi metodami diagnostyki komputerowo wspomaganej opierającymi się na algorytmach uczenia maszynowego.
 
-\subsection{Przegląd wstępnych metod diagnostycznych}
+\section{Przegląd wstępnych metod diagnostycznych}
 Tradycyjnie wstępna diagnostyka w dermatologii obejmuje badanie dermoskopowe lub wideodermoskopowe, polegające na ocenie znamienia w około dziesięciokrotnym powiększeniu.
 W 1994 roku Stolz wraz z współpracownikami zaproponował algorytm dermoskopowy ABCD, opierający się na wielowymiarowej analizie następujących cech: asymetrii (A), nierównych i postrzępionych brzegów (B), zróżnicowania kolorów (C) oraz obecności zmian morfologicznych (D), takich jak kropki, smugi, kuleczki lub sieci pigmentowe.
 Według innych interpretacji kryterium "D" dotyczy średnicy zmiany przekraczającej 6 mm.
 Na podstawie sumy iloczynów stopnia spełnienia poszczególnych kryteriów ABCD oraz ich wag obliczany jest wskaźnik badania dermoskopowego TDS (Total Dermatoscopy Score), stanowiący półilościową miarę znacząco poprawiającą skuteczność diagnostyczną, szczególnie w przypadku osób niebędących dermatologami, takich jak pacjenci.
-Znamiona o wartości TDS poniżej 4,75 uznawane są za łagodne, w przedziale 4,76-5,45 za podejrzane i wymagającej rutynowej kontroli dermoskopowej, a powyżej 5,45 za wysoce podejrzane w kierunku czerniaka \cite{Nachbar_Stolz_Merkle_Cognetta_Vogt_Landthaler_Bilek_Braun-Falco_Plewig_1994, Rutkowski_J. Wysocki_Nasierowska-Guttmejer_Fijuth_Kalinka-Warzocha_Świtaj_Jeziorski_Szacht_Zegarski_Wysocki_et al._2016}.
+Znamiona o wartości TDS poniżej 4,75 uznawane są za łagodne, w przedziale 4,76-5,45 za podejrzane i wymagającej rutynowej kontroli dermoskopowej, a powyżej 5,45 za wysoce podejrzane w kierunku czerniaka \cite{Nachbar_Stolz_Merkle_Cognetta_Vogt_Landthaler_Bilek_Braun-Falco_Plewig_1994, Wysocki_2016}.
 
-\begin{table}[]
-	\begin{tabular}{|c|c|c|}
+\begin{table}[htbp]
+	\caption{Algorytm ABCD}
+	\centering
+	\begin{tabular}{|c|p{8cm}|c|}
 		\hline
-		\rowcolor[HTML]{EFEFEF} 
-		\textbf{Kryterium}                & \textbf{Liczba punktów do przyznania}                                                                                                                                                                                                              & \textbf{Waga} \\ \hline
-		A - asymetria                     & \begin{tabular}[c]{@{}c@{}}0 - brak asymetrii w osi X i Y\\ 1 - asymetria w jednej z osi\\ 2 - asymetria w obu osiach\end{tabular}                                                                                                                 & 1,3           \\ \hline
-		B - nieregularność granicy zmiany & \begin{tabular}[c]{@{}c@{}}0 - brak nagłych zakończeń zmiany\\ 1- nagłe zakończenie w jednym z ośmiu segmentów zmiany\\ 2- nagłe zakończenie w dwóch z ośmiu segmentów zmiany\\ ...\\ 8 - nagłe zakończenie w ośmiu segmentach zmiany\end{tabular} & 0,1           \\ \hline
-		C - zróżnicowanie kolorów zmiany  & \begin{tabular}[c]{@{}c@{}}1 - obecność jednego koloru\\ 2 - obecność dwóch kolorów\\ ...\\ 6 - obecność sześciu kolorów\end{tabular}                                                                                                              & 0,5           \\ \hline
-		D - różne elementy strukturalne   & \begin{tabular}[c]{@{}c@{}}1 - obecność jednego elementu strukturalnego\\ 2 - obecność dwóch elementów strukturalnych\\ ...\\ 5 - obecność pięciu elementów strukturalnych\end{tabular}                                                            & 0,5           \\ \hline
+		\textbf{Kryterium} & \textbf{Liczba punktów do przyznania} & \textbf{Waga} \\ \hline
+		
+		A - asymetria &
+		0 - brak asymetrii w osi X i Y \newline
+		1 - asymetria w jednej z osi \newline
+		2 - asymetria w obu osiach
+		& 1,3 \\ \hline
+		
+		B - nieregularność granicy zmiany &
+		0 - brak nagłych zakończeń zmiany \newline
+		1 - nagłe zakończenie w jednym segmencie \newline
+		... \newline
+		8 - nagłe zakończenie w ośmiu segmentach
+		& 0,1 \\ \hline
+		
+		C - zróżnicowanie kolorów zmiany &
+		1 - jeden kolor \newline
+		2 - dwa kolory \newline
+		... \newline
+		6 - sześć kolorów
+		& 0,5 \\ \hline
+		
+		D - elementy strukturalne &
+		1 - jeden element \newline
+		... \newline
+		5 - pięć elementów
+		& 0,5 \\ \hline
+		
 	\end{tabular}
+	\source{Opracowanie własne na podstawie \cite{Nachbar_Stolz_Merkle_Cognetta_Vogt_Landthaler_Bilek_Braun-Falco_Plewig_1994}}
 \end{table}
 
 W 2004 roku rozszerzono tę zasadę o dodatkową cechę "E", oznaczającą ewolucję rozmiaru, kształtu, koloru, powierzchni oraz innych objawów, co pozwala uwzględnić dynamiczny charakter nowotworu \cite{Abbasi_Shaw_Rigel_Friedman_McCarthy_Osman_Kopf_Polsky_2004, Duarte_Sousa-Pinto_Azevedo_Barros_Puig_Malvehy_Haneke_Correia_2021}.
@@ -78,13 +102,13 @@ Jeśli takie cechy nie są obecne, sprawdzane jest sześć dodatkowych cech pows
 
 Badanie dermoskopowe stosowane w połączeniu z algorytmami diagnostycznymi oraz wywiadem z pacjentem, stanowi skuteczną metodę profilaktyki czerniaka ze względu na swoją szybkość, nieinwazyjność oraz możliwość ograniczenia konieczności wykonania biopsji skóry.
 Dokładność rozpoznań klinicznych dla zmian barwnikowych po zastosowaniu dermoskopii wzrasta o około 30\% w porównaniu z badaniem okiem nieuzbrojonym.
-Należy jednak podkreślić, że algorytmy dermoskopowe wykazują ograniczoną skuteczność w przypadku wykrywania wczesnych czerniaków o średnicy poniżej 5 mm, czerniaków guzkowych i bezbarwnikowych oraz zmian w odrębie owłosionej skóry głowy, dłoni i stóp, twarzy, błon śluzowych jamy ustnej i narządów płciowych \cite{Rutkowski_J. Wysocki_Nasierowska-Guttmejer_Fijuth_Kalinka-Warzocha_Świtaj_Jeziorski_Szacht_Zegarski_Wysocki_et al._2016, dermatoscopy-kamiska-wiciorek-spiewak, Sonthalia_Yumeen_Kaliyadan_2025, Davis_Piggott_Lyon_DeSanto_2020}.
+Należy jednak podkreślić, że algorytmy dermoskopowe wykazują ograniczoną skuteczność w przypadku wykrywania wczesnych czerniaków o średnicy poniżej 5 mm, czerniaków guzkowych i bezbarwnikowych oraz zmian w odrębie owłosionej skóry głowy, dłoni i stóp, twarzy, błon śluzowych jamy ustnej i narządów płciowych \cite{Wysocki_2016, dermatoscopy-kamiska-wiciorek-spiewak, Sonthalia_Yumeen_Kaliyadan_2025, Davis_Piggott_Lyon_DeSanto_2020}.
 Dermoskopię cechuje również wysoka zależność od doświadczenia specjalisty, ponieważ wymaga ona zarówno szkoleń jak i użycia metod klinicznych, rozumowania poznawczego, diagnostyki różnicowej i znajomości historii zdrowia pacjenta.
 Badanie dermoskopowe nie stanowi ostatecznej diagnozy i powinno być połączone z histopatologią, ponieważ umożliwia one jednoznaczne rozstrzygnięcie diagnostyki w przypadkach, w których jest widoczny wyraźny wzorzec dermoskopowy \cite{Sonthalia_Yumeen_Kaliyadan_2025, Yélamos_Braun_Liopyris_Wolner_Kerl_Gerami_Marghoob_2019}. 
 
-\subsection{Głębokie uczenie w dermatologii}
-\subsubsection{Podstawy deep learning}
-W 2000 roku opracowano pierwszy komputerowy system dermoskopii cyfrowej, klasyfikujący zmiany skórne na podstawie cech charakterystycznych czerniaka opisanych w metodzie ABCD i siedmiu punktów \cite{Krusin_Elbaum_Jacobs_Keem_Kopf_Kamino_Wang_Rubin_Rabinovitz_Oliviero_2000}.
+\section{Głębokie uczenie w dermatologii}
+\subsection{Podstawy deep learning}
+W 2000 roku opracowano pierwszy komputerowy system dermoskopii cyfrowej, klasyfikujący zmiany skórne na podstawie cech charakterystycznych czerniaka opisanych w metodzie ABCD i siedmiu punktów \cite{Oliviero_2000}.
 Wraz z dynamicznym rozwojem sztucznej inteligencji rozpoczęto badania nad jej zastosowaniem w medycynie, w tym w dermatologii \cite{Goodfellow-et-al-2016}.
 Sztuczna inteligencja (AI, ang. \textit{artificial intelligence}) stanowi szeroką dziedzinę badań dotyczącą zdolności systemów komputerowych do symulowania procesów poznawczych.
 Uczenie maszynowe (ML, ang. \textit{machine learning}) jest podzbiorem sztucznej inteligencji poświęconym algorytmom potrafiącym uczyć się z danych oraz identyfikować wzorce bez konieczności dostarczania instrukcji.
@@ -93,7 +117,7 @@ Głębokie uczenie (DL, ang. \textit{deep learning}) to obszar uczenia maszynowe
 
 \begin{figure}
 	\centering
-	\includegraphics[width=0.7\linewidth]{ai_ml_dl}
+	\includegraphics[width=0.5\linewidth]{ai_ml_dl}
 	\caption{Relacje między sztuczną inteligencją, uczeniem maszynowym i głębokim uczeniem}
 	\source{opracowanie własne}
 	\label{fig:aimldl}
@@ -112,7 +136,7 @@ Następnie warstwa \textit{fully connected} przypisuje prawdopodobieństwo przyn
 
 \begin{figure}
 	\centering
-	\includegraphics[width=0.7\linewidth]{cnn}
+	\includegraphics[width=0.9\linewidth]{cnn}
 	\caption{Podstawowa architektura konwolucyjnej sieci neuronowej}
 	\source{opracowanie własne na podstawie \cite{Ghosh_2020}}
 	\label{fig:cnn}
@@ -131,11 +155,12 @@ Dokładność można wyrazić następujących wzorem:
 	\text{Accuracy} = \frac{TP+TN}{TP+FP+TN+FN}
 \end{equation}
 gdzie:
+
 \begin{itemize}
-	\item TP — liczba prawdziwie pozytywnych klasyfikacji,
-	\item TN — liczba prawdziwie negatywnych klasyfikacji,
-	\item FP — liczba fałszywie pozytywnych klasyfikacji,
-	\item FN — liczba fałszywie negatywnych klasyfikacji.
+	\item TP - liczba prawdziwie pozytywnych klasyfikacji,
+	\item TN - liczba prawdziwie negatywnych klasyfikacji,
+	\item FP - liczba fałszywie pozytywnych klasyfikacji,
+	\item FN - liczba fałszywie negatywnych klasyfikacji.
 \end{itemize}
 
 Dokładność nie jest optymalną metryką szczególnie w przypadku zbiorów danych, w których liczebności klas nie są równe. 
@@ -192,7 +217,7 @@ Krzywa charakterystyki operacyjnej odbiornika (ang. \textit{Receiver Operating C
 AUC (ang. \textit{Area Under the Curve}) określa obszar pod krzywą ROC i stanowi miarę jakości klasyfikatora. 
 Wartość AUC równa 0,5 oznacza model działający na poziomie losowego klasyfikatora, 1 świadczy o perfekcyjnym modelu \cite{Erickson_Kitamura_2021}.
 
-\subsubsection{Klasyfikacja binarna}
+\subsection{Klasyfikacja binarna}
 \citet{diagnostics12102472} opracowali metodę agregującą wyniki wielu modeli w celu klasyfikacji nowotworów skóry jako złośliwe lub łagodne.
 Zbiór danych obejmował 1000 obrazów czerniaka i 1000 zdjęć nowotworów łagodnych pochodzących z archiwów ISIC.
 W badaniu wykorzystano maszynę wektorów nośnych, lasy losowe oraz metodę k-najbliższych sąsiadów, a także głębokie sieci neuronowe takie jak Xception, ResNet50 oraz VGG16.
@@ -207,7 +232,7 @@ Metoda osiągnęła dokładność 95\%, czułość 97\% i swoistość 96\%.
 Zastosowali augmentację danych zwiększającą liczbę przykładów do 200 000 oraz techniki transfer learning oraz double transfer learning.
 W badaniu uzyskano dokładność wynoszącą 98,57\%, pełność 97,9\%, precyzja 99,18\% oraz F1 równe 98,53\%.
 
-\citet{Jojoa Acosta_Caballero Tovar_Garcia-Zapirain_Percybrooks_2021} przedstawili architekturę składającą się z dwóch konwolucyjnych sieciach neuronowych.
+\citet{Percybrooks_2021} przedstawili architekturę składającą się z dwóch konwolucyjnych sieciach neuronowych.
 Pierwsza generowała maskę obszaru istotnego (ang. \textit{region of interest}), natomiast druga była oparta na architekturze ResNet152 i klasyfikowała zmiany jako łagodne i złośliwe.
 Wykorzystano dane z konkursu ISIC z 2017 roku oraz dodatkowo dane ze zbioru PH2, zastosowano technikę \textit{downsampling} dla klasy łagodnej, czyli zmniejszono liczbę przykładów z tej klasy, oraz technikę augmentacji danych.
 Najlepszy model osiągnął czułość 82\%, swoistość 92,5\%, dokładność 90,4\%.
@@ -216,7 +241,7 @@ Najlepszy model osiągnął czułość 82\%, swoistość 92,5\%, dokładność 9
 Autorzy wykorzystali zbiór Interactive Atlas of Dermoscopy oraz dane z konkursu ISIC 2017.
 Przetestowano modele ImageNet, VGG-M i VGG-16, wykazując, że \textit{fine-tuning} znacząco poprawia wyniki klasyfikację, a \textit{transfer learning} jest najbardziej efektywny w przypadku modeli uczonych na danych o wysokim stopniu ogólności, takich jak ImageNet.
 
-\subsubsection{Klasyfikacja wieloklasowa}
+\subsection{Klasyfikacja wieloklasowa}
 \citet{Alwakid_Gouda_Humayun_Sama_2022} przedstawili trzy etapową technikę polegają na wstępnym poprawieniu jakości obrazu, segmentacji obszaru istotnego a następnie analizy przez zmodyfikowany model ResNet-50.
 Autorzy wykorzystali zbiór HAM10000 opublikowany przez International Skin Imaging Collaboration, który obejmuje siedem klas: raka podstawnokomórkowego, czerniaka złośliwego, włókniaka twardego, łagodne rogowacenie, zmiany naczyniowe oraz melanocytowe.
 Opracowana metoda osiągnęła dokładność 86\%, precyzję 84\%, pełność 86\% oraz F1 na poziomie 86\%, znacznie przewyższając wyniki wcześniejszych badań.
@@ -246,7 +271,7 @@ Szczególnie skupiono się na rozróżnianiu nowotworów keratynocytowych (rak p
 Sieć wykazała się skutecznością na poziomie porównywalnym z dermatologami.
 Autorzy zasugerowali wykorzystanie tego typu rozwiązań do zapewnienia powwszechnego dostępu do opieki diagnostycznej po niższych kosztach przy pomocy urządzeń mobilnych.
 
-\subsubsection{Rozwiązania mobilne}
+\subsection{Rozwiązania mobilne}
 
 W 2019 \citet{Ajisafe_2020} przedstawili aplikację mobilną na systemy Android klasyfikującą zmiany skórne na łagodne i złośliwe.
 Autorzy zastosowali własny, trzy warstwowy model konwolucyjnej sieci neuronowej, VGG-16 oraz Google Inception V3.
@@ -276,17 +301,17 @@ Autorzy nie opublikowali szczegółowych wyników walidacji ani metryk oceniają
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!OPISAĆ RESZTĘ BADAŃ PO DOSTANIU DOSTĘPU!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-\subsection{Wyzwania związane z głębokim uczeniem w dziedzinie dermatoogii}
+\section{Wyzwania związane z głębokim uczeniem w dziedzinie dermatologii}
 Wprowadzanie systemów opartych na głębokim uczeniu do praktyki klinicznej, szczególnie do diagnostyki dermatologicznej, wiąże się z szeregiem wyzwań technicznych, etycznych, regulacyjnych i społecznych.
 Poniżej przedstawiono najważniejsze ograniczenia i problemy, z którymi wiąże się wdrażanie rozwiązań AI w dermatologii.
 
-\subsubsection{Stronniczość i ograniczona reprezentatywność}
+\subsection{Stronniczość i ograniczona reprezentatywność}
 Kluczowym problemem modeli identyfikujących zmiany skórne jest ich stronniczość.
 Wynika ona z struktury i jakości dostępnych danych treningowych - większość z nich obejmuje głównie obrazy pacjentów o jasnym fototypie skóry, co obniża skuteczność modeli w przypadku osób o ciemniejszej karnacji.
 Badania wykazały, że sztuczna inteligencja pogłębia uprzedzenia uwzględnione w danych, co jest szczególnie niebezpieczne w dermatologii, ponieważ pacjenci o ciemniejszej skórze mają statystycznie niższe wskaźniki przeżycia w przypadku nowotworów skóry \cite{Aldaham_2016}.
 W odpowiedzi na ten problem powstały zbiory takie jak Fitzpatrick17k, obejmujące szerokie spektrum fototypów skóry, jednak brak obrazów dermoskopowych znacząco ogranicza ich przydatność \cite{groh2021evaluating}.
 
-\subsubsection{Problemy z generalizacją}
+\subsection{Problemy z generalizacją}
 Niektóre modele głębokiego nauczania mogą wykazywać słabą zdolność generalizacji, działając dobrze wyłącznie na danych pochodzących z zbioru treningowego i walidacyjnego. 
 W praktyce klinicznej zdjęcia zmian skórnych mogą być wykonywane różnymi urządzeniami w różnych warunkach, co może obniżyć skuteczność algorytmu \cite{Kelly_Karthikesalingam_Suleyman_Corrado_King_2019}.
 Dodatkowo modele mogą uczyć się cech nieistotnych klinicznie, takich jak włosy lub odbicia światła.
@@ -294,7 +319,7 @@ W jednym badaniu wykazano, że sztuczna inteligencja traktowała obecność lini
 Wiele modeli klasyfikacji zmian skórnych nie uwzględnia istotnych czynników klinicznych, takich jak wiek pacjenta, ekspozycja na promieniowanie UV czy historia nowotworów skóry w rodzinie.
 Ponadto, obecnie sztuczna inteligencja nie jest w stanie zastosować metody "brzydkiego kaczątka", ponieważ algorytmy nie potrafią jeszcze porównywać wielu znamion u jednego pacjenta, aby określić, które z nich odbiega od jego fenotypu znamionowego.
 
-\subsubsection{Brak wyjaśnialności modeli}
+\subsection{Brak wyjaśnialności modeli}
 Modele głębokiego uczenia działają na zasadzie "czarnej skrzynki", co utrudnia w wielu przypadkach uzasadnienie decyzji podjętych przez model.
 W medycynie kluczowe jest zrozumienie oraz weryfikacja diagnozy, dlatego tworzenie wyjaśnialnej sztucznej inteligencji (XAI, ang.\textit{Explainable Artificial Intelligence}) stanowi poważne wyzwanie w wdrażaniu głębokiego uczenia \cite{Herrera_2023, He_Baxter_Xu_Xu_Zhou_Zhang_2019, Kelly_Karthikesalingam_Suleyman_Corrado_King_2019}.
 
@@ -305,19 +330,19 @@ Dane powinny być przechowywane i wykorzystywane z zachowaniem wysokiego stopnia
 Integracja danych medycznych jest dodatkowo utrudniona przez brak standaryzacji.
 \citet{He_Baxter_Xu_Xu_Zhou_Zhang_2019} wskazują na potrzebę stworzenia globalnych standardów archiwizacji danych medycznych, analogicznych do standardów obrazowania DICOM (ang. \textit{Digital Imaging and Communications in Medicine}).
 
-\subsubsection{Regulacje prawne i odpowiedzialność}
+\subsection{Regulacje prawne i odpowiedzialność}
 Kluczowym krokiem we wprowadzaniu bezpiecznych i efektywnych algorytmów uczenia maszynowego do praktyki medycznej są odpowiednie regulacje i rygorystyczna kontrola jakości \cite{Kelly_Karthikesalingam_Suleyman_Corrado_King_2019, He_Baxter_Xu_Xu_Zhou_Zhang_2019}.
 W Unii Europejskiej szczególne znaczenie ma Ogólne Rozporządzenie o Ochronie Danych oraz rozporządzenie o sztucznej inteligencji "AI Act" \cite{RODO, EU2024AIAct}.
 Zgodnie z art. 22 RODO każda osoba ma prawo nie podlegać decyzjom podejmowanym wyłącznie automatycznie oraz ma prawo wymagać wyjaśnienia decyzji podjętych przez algorytm, co na obecnym etapie rozwoju technologii AI jest często niemożliwe \cite{He_Baxter_Xu_Xu_Zhou_Zhang_2019, RODO}.
 Rozporządzenie AI Act ma na celu zdefiniowanie sztucznej inteligencji oraz ustanowienie ram prawnych dotyczących tworzenia usług i produktów opartych na AI.
 Systemy medyczne wykorzystujące sztuczną inteligencję w większości należą do kategorii wysokiego ryzyka, co wiąże się z koniecznością spełnienia wymogów dotyczących zarządzania ryzykiem, jakości danych, nadzoru ludzkiego oraz cyberbezpieczeństwa \cite{EU2024AIAct, Oirschot_2024}.
 
-\subsubsection{Problemy społeczne}
+\subsection{Problemy społeczne}
 Wdrożenie AI w medycynie wymaga odpowiedniego wyszkolenia kadry medycznej.
 Lekarze powinni znać zarówno możliwości jak i ograniczenia technologii głębokiego uczenia, aby móc z niej bezpiecznie korzystać.
 Badania wykazują, że pacjenci i lekarze obawiają się, że adaptacja sztucznej inteligencji w opiece medycznej będzie skutkować depersonalizacją medycyny i ograniczeniem roli lekarza w procesie diagnostycznym \cite{Tang_Li_Fantus_2023}.
 
-\subsubsection{Wyzwania związane z aplikacjami mobilnymi}
+\subsection{Wyzwania związane z aplikacjami mobilnymi}
 W przypadku aplikacji mobilnych dodatkowym problemem jest jakość zdjęć wykonywanych przez użytkowników.
 Rozmazanie, niewłaściwe oświetlenie lub zbyt małe powiększenie mogą znacząco obniżyć skuteczność modelu i prowadzić do błędnych wyników.
 

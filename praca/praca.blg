@@ -1,21 +1,24 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'praca.blg'
-[167] biber-MSWIN64:340> INFO - === 
-[201] Biber.pm:419> INFO - Reading 'praca.bcf'
-[329] Biber.pm:979> INFO - Found 22 citekeys in bib section 0
-[392] Biber.pm:4419> INFO - Processing section 0
-[404] Biber.pm:4610> INFO - Looking for bibtex file 'bibliografia.bib' for section 0
-[463] bibtex.pm:1713> INFO - LaTeX decoding ...
-[521] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliografia.bib'
-[765] UCollate.pm:68> INFO - Overriding locale 'pl-PL' defaults 'variable = shifted' with 'variable = non-ignorable'
-[765] UCollate.pm:68> INFO - Overriding locale 'pl-PL' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[765] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'pl-PL'
-[818] UCollate.pm:68> INFO - Overriding locale 'pl-PL' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[818] UCollate.pm:68> INFO - Overriding locale 'pl-PL' defaults 'variable = shifted' with 'variable = non-ignorable'
-[818] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'pl-PL'
-[854] bbl.pm:660> INFO - Writing 'praca.bbl' with encoding 'UTF-8'
-[923] bbl.pm:763> INFO - Output to praca.bbl
-[923] Biber.pm:131> WARN - ISBN '9781789844283 9781789844290' in entry 'sezer_application_2020' is invalid - run biber with '--validate_datamodel' for details.
-[924] Biber.pm:131> WARN - I didn't find a database entry for 'riganti_artificial_2020' (section 0)
-[924] Biber.pm:131> WARN - I didn't find a database entry for '10.1117/12.221630' (section 0)
-[924] Biber.pm:133> INFO - WARNINGS: 3
+[92] biber-MSWIN64:340> INFO - === 
+[126] Biber.pm:419> INFO - Reading 'praca.bcf'
+[256] Biber.pm:979> INFO - Found 78 citekeys in bib section 0
+[276] Biber.pm:4419> INFO - Processing section 0
+[287] Biber.pm:4610> INFO - Looking for bibtex file 'bibliografia.bib' for section 0
+[408] bibtex.pm:1713> INFO - LaTeX decoding ...
+[561] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliografia.bib'
+[1163] UCollate.pm:68> INFO - Overriding locale 'pl-PL' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1163] UCollate.pm:68> INFO - Overriding locale 'pl-PL' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1163] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'pl-PL'
+[1332] UCollate.pm:68> INFO - Overriding locale 'pl-PL' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1333] UCollate.pm:68> INFO - Overriding locale 'pl-PL' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1333] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'pl-PL'
+[1443] bbl.pm:660> INFO - Writing 'praca.bbl' with encoding 'UTF-8'
+[1621] bbl.pm:763> INFO - Output to praca.bbl
+[1622] Biber.pm:131> WARN - ISBN '9781789844283 9781789844290' in entry 'sezer_application_2020' is invalid - run biber with '--validate_datamodel' for details.
+[1622] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\User\AppData\Local\Temp\biber_tmp_YvKg\499af1e6906591d6961f19d66c065a09_432.utf8, line 541, warning: undefined macro "july"
+[1622] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\User\AppData\Local\Temp\biber_tmp_YvKg\499af1e6906591d6961f19d66c065a09_432.utf8, line 547, warning: undefined macro "sept"
+[1622] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\User\AppData\Local\Temp\biber_tmp_YvKg\499af1e6906591d6961f19d66c065a09_432.utf8, line 566, warning: undefined macro "july"
+[1622] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\User\AppData\Local\Temp\biber_tmp_YvKg\499af1e6906591d6961f19d66c065a09_432.utf8, line 569, warning: undefined macro "june"
+[1622] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\User\AppData\Local\Temp\biber_tmp_YvKg\499af1e6906591d6961f19d66c065a09_432.utf8, line 580, warning: undefined macro "july"
+[1622] Biber.pm:133> INFO - WARNINGS: 6
