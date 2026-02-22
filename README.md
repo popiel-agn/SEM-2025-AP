@@ -1,12 +1,12 @@
-# 📱 Skin Lesion Classifier – Aplikacja Android wykorzystująca model machine learning do klasyfikacji zmian skórnych
+# 📱 Skin Lesion Classifier - Aplikacja Android wykorzystująca model machine learning do klasyfikacji zmian skórnych
 
-Aplikacja mobilna umożliwiająca klasyfikację zmian skórnych na podstawie zdjęcia użytkownika, wykorzystując wytrenowany model uczenia maszynowego oparty na zbiorze danych [HAM10000](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T).
+Aplikacja mobilna umożliwiająca klasyfikację zmian skórnych na podstawie zdjęcia użytkownika, wykorzystując konwolucyjne sieci neuronowe.
 
 ## 🎯 Funkcjonalność aplikacji
 MVP – wersja demonstracyjna z podstawową funkcjonalnością
 - Możliwość wykonania zdjęcia zmiany skórnej lub wybrania zdjęcia z galerii
 - Przesłanie zdjęcia do lokalnego modelu ML
-- Predykcja klasy zmiany skórnej (jedna z 7 klas)
+- Predykcja klasy zmiany skórnej
 - Wyświetlenie wyniku klasyfikacji
 
 ## 🛠 Technologie
