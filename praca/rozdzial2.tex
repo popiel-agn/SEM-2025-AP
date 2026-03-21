@@ -134,6 +134,11 @@ W efekcie warstwy konwolucyjne najniższych poziomów wykrywają podstawowe cech
 W przypadku dermoskopowego zdjęcia czerniaka najniższe warstwy przetwarzają podstawowe cechy, takie jak kolor, a kolejne analizują zależności między pojedynczymi pikselami, wykrywając cechy morfologiczne. 
 Następnie warstwa \textit{fully connected} przypisuje prawdopodobieństwo przynależności obrazu do jednej z klas \cite{Ghosh_2020}.
 
+W związku z opisanym mechanizmem wiele badaczy analizujących możliwości konwolucyjnych sieci neuronowych w dziedzinach medycznych decyduje się na zastosowanie uczenia transferowego (ang. \textit{transfer learning}).
+Uczenie transferowe polega na wykorzystaniu wag wstępnie wyszkolonego modelu na dużym, ogólnym zbiorze danych w innym, bardziej wyspecjalizowanym zadaniu, często z mniejszym zbiorem danych.
+Najczęściej stosowane modele wstępnie wytrenowane to AlexNet, VGGNet, GoogLeNet, DenseNet, EfficientNet oraz ich liczne modele pochodne i mieszane.
+Technika \textit{transfer learning} jest szeroko wykorzystywana w analizie obrazów medycznych w celu ich segmentacji i klasyfikacji \cite{Ghosh_2020, Mahbod_Schaefer_Wang_Dorffner_Ecker_Ellinger_2020}.
+
 \begin{figure}
 	\centering
 	\includegraphics[width=0.9\linewidth]{cnn}
@@ -142,14 +147,9 @@ Następnie warstwa \textit{fully connected} przypisuje prawdopodobieństwo przyn
 	\label{fig:cnn}
 \end{figure}
 
-W związku z opisanym mechanizmem wiele badaczy analizujących możliwości konwolucyjnych sieci neuronowych w dziedzinach medycznych decyduje się na zastosowanie uczenia transferowego (ang. \textit{transfer learning}).
-Uczenie transferowe polega na wykorzystaniu wag wstępnie wyszkolonego modelu na dużym, ogólnym zbiorze danych w innym, bardziej wyspecjalizowanym zadaniu, często z mniejszym zbiorem danych.
-Najczęściej stosowane modele wstępnie wytrenowane to AlexNet, VGGNet, GoogLeNet, DenseNet, EfficientNet oraz ich liczne modele pochodne i mieszane.
-Technika \textit{transfer learning} jest szeroko wykorzystywana w analizie obrazów medycznych w celu ich segmentacji i klasyfikacji \cite{Ghosh_2020, Mahbod_Schaefer_Wang_Dorffner_Ecker_Ellinger_2020}.
-
 Wydajność modeli uczenia maszynowego jest mierzona za pomocą kilku podstawowym metryk.
 Dokładność (ang. \textit{accuracy}) jest najprostszą miarą określającą zdolność modelu do dokonywania poprawnych przewidywań. 
-Jest stosunkiem liczby poprawnych predykcji do całkowitej liczby przykładów w zbiorze testowym \cite{Rainio_2024, Erickson_Kitamura_2021, Grandini_Bagli_Visani_2020}.
+Jest stosunkiem liczby poprawnych predykcji do całkowitej liczby przykładów w zbiorze testowym \cite{Rainio_2024, Erickson_Kitamura_2021, Grandini_Bagli_Visani_2020, Nowak_2022}.
 Dokładność można wyrazić następujących wzorem:
 \begin{equation}
 	\text{Accuracy} = \frac{TP+TN}{TP+FP+TN+FN}
@@ -164,7 +164,7 @@ gdzie:
 \end{itemize}
 
 Dokładność nie jest optymalną metryką szczególnie w przypadku zbiorów danych, w których liczebności klas nie są równe. 
-Jeżeli jedna klasa ma znacznie większą liczebność, model może osiągać wysoką dokładność, jednocześnie ignorując rzadkie, lecz kluczowe klinicznie przypadki, takie jak zmiany złośliwe \cite{Grandini_Bagli_Visani_2020}.
+Jeżeli jedna klasa ma znacznie większą liczebność, model może osiągać wysoką dokładność, jednocześnie ignorując rzadkie, lecz kluczowe klinicznie przypadki, takie jak zmiany złośliwe \cite{Grandini_Bagli_Visani_2020, Nowak_2022}.
 
 W przypadku klasyfikacji wieloklasowej szczególnie przydatna jest macierz pomyłek (ang. \textit{confusion matrix}).
 Przedstawia ona zestawienie liczby przypadków rzeczywistych i przewidzianych przez model dla każdej z klas, co pozwala ocenić, w jakim stopniu model rozróżnia każdą z klas i z jakimi klasami je myli.
@@ -182,7 +182,7 @@ Macierz pomyłek może być normalizowana względem liczby przykładów w klasie
 
 Pełność (ang \textit{recall}), w medycynie określana czułością (ang. \textit{sensitivity}) mierzy stosunek prawidłowo zakwalifikowanych pozytywnych przypadków.
 Wysoka pełność oznacza, że model wykrywa większość pozytywnych próbek.
-W diagnostyce medycznej czułość jest szczególnie istotna, ponieważ pominięcie przypadku pozytywnego oznacza niewykrycie choroby \cite{Rainio_2024}. 
+W diagnostyce medycznej czułość jest szczególnie istotna, ponieważ pominięcie przypadku pozytywnego oznacza niewykrycie choroby \cite{Rainio_2024, Nowak_2022}. 
 
 \begin{equation}
 	\text{Recall}=\frac{TP}{TP+FN}
@@ -190,14 +190,14 @@ W diagnostyce medycznej czułość jest szczególnie istotna, ponieważ pominię
 
 Precyzja (ang. \textit{precision}) określa odsetek prawidłowo sklasyfikowanych pozytywnych przypadków wśród wszystkich predykcji pozytywnych. 
 Wysoka precyzja oznacza, że model ma niską tendencję do klasyfikowania negatywnych przypadków jako pozytywne.
-Metryka ta jest szczególnie istotna w sytuacjach, w których pomyłki wiążą się z wysokim kosztem \cite{Rainio_2024, Erickson_Kitamura_2021}.
+Metryka ta jest szczególnie istotna w sytuacjach, w których pomyłki wiążą się z wysokim kosztem \cite{Rainio_2024, Erickson_Kitamura_2021, Nowak_2022}.
 
 \begin{equation}
 	\text{Precision}=\frac{TP}{TP+FP}
 \end{equation}
 
 Zwiększenie precyzji może odbyć się wyłącznie kosztem zmniejszenia pełności, a wzrost pełności spowoduje spadek precyzji, wobec czego jest konieczne znalezienie kompromisu między nimi bądź priorytetyzacja jednej z metryk.
-W diagnostyce czerniaka złośliwego kluczowa jest pełność, ponieważ koszt konsultacji lub biopsji jest niewielki w porównaniu z ryzykiem przeoczenia zmiany złośliwej \cite{Rainio_2024, Grandini_Bagli_Visani_2020}.
+W diagnostyce czerniaka złośliwego kluczowa jest pełność, ponieważ koszt konsultacji lub biopsji jest niewielki w porównaniu z ryzykiem przeoczenia zmiany złośliwej \cite{Rainio_2024, Grandini_Bagli_Visani_2020, Nowak_2022}.
 
 W badaniach medycznych często stosuje się również swoistość (ang. \textit{specificity}), definiowaną jako odsetek prawidłowo rozpoznanych przypadków negatywnych.
 Swoistość odzwierciedla zdolność modelu do unikania "fałszywych alarmów" \cite{Rainio_2024}. 
@@ -207,7 +207,7 @@ Swoistość odzwierciedla zdolność modelu do unikania "fałszywych alarmów" \
 \end{equation}
 
 Wynik F1 stanowi średnią harmoniczną z precyzji i pełności.
-Jest szczególnie przydatny w przypadku niezbalansowanych zbiorów, ponieważ odzwierciedla kompromis między obiema miarami \cite{Rainio_2024, Erickson_Kitamura_2021}.
+Jest szczególnie przydatny w przypadku niezbalansowanych zbiorów, ponieważ odzwierciedla kompromis między obiema miarami \cite{Rainio_2024, Erickson_Kitamura_2021, Nowak_2022}.
 
 \begin{equation}
 	\text{F1 Score}=\frac{2TP}{2TP+FN+FP}
@@ -216,6 +216,11 @@ Jest szczególnie przydatny w przypadku niezbalansowanych zbiorów, ponieważ od
 Krzywa charakterystyki operacyjnej odbiornika (ang. \textit{Receiver Operating Characteristic Curve}) przedstawia zależność między odsetkiem prawdziwie pozytywnych i fałszywie pozytywnych klasyfikacji.
 AUC (ang. \textit{Area Under the Curve}) określa obszar pod krzywą ROC i stanowi miarę jakości klasyfikatora. 
 Wartość AUC równa 0,5 oznacza model działający na poziomie losowego klasyfikatora, 1 świadczy o perfekcyjnym modelu \cite{Erickson_Kitamura_2021}.
+
+W przypadku analizy obejmującej więcej niż dwie klasy, wartości metryk podlegają agregacji na poziomie wszystkich klas.
+W tym celu stosuje się średnią arytmetyczną (ang. \textit{macro}) lub średnią ważoną (ang. \textit{weighted}).
+Alternatywnym podejściem jest globalne zliczanie poprawnych i niepoprawnych predykcji (ang. \textit{micro}) albo uśrednienie wyników metryk dla wszystkich próbek (ang. \textit{samples}) \cite{Nowak_2022}.
+
 
 \subsection{Klasyfikacja binarna}
 \citet{diagnostics12102472} opracowali metodę agregującą wyniki wielu modeli w celu klasyfikacji nowotworów skóry jako złośliwe lub łagodne.
@@ -276,7 +281,7 @@ W 2019 \citet{Ajisafe_2020} przedstawili aplikację mobilną dla systemu Android
 Autorzy zastosowali własny, trzy warstwowy model konwolucyjnej sieci neuronowej, VGG-16 oraz Google Inception V3.
 Model Inception V3 osiągnął dokładność 81\% i czułość 84\%.
 Dane uzyskano z archiwów ISIC a do trenowania wykorzystano 1758 obrazów poddanych technice augmentacji danych.
-Wytrenowany model Google Inception V3 przekonwertowano na model Tensorflow a następnie zaimportowano do prostej aplikacji androidowej bez interfejsu użytkownika.
+Wytrenowany model Google Inception V3 przekonwertowano na model Tensorflow a następnie zaimportowano do aplikacji androidowej z prostym interfejsem użytkownika.
 
 W aplikacji przedstawionej przez \citet{Wirawan_2020} wykorzystano model MobileNet v2, cechujący się niewielkim rozmiarem oraz niskim opóźnieniem, zaprojektowany w celu użycia na systemach mobilnych.
 Zebrano 640 obrazów z oficjalnej strony International Skin Imaging Collaboration i podzielono na zbiór treningowy, testowy oraz walidacyjny.
