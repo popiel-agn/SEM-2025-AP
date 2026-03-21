@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2024.1.7)  22 FEB 2026 19:07
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2024.1.7)  1 MAR 2026 15:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2180,36 +2180,36 @@ Package csquotes Info: Redefining alias 'default' -> 'polish'.
 
 Package biblatex Warning: Conflicting options.
 (biblatex)                'urldate=iso' requires 'dateera=astronomical'.
-(biblatex)                Setting 'dateera=astronomical' on input line 27.
+(biblatex)                Setting 'dateera=astronomical' on input line 28.
 
 
 Package biblatex Warning: Conflicting options.
 (biblatex)                'urldate=iso' requires 'seconds=true'.
-(biblatex)                Setting 'seconds=true' on input line 27.
+(biblatex)                Setting 'seconds=true' on input line 28.
 
 (praca.aux)
 \openout1 = `praca.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -2249,7 +2249,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 27.
+Package hyperref Info: Link coloring ON on input line 28.
 (praca.out) (praca.out)
 \@outlinefile=\write7
 \openout7 = `praca.out'.
@@ -2259,7 +2259,7 @@ Package hyperref Info: Link coloring ON on input line 27.
 Package todonotes Warning: The length marginparwidth is less than 2cm and will 
 most likely cause issues with the appearance of inserted todonotes. The issue c
 an be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to 
-loading the todonotes package. on input line 27.
+loading the todonotes package. on input line 28.
 
 Package biblatex Info: Trying to load language 'polish' -> 'polish-apa'...
 Package biblatex Info: ... file 'polish-apa.lbx' found.
@@ -2292,61 +2292,61 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'praca.bbl' found.
  (praca.bbl)
-Package biblatex Info: Reference section=0 on input line 27.
-Package biblatex Info: Reference segment=0 on input line 27.
+Package biblatex Info: Reference section=0 on input line 28.
+Package biblatex Info: Reference segment=0 on input line 28.
 \c@lstlisting=\count516
 LaTeX Font Info:    Font shape `TU/Calibri(1)/m/n' will be
-(Font)              scaled to size 12.97174pt on input line 29.
+(Font)              scaled to size 12.97174pt on input line 30.
 LaTeX Font Info:    Font shape `TU/Calibri(1)/m/n' will be
-(Font)              scaled to size 18.67929pt on input line 29.
+(Font)              scaled to size 18.67929pt on input line 30.
 LaTeX Font Info:    Font shape `TU/Calibri(1)/b/n' will be
-(Font)              scaled to size 18.67929pt on input line 29.
+(Font)              scaled to size 18.67929pt on input line 30.
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--29
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
 []\TU/Calibri(1)/m/n/17.28 Aplikacja mobilna jako klasyfikator zmian
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--29
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
 
  []
 
 LaTeX Font Info:    Font shape `TU/Calibri(1)/b/n' will be
-(Font)              scaled to size 12.97174pt on input line 29.
+(Font)              scaled to size 12.97174pt on input line 30.
 LaTeX Font Info:    Font shape `TU/CambriaMath(1)/m/n' will be
-(Font)              scaled to size 8.97679pt on input line 29.
+(Font)              scaled to size 8.97679pt on input line 30.
 LaTeX Font Info:    Font shape `TU/CambriaMath(1)/m/n' will be
-(Font)              scaled to size 7.37819pt on input line 29.
+(Font)              scaled to size 7.37819pt on input line 30.
 LaTeX Font Info:    Font shape `TU/CambriaMath(2)/m/n' will be
-(Font)              scaled to size 12.29828pt on input line 29.
+(Font)              scaled to size 12.29828pt on input line 30.
 LaTeX Font Info:    Font shape `TU/CambriaMath(2)/m/n' will be
-(Font)              scaled to size 8.97774pt on input line 29.
+(Font)              scaled to size 8.97774pt on input line 30.
 LaTeX Font Info:    Font shape `TU/CambriaMath(2)/m/n' will be
-(Font)              scaled to size 7.37895pt on input line 29.
+(Font)              scaled to size 7.37895pt on input line 30.
 LaTeX Font Info:    Font shape `TU/CambriaMath(3)/m/n' will be
-(Font)              scaled to size 12.29572pt on input line 29.
+(Font)              scaled to size 12.29572pt on input line 30.
 LaTeX Font Info:    Font shape `TU/CambriaMath(3)/m/n' will be
-(Font)              scaled to size 8.97586pt on input line 29.
+(Font)              scaled to size 8.97586pt on input line 30.
 LaTeX Font Info:    Font shape `TU/CambriaMath(3)/m/n' will be
-(Font)              scaled to size 7.37741pt on input line 29.
+(Font)              scaled to size 7.37741pt on input line 30.
 LaTeX Font Info:    Font shape `TU/Calibri(3)/m/n' will be
-(Font)              scaled to size 9.46936pt on input line 29.
+(Font)              scaled to size 9.46936pt on input line 30.
 LaTeX Font Info:    Font shape `TU/Calibri(3)/m/n' will be
-(Font)              scaled to size 7.78304pt on input line 29.
+(Font)              scaled to size 7.78304pt on input line 30.
 LaTeX Font Info:    Font shape `TU/CalibriItalic(0)/m/n' will be
-(Font)              scaled to size 9.44743pt on input line 29.
+(Font)              scaled to size 9.44743pt on input line 30.
 LaTeX Font Info:    Font shape `TU/CalibriItalic(0)/m/n' will be
-(Font)              scaled to size 7.76501pt on input line 29.
+(Font)              scaled to size 7.76501pt on input line 30.
 LaTeX Font Info:    Font shape `TU/CalibriBold(0)/m/n' will be
-(Font)              scaled to size 9.46936pt on input line 29.
+(Font)              scaled to size 9.46936pt on input line 30.
 LaTeX Font Info:    Font shape `TU/CalibriBold(0)/m/n' will be
-(Font)              scaled to size 7.78304pt on input line 29.
+(Font)              scaled to size 7.78304pt on input line 30.
 LaTeX Font Info:    Font shape `TU/CalibriBoldItalic(0)/m/n' will be
-(Font)              scaled to size 9.46936pt on input line 29.
+(Font)              scaled to size 9.46936pt on input line 30.
 LaTeX Font Info:    Font shape `TU/CalibriBoldItalic(0)/m/n' will be
-(Font)              scaled to size 7.78304pt on input line 29.
+(Font)              scaled to size 7.78304pt on input line 30.
 LaTeX Font Info:    Font shape `TU/Calibri(1)/m/n' will be
-(Font)              scaled to size 11.8367pt on input line 29.
+(Font)              scaled to size 11.8367pt on input line 30.
 File: header-WIGE-pl.png Graphic file (type bmp)
 <header-WIGE-pl.png>
 [1
@@ -2356,9 +2356,9 @@ File: header-WIGE-pl.png Graphic file (type bmp)
 
 ]
 LaTeX Font Info:    Font shape `TU/Calibri(0)/m/n' will be
-(Font)              scaled to size 26.89474pt on input line 33.
+(Font)              scaled to size 26.89474pt on input line 34.
 LaTeX Font Info:    Font shape `TU/Calibri(0)/b/n' will be
-(Font)              scaled to size 26.89474pt on input line 33.
+(Font)              scaled to size 26.89474pt on input line 34.
  (praca.toc
 LaTeX Font Info:    Font shape `TU/Calibri(0)/b/n' will be
 (Font)              scaled to size 12.97174pt on input line 2.
@@ -2433,57 +2433,140 @@ etB0, EfficientNetB1 i
  []
 
 [13] [14] [15]
-Underfull \hbox (badness 10000) in paragraph at lines 302--303
+Underfull \hbox (badness 10000) in paragraph at lines 301--302
 []\TU/Calibri(1)/m/n/12 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!OPISAĆ RESZTĘ 
 BADAŃ PO DOSTANIU DO-
  []
 
 [16] [17] [18] [19]) (rozdzial3.tex [20]
 Rozdział 3.
-) (rozdzial4.tex [21
+[21
 
-]
+] [22] [23] [24] [25] [26]
+LaTeX Font Info:    Font shape `TU/Calibri(0)/m/n' will be
+(Font)              scaled to size 6.48587pt on input line 160.
+LaTeX Font Info:    Font shape `TU/CambriaMath(1)/m/n' will be
+(Font)              scaled to size 6.1485pt on input line 163.
+LaTeX Font Info:    Font shape `TU/CambriaMath(1)/m/n' will be
+(Font)              scaled to size 5.12375pt on input line 163.
+LaTeX Font Info:    Font shape `TU/CambriaMath(2)/m/n' will be
+(Font)              scaled to size 6.14914pt on input line 163.
+LaTeX Font Info:    Font shape `TU/CambriaMath(2)/m/n' will be
+(Font)              scaled to size 5.12428pt on input line 163.
+LaTeX Font Info:    Font shape `TU/CambriaMath(3)/m/n' will be
+(Font)              scaled to size 6.14786pt on input line 163.
+LaTeX Font Info:    Font shape `TU/CambriaMath(3)/m/n' will be
+(Font)              scaled to size 5.12321pt on input line 163.
+LaTeX Font Info:    Font shape `TU/Calibri(3)/m/n' will be
+(Font)              scaled to size 6.48587pt on input line 163.
+LaTeX Font Info:    Font shape `TU/Calibri(3)/m/n' will be
+(Font)              scaled to size 5.40489pt on input line 163.
+LaTeX Font Info:    Font shape `TU/CalibriItalic(0)/m/n' will be
+(Font)              scaled to size 6.47086pt on input line 163.
+LaTeX Font Info:    Font shape `TU/CalibriItalic(0)/m/n' will be
+(Font)              scaled to size 5.39238pt on input line 163.
+LaTeX Font Info:    Font shape `TU/CalibriBold(0)/m/n' will be
+(Font)              scaled to size 6.48587pt on input line 163.
+LaTeX Font Info:    Font shape `TU/CalibriBold(0)/m/n' will be
+(Font)              scaled to size 5.40489pt on input line 163.
+LaTeX Font Info:    Font shape `TU/CalibriBoldItalic(0)/m/n' will be
+(Font)              scaled to size 6.48587pt on input line 163.
+LaTeX Font Info:    Font shape `TU/CalibriBoldItalic(0)/m/n' will be
+(Font)              scaled to size 5.40489pt on input line 163.
+LaTeX Font Info:    Font shape `TU/Calibri(0)/b/n' will be
+(Font)              scaled to size 6.48587pt on input line 165.
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--169
+[]|\TU/Calibri(0)/b/n/6 Metoda zbierania
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
+[]|\TU/Calibri(3)/m/n/6 Badanie dermosko-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--190
+[]|\TU/Calibri(3)/m/n/6 Zdjęcia kliniczne,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--190
+\TU/Calibri(3)/m/n/6 zdjęcia z przybli-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--190
+\TU/Calibri(3)/m/n/6 żeniem, badanie
+ []
+
+
+Underfull \hbox (badness 1092) in paragraph at lines 248--248
+[]|\TU/Calibri(3)/m/n/6 Zdjęcia kliniczne wy-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 261--261
+[]|\TU/Calibri(3)/m/n/6 Zdjęcia wykonane
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--266
+[]|\TU/Calibri(3)/m/n/6 Badanie dermosko-
+ []
+
+
+Underfull \hbox (badness 1910) in paragraph at lines 271--271
+[]|\TU/Calibri(3)/m/n/6 Zdjęcia wykonane w
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--290
+[]|\TU/Calibri(3)/m/n/6 Zdjęcia wykonane
+ []
+
+) (rozdzial4.tex [27] [28] [29]
 Rozdział 4.
-) (rozdzial5.tex [22
+) (rozdzial5.tex [30
 
 ]
 Rozdział 5.
-) (zakonczenie.tex [23
+) (zakonczenie.tex [31
 
 ]
 Rozdział 6.
-) [24
+) [32
 
 ]
 LaTeX Font Info:    Font shape `TU/InconsolataLGC(0)/m/n' will be
-(Font)              scaled to size 10.79993pt on input line 44.
- [25
+(Font)              scaled to size 10.79993pt on input line 45.
+ [33
 
-] [26]
-Underfull \hbox (badness 1642) in paragraph at lines 45--45
+] [34] [35]
+Underfull \hbox (badness 1642) in paragraph at lines 46--46
 []\TU/Calibri(1)/m/n/12 Goodfellow, I., Bengio, Y., Courville, A. (2016). \TU/C
 alibri(0)/m/it/12 Deep Learning \TU/Calibri(1)/m/n/12 [[][]$[][][][] [] [] [] [
 ][][] []
  []
 
-[27] [28] [29] [30] [31] [32] [33] [34] (praca.lot)
+[36] [37] [38] [39] [40] [41] [42] [43] (praca.lot)
 \tf@lot=\write10
 \openout10 = `praca.lot'.
 
- [35
+ [44
 
 ] (praca.lof)
 \tf@lof=\write11
 \openout11 = `praca.lof'.
 
- [36
+ [45
 
 ]
 (praca.lol)
 \tf@lol=\write12
 \openout12 = `praca.lol'.
 
- [37
+ [46
 
 ] (praca.aux)
  ***********
@@ -2492,24 +2575,26 @@ L3 programming layer <2023-10-10>
  ***********
 
 
-Package rerunfilecheck Warning: File `praca.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
+LaTeX Warning: There were undefined references.
 
-Package rerunfilecheck Info: Checksums for `praca.out':
-(rerunfilecheck)             Before: 297CFEEE4409F8399D1A3B887E266FC5;6538
-(rerunfilecheck)             After:  6DA81B3940207B65F71D2D37D1E42728;6614.
+Package rerunfilecheck Info: File `praca.out' has not changed.
+(rerunfilecheck)             Checksum: 0B68031972F038F07B258A5B707B743C;7528.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                praca
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'praca.run.xml'.
 \openout1 = `praca.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 42018 strings out of 409955
- 827218 string characters out of 5781419
+ 42124 strings out of 409955
+ 830937 string characters out of 5781419
  1938674 words of memory out of 5000000
- 63147 multiletter control sequences out of 15000+600000
- 560854 words of font info for 104 fonts, out of 8000000 for 9000
+ 63238 multiletter control sequences out of 15000+600000
+ 561663 words of font info for 119 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 123i,10n,137p,2745b,5656s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 123i,12n,137p,2745b,5736s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on praca.pdf (42 pages).
+Output written on praca.pdf (51 pages).

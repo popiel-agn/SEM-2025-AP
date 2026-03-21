@@ -19,6 +19,17 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global}
+    \entry{Dermofit}{misc}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeldatesource}{nodate}
+      \verb{urlraw}
+      \verb https://licensing.edinburgh-innovations.ed.ac.uk/product/dermofit-image-library
+      \endverb
+      \verb{url}
+      \verb https://licensing.edinburgh-innovations.ed.ac.uk/product/dermofit-image-library
+      \endverb
+    \endentry
     \entry{Abbasi_Shaw_Rigel_Friedman_McCarthy_Osman_Kopf_Polsky_2004}{article}{}
       \name{author}{8}{}{%
         {{un=0,uniquepart=base,hash=af08efca2b61f08d62d8d5adc287b5c0}{%
@@ -596,6 +607,58 @@
       \verb https://journals.lww.com/10.4103/jfmpc.jfmpc_440_19
       \endverb
     \endentry
+    \entry{inbook}{inbook}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=d9476bc9eee8ad9f0b0c1f4165d51b11}{%
+           family={Ballerini},
+           familyi={B\bibinitperiod},
+           given={Lucia},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bfa1f44b84774d284df5f2d669a342f2}{%
+           family={Fisher},
+           familyi={F\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b36ebac06d67430727337ba7669c5bdc}{%
+           family={Aldridge},
+           familyi={A\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0ae3c9febb237f9d7f1057c42a7eec97}{%
+           family={Rees},
+           familyi={R\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{81d8f00fab88ea7c71aba58315d26cc1}
+      \strng{fullhash}{22d7b9f9666942fedf950c70b1c35463}
+      \strng{bibnamehash}{22d7b9f9666942fedf950c70b1c35463}
+      \strng{authorbibnamehash}{22d7b9f9666942fedf950c70b1c35463}
+      \strng{authornamehash}{81d8f00fab88ea7c71aba58315d26cc1}
+      \strng{authorfullhash}{22d7b9f9666942fedf950c70b1c35463}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-94-007-5388-4}
+      \field{journaltitle}{Lecture Notes in Computational Vision and Biomechanics}
+      \field{month}{01}
+      \field{title}{A Color and Texture Based Hierarchical K-NN Approach to the Classification of Non-melanoma Skin Lesions}
+      \field{volume}{6}
+      \field{year}{2013}
+      \field{pages}{63\bibrangedash 86}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1007/978-94-007-5389-1_4
+      \endverb
+    \endentry
     \entry{diagnostics12102472}{article}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=a78c3dd18c5d7cdb8f0fe0f3ebb7d6f3}{%
@@ -717,6 +780,62 @@
       \endverb
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S1877050913007655
+      \endverb
+    \endentry
+    \entry{Bowman_Hogan_Sanusi_2001}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=08732faefb0de3c96d98d044c3724e35}{%
+           family={Bowman},
+           familyi={B\bibinitperiod},
+           given={Paul\bibnamedelima H.},
+           giveni={P\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=892bf18c371629747a63d158ec4fd387}{%
+           family={Hogan},
+           familyi={H\bibinitperiod},
+           given={Daniel\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a203206a41d0a3931ec1e43a62c82ffe}{%
+           family={Sanusi},
+           familyi={S\bibinitperiod},
+           given={I.Daniel},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{3dde97368d27fcf8d305ce899f097da2}
+      \strng{fullhash}{3dde97368d27fcf8d305ce899f097da2}
+      \strng{bibnamehash}{3dde97368d27fcf8d305ce899f097da2}
+      \strng{authorbibnamehash}{3dde97368d27fcf8d305ce899f097da2}
+      \strng{authornamehash}{3dde97368d27fcf8d305ce899f097da2}
+      \strng{authorfullhash}{3dde97368d27fcf8d305ce899f097da2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{01909622}
+      \field{journaltitle}{Journal of the American Academy of Dermatology}
+      \field{month}{12}
+      \field{number}{6}
+      \field{title}{Mycosis fungoides bullosa: Report of a case and review of the literature}
+      \field{volume}{45}
+      \field{year}{2001}
+      \field{pages}{934\bibrangedash 939}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1067/mjd.2001.117521
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0190962201751961
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0190962201751961
       \endverb
     \endentry
     \entry{briganti_artificial_2020}{article}{}
@@ -979,7 +1098,6 @@
       \verb{doi}
       \verb 10.1109/FMEC.2019.8795362
       \endverb
-      \keyw{Privacy;Multi-access edge computing;Computational modeling;Medical services;Mobile handsets;Mobile applications;Convolutional neural networks;Bioinformatics;Skin cancer;Image classification;Machine Learning;mHealth;CNN;Image Classification;Convolutional Neural Networks;Deep Learning;Skin Cancer;Health Informatics}
     \endentry
     \entry{das_collaboration_2023}{article}{}
       \name{author}{23}{}{%
@@ -1608,6 +1726,69 @@
       \verb{doi}
       \verb 10.1007/978-3-030-32644-9_36
       \endverb
+    \endentry
+    \entry{giotis2015med}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=25d310a129e00a1c141d1bcbce55fd3b}{%
+           family={Giotis},
+           familyi={G\bibinitperiod},
+           given={Ioannis},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=827a72ed2c81d6e643ed618e91ff96fd}{%
+           family={Molders},
+           familyi={M\bibinitperiod},
+           given={Nynke},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4db19b633cabbf50dc733504a125f199}{%
+           family={Land},
+           familyi={L\bibinitperiod},
+           given={Sander},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e70aaabb31065581211b65547129da5b}{%
+           family={Biehl},
+           familyi={B\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b30e136d335b7d5979613da75570eaed}{%
+           family={Jonkman},
+           familyi={J\bibinitperiod},
+           given={Marcel\bibnamedelima F},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eef9a82a22125c381c2932d53b56b78c}{%
+           family={Petkov},
+           familyi={P\bibinitperiod},
+           given={Nicolai},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{fda1ab6d0e5bdf56b67aa617ea738b26}
+      \strng{fullhash}{38bdfda1c506542508f6d1499bd833a5}
+      \strng{bibnamehash}{38bdfda1c506542508f6d1499bd833a5}
+      \strng{authorbibnamehash}{38bdfda1c506542508f6d1499bd833a5}
+      \strng{authornamehash}{fda1ab6d0e5bdf56b67aa617ea738b26}
+      \strng{authorfullhash}{38bdfda1c506542508f6d1499bd833a5}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Expert systems with applications}
+      \field{number}{19}
+      \field{title}{MED-NODE: A computer-assisted melanoma diagnosis system using non-dermoscopic images}
+      \field{volume}{42}
+      \field{year}{2015}
+      \field{pages}{6578\bibrangedash 6585}
+      \range{pages}{8}
     \endentry
     \entry{glos_medycyna_2017}{article}{}
       \name{author}{1}{}{%
@@ -2334,6 +2515,121 @@
       \verb http://archderm.jamanetwork.com/article.aspx?doi=10.1001/archderm.144.4.554
       \endverb
     \endentry
+    \entry{Hernández2024}{article}{}
+      \name{author}{13}{}{%
+        {{un=0,uniquepart=base,hash=2698b4c2a6fa360a7b135fc46dde9306}{%
+           family={Hernández-Pérez},
+           familyi={H\bibinithyphendelim P\bibinitperiod},
+           given={Carlos},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=339619a5946c432ee6e77d0d9b4c6a3e}{%
+           family={Combalia},
+           familyi={C\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=800129c6a13f478861ead0af27a5ecfe}{%
+           family={Podlipnik},
+           familyi={P\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=038d4753214b1205992efb08dca25912}{%
+           family={Codella},
+           familyi={C\bibinitperiod},
+           given={Noel\bibnamedelimb C.\bibnamedelimi F.},
+           giveni={N\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=60abb913d03e3830abf9001aa7fc6e66}{%
+           family={Rotemberg},
+           familyi={R\bibinitperiod},
+           given={Veronica},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=34a872641ae7c9100bb730d3ee2a5e92}{%
+           family={Halpern},
+           familyi={H\bibinitperiod},
+           given={Allan\bibnamedelima C.},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d57cee7f2925de39caf580c997bfecc5}{%
+           family={Reiter},
+           familyi={R\bibinitperiod},
+           given={Ofer},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5e262601c7cfa0d22ce4e8f187e926b9}{%
+           family={Carrera},
+           familyi={C\bibinitperiod},
+           given={Cristina},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=36faf5e75584515171311379740b8f89}{%
+           family={Barreiro},
+           familyi={B\bibinitperiod},
+           given={Alicia},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9568ece3a9b243e850464f514b960d3c}{%
+           family={Helba},
+           familyi={H\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f710671a320221d02c86c94a438a205b}{%
+           family={Puig},
+           familyi={P\bibinitperiod},
+           given={Susana},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=42fefe55f516e1bae2d1e05a603f4f1d}{%
+           family={Vilaplana},
+           familyi={V\bibinitperiod},
+           given={Veronica},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=75591bc43dc1e507a9eda2e102617eec}{%
+           family={Malvehy},
+           familyi={M\bibinitperiod},
+           given={Josep},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{a9094159df702a1e96ad343a028bc46c}
+      \strng{fullhash}{14bffb5137a3ae319e83305cd3cbeae8}
+      \strng{bibnamehash}{14bffb5137a3ae319e83305cd3cbeae8}
+      \strng{authorbibnamehash}{14bffb5137a3ae319e83305cd3cbeae8}
+      \strng{authornamehash}{a9094159df702a1e96ad343a028bc46c}
+      \strng{authorfullhash}{14bffb5137a3ae319e83305cd3cbeae8}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2052-4463}
+      \field{journaltitle}{Scientific Data}
+      \field{number}{1}
+      \field{title}{BCN20000: Dermoscopic Lesions in the Wild}
+      \field{volume}{11}
+      \field{year}{2024}
+      \field{pages}{641}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s41597-024-03387-w
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/s41597-024-03387-w
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/s41597-024-03387-w
+      \endverb
+    \endentry
     \entry{Krizhevsky_2012}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=9a8750ccdb2a4cf14d2655face1ce016}{%
@@ -2755,6 +3051,65 @@
       \range{pages}{4}
       \verb{doi}
       \verb 10.1109/ISBI.2016.7493528
+      \endverb
+    \endentry
+    \entry{Hamarneh_2019}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=da947d3afb637b7e27cbc33776cce543}{%
+           family={Kawahara},
+           familyi={K\bibinitperiod},
+           given={Jeremy},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=33dca317433f473bebf123d208ea18c0}{%
+           family={Daneshvar},
+           familyi={D\bibinitperiod},
+           given={Sara},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=240f6e7e4d9967c0fa69aea0c1c382d9}{%
+           family={Argenziano},
+           familyi={A\bibinitperiod},
+           given={Giuseppe},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=061eb4eb95e9947e4010093d17626dd1}{%
+           family={Hamarneh},
+           familyi={H\bibinitperiod},
+           given={Ghassan},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{659c1fdbf8a702920ba2f2085730c412}
+      \strng{fullhash}{c1226c3bec07be6aed0a3fb6c8556555}
+      \strng{bibnamehash}{c1226c3bec07be6aed0a3fb6c8556555}
+      \strng{authorbibnamehash}{c1226c3bec07be6aed0a3fb6c8556555}
+      \strng{authornamehash}{659c1fdbf8a702920ba2f2085730c412}
+      \strng{authorfullhash}{c1226c3bec07be6aed0a3fb6c8556555}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2168-2194, 2168-2208}
+      \field{journaltitle}{IEEE Journal of Biomedical and Health Informatics}
+      \field{month}{3}
+      \field{number}{2}
+      \field{title}{Seven-Point Checklist and Skin Lesion Classification Using Multitask Multimodal Neural Nets}
+      \field{volume}{23}
+      \field{year}{2019}
+      \field{pages}{538\bibrangedash 546}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1109/JBHI.2018.2824327
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/8333693/
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/8333693/
       \endverb
     \endentry
     \entry{Kelly_Karthikesalingam_Suleyman_Corrado_King_2019}{article}{}
@@ -3407,6 +3762,74 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0169260719311460
       \endverb
     \endentry
+    \entry{Rozeira_2013}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=caae6de1c710ca7a6e74d2a96961a35d}{%
+           family={Mendonca},
+           familyi={M\bibinitperiod},
+           given={Teresa},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=55bfbc3adc1acc372a96161d9315e788}{%
+           family={Ferreira},
+           familyi={F\bibinitperiod},
+           given={Pedro\bibnamedelima M.},
+           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=351c20b98ec8f759ebbe2ed088d1bcd0}{%
+           family={Marques},
+           familyi={M\bibinitperiod},
+           given={Jorge\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5e3521be0339396e4e9d8750dbc8cecd}{%
+           family={Marcal},
+           familyi={M\bibinitperiod},
+           given={Andre\bibnamedelimb R.\bibnamedelimi S.},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3ceb50ed9d6c15e04432c7f5d352f22d}{%
+           family={Rozeira},
+           familyi={R\bibinitperiod},
+           given={Jorge},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Osaka}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{87b2d426a344633e42540f98d0f62e1c}
+      \strng{fullhash}{c4e8e10859c098bc6f80e9aa52087a52}
+      \strng{bibnamehash}{c4e8e10859c098bc6f80e9aa52087a52}
+      \strng{authorbibnamehash}{c4e8e10859c098bc6f80e9aa52087a52}
+      \strng{authornamehash}{87b2d426a344633e42540f98d0f62e1c}
+      \strng{authorfullhash}{c4e8e10859c098bc6f80e9aa52087a52}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781457702167}
+      \field{journaltitle}{2013 35th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)}
+      \field{title}{PH2 - A dermoscopic image database for research and benchmarking}
+      \field{year}{2013}
+      \field{pages}{5437\bibrangedash 5440}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1109/EMBC.2013.6610779
+      \endverb
+      \verb{urlraw}
+      \verb http://ieeexplore.ieee.org/document/6610779/
+      \endverb
+      \verb{url}
+      \verb http://ieeexplore.ieee.org/document/6610779/
+      \endverb
+    \endentry
     \entry{Menegola_Fornaciali_Pires_Bittencourt_Avila_Valle_2017}{article}{}
       \name{author}{6}{}{%
         {{un=0,uniquepart=base,hash=752e7f56aca42c33882b915d77de3bc2}{%
@@ -3809,6 +4232,157 @@
       \endverb
       \verb{url}
       \verb http://www.mecs-press.org/ijieeb/ijieeb-v12-n2/v12n2-4.html
+      \endverb
+    \endentry
+    \entry{Castro_2020}{article}{}
+      \name{author}{19}{}{%
+        {{un=0,uniquepart=base,hash=d9fef9544610b0b771a7c79d6e4087ec}{%
+           family={Pacheco},
+           familyi={P\bibinitperiod},
+           given={Andre\bibnamedelima G.C.},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=56a3fb9691416e9583dcccd158c7872c}{%
+           family={Lima},
+           familyi={L\bibinitperiod},
+           given={Gustavo\bibnamedelima R.},
+           giveni={G\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4daaa3ee74e454a6b2bd10040e1eb25d}{%
+           family={Salomão},
+           familyi={S\bibinitperiod},
+           given={Amanda\bibnamedelima S.},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8e0bf18006baaed929a9a7ef54eb8be3}{%
+           family={Krohling},
+           familyi={K\bibinitperiod},
+           given={Breno},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f97a3a4d31fe80ba3c9df8cdc15bcdfb}{%
+           family={Biral},
+           familyi={B\bibinitperiod},
+           given={Igor\bibnamedelima P.},
+           giveni={I\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=116d3306abe22e1605e8ea0b635c9256}{%
+           family={De\bibnamedelima Angelo},
+           familyi={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Gabriel\bibnamedelima G.},
+           giveni={G\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aa6449742e666a9610e8dcc85e04fc8b}{%
+           family={Alves\bibnamedelima Jr},
+           familyi={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={Fábio\bibnamedelima C.R.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f5b519d71059a8334d9385e9470db16e}{%
+           family={Esgario},
+           familyi={E\bibinitperiod},
+           given={José\bibnamedelima G.M.},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f61587719903709cb3aaaa198ff20598}{%
+           family={Simora},
+           familyi={S\bibinitperiod},
+           given={Alana\bibnamedelima C.},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=988a02c7906707ff6a9e32a7f342a702}{%
+           family={Castro},
+           familyi={C\bibinitperiod},
+           given={Pedro\bibnamedelima B.C.},
+           giveni={P\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d8dcaf95130426939adccc26cdf5f8f3}{%
+           family={Rodrigues},
+           familyi={R\bibinitperiod},
+           given={Felipe\bibnamedelima B.},
+           giveni={F\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e49d47468307e1fbb1d58dcd3fb6b107}{%
+           family={Frasson},
+           familyi={F\bibinitperiod},
+           given={Patricia\bibnamedelima H.L.},
+           giveni={P\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a71b4c6ee0af0a5030c2d47206795bf3}{%
+           family={Krohling},
+           familyi={K\bibinitperiod},
+           given={Renato\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9491d07c53feee00e67d9ea66679419e}{%
+           family={Knidel},
+           familyi={K\bibinitperiod},
+           given={Helder},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=85013ba285e72e0680f50e4d9bc14f56}{%
+           family={Santos},
+           familyi={S\bibinitperiod},
+           given={Maria\bibnamedelima C.S.},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bac77793bf85ac72145b718d46e1705f}{%
+           family={Do\bibnamedelima Espírito\bibnamedelima Santo},
+           familyi={D\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Rachel\bibnamedelima B.},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ebcb80e53f87983db586938529beab09}{%
+           family={Macedo},
+           familyi={M\bibinitperiod},
+           given={Telma\bibnamedelima L.S.G.},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8439944661129b7c01bcc40d903dd5c1}{%
+           family={Canuto},
+           familyi={C\bibinitperiod},
+           given={Tania\bibnamedelima R.P.},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b131c959b53661967448accdee9a0795}{%
+           family={De\bibnamedelima Barros},
+           familyi={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Luíz\bibnamedelima F.S.},
+           giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{2c48c5e8f2d18e00eb2cb919c156ab29}
+      \strng{fullhash}{4966f4bda78dae8ebecefaa68c3983f6}
+      \strng{bibnamehash}{4966f4bda78dae8ebecefaa68c3983f6}
+      \strng{authorbibnamehash}{4966f4bda78dae8ebecefaa68c3983f6}
+      \strng{authornamehash}{2c48c5e8f2d18e00eb2cb919c156ab29}
+      \strng{authorfullhash}{4966f4bda78dae8ebecefaa68c3983f6}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{23523409}
+      \field{journaltitle}{Data in Brief}
+      \field{month}{10}
+      \field{title}{PAD-UFES-20: A skin lesion dataset composed of patient data and clinical images collected from smartphones}
+      \field{volume}{32}
+      \field{year}{2020}
+      \field{pages}{106221}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.dib.2020.106221
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S235234092031115X
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S235234092031115X
       \endverb
     \endentry
     \entry{Rainio_2024}{article}{}
@@ -4401,6 +4975,56 @@
       \verb http://www.termedia.pl/doi/10.5114/dr.2016.57736
       \endverb
     \endentry
+    \entry{Schneider_Dittmer_2017}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0dce361fbe40a2dfc0d1640f3f2dd567}{%
+           family={Schneider},
+           familyi={S\bibinitperiod},
+           given={Johann\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2dd6e6417fc2c061aab733db309b4cae}{%
+           family={Dittmer},
+           familyi={D\bibinitperiod},
+           given={Dirk\bibnamedelima P.},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{fc4e72a88f8d4166fbe8d94a8ecac5d7}
+      \strng{fullhash}{fc4e72a88f8d4166fbe8d94a8ecac5d7}
+      \strng{bibnamehash}{fc4e72a88f8d4166fbe8d94a8ecac5d7}
+      \strng{authorbibnamehash}{fc4e72a88f8d4166fbe8d94a8ecac5d7}
+      \strng{authornamehash}{fc4e72a88f8d4166fbe8d94a8ecac5d7}
+      \strng{authorfullhash}{fc4e72a88f8d4166fbe8d94a8ecac5d7}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1175-0561, 1179-1888}
+      \field{journaltitle}{American Journal of Clinical Dermatology}
+      \field{month}{8}
+      \field{number}{4}
+      \field{title}{Diagnosis and Treatment of Kaposi Sarcoma}
+      \field{volume}{18}
+      \field{year}{2017}
+      \field{pages}{529\bibrangedash 539}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1007/s40257-017-0270-4
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/s40257-017-0270-4
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s40257-017-0270-4
+      \endverb
+    \endentry
     \entry{Sonthalia_Yumeen_Kaliyadan_2025}{inbook}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=b66980587c843920fd03d0d06cc87fa9}{%
@@ -4756,6 +5380,62 @@
       \endverb
       \verb{url}
       \verb https://publications.ersnet.org/lookup/doi/10.1183/13993003.01660-2018
+      \endverb
+    \endentry
+    \entry{Kittler_2018}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=f4c4ddb3f515e910b4e84077d32c8bcc}{%
+           family={Tschandl},
+           familyi={T\bibinitperiod},
+           given={Philipp},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=909d6d2380bcc660f994f73bea02d751}{%
+           family={Rosendahl},
+           familyi={R\bibinitperiod},
+           given={Cliff},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eed1e56a6dc94fc81cfa0da8967a5ac4}{%
+           family={Kittler},
+           familyi={K\bibinitperiod},
+           given={Harald},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{54dd54ed498a10b4a63c7bd482674626}
+      \strng{fullhash}{54dd54ed498a10b4a63c7bd482674626}
+      \strng{bibnamehash}{54dd54ed498a10b4a63c7bd482674626}
+      \strng{authorbibnamehash}{54dd54ed498a10b4a63c7bd482674626}
+      \strng{authornamehash}{54dd54ed498a10b4a63c7bd482674626}
+      \strng{authorfullhash}{54dd54ed498a10b4a63c7bd482674626}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2052-4463}
+      \field{journaltitle}{Scientific Data}
+      \field{month}{8}
+      \field{number}{1}
+      \field{title}{The HAM10000 dataset, a large collection of multi-source dermatoscopic images of common pigmented skin lesions}
+      \field{volume}{5}
+      \field{year}{2018}
+      \field{pages}{180161}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/sdata.2018.161
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/sdata2018161
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/sdata2018161
       \endverb
     \endentry
     \entry{Oirschot_2024}{article}{}
@@ -5158,6 +5838,17 @@
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
+    \entry{Dermofit}{misc}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeldatesource}{nodate}
+      \verb{urlraw}
+      \verb https://licensing.edinburgh-innovations.ed.ac.uk/product/dermofit-image-library
+      \endverb
+      \verb{url}
+      \verb https://licensing.edinburgh-innovations.ed.ac.uk/product/dermofit-image-library
+      \endverb
+    \endentry
     \entry{Abbasi_Shaw_Rigel_Friedman_McCarthy_Osman_Kopf_Polsky_2004}{article}{}
       \name{author}{8}{}{%
         {{un=0,uniquepart=base,hash=af08efca2b61f08d62d8d5adc287b5c0}{%
@@ -5735,6 +6426,58 @@
       \verb https://journals.lww.com/10.4103/jfmpc.jfmpc_440_19
       \endverb
     \endentry
+    \entry{inbook}{inbook}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=d9476bc9eee8ad9f0b0c1f4165d51b11}{%
+           family={Ballerini},
+           familyi={B\bibinitperiod},
+           given={Lucia},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bfa1f44b84774d284df5f2d669a342f2}{%
+           family={Fisher},
+           familyi={F\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b36ebac06d67430727337ba7669c5bdc}{%
+           family={Aldridge},
+           familyi={A\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0ae3c9febb237f9d7f1057c42a7eec97}{%
+           family={Rees},
+           familyi={R\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{81d8f00fab88ea7c71aba58315d26cc1}
+      \strng{fullhash}{22d7b9f9666942fedf950c70b1c35463}
+      \strng{bibnamehash}{22d7b9f9666942fedf950c70b1c35463}
+      \strng{authorbibnamehash}{22d7b9f9666942fedf950c70b1c35463}
+      \strng{authornamehash}{81d8f00fab88ea7c71aba58315d26cc1}
+      \strng{authorfullhash}{22d7b9f9666942fedf950c70b1c35463}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-94-007-5388-4}
+      \field{journaltitle}{Lecture Notes in Computational Vision and Biomechanics}
+      \field{month}{01}
+      \field{title}{A Color and Texture Based Hierarchical K-NN Approach to the Classification of Non-melanoma Skin Lesions}
+      \field{volume}{6}
+      \field{year}{2013}
+      \field{pages}{63\bibrangedash 86}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1007/978-94-007-5389-1_4
+      \endverb
+    \endentry
     \entry{diagnostics12102472}{article}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=a78c3dd18c5d7cdb8f0fe0f3ebb7d6f3}{%
@@ -5856,6 +6599,62 @@
       \endverb
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S1877050913007655
+      \endverb
+    \endentry
+    \entry{Bowman_Hogan_Sanusi_2001}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=08732faefb0de3c96d98d044c3724e35}{%
+           family={Bowman},
+           familyi={B\bibinitperiod},
+           given={Paul\bibnamedelima H.},
+           giveni={P\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=892bf18c371629747a63d158ec4fd387}{%
+           family={Hogan},
+           familyi={H\bibinitperiod},
+           given={Daniel\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a203206a41d0a3931ec1e43a62c82ffe}{%
+           family={Sanusi},
+           familyi={S\bibinitperiod},
+           given={I.Daniel},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{3dde97368d27fcf8d305ce899f097da2}
+      \strng{fullhash}{3dde97368d27fcf8d305ce899f097da2}
+      \strng{bibnamehash}{3dde97368d27fcf8d305ce899f097da2}
+      \strng{authorbibnamehash}{3dde97368d27fcf8d305ce899f097da2}
+      \strng{authornamehash}{3dde97368d27fcf8d305ce899f097da2}
+      \strng{authorfullhash}{3dde97368d27fcf8d305ce899f097da2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{01909622}
+      \field{journaltitle}{Journal of the American Academy of Dermatology}
+      \field{month}{12}
+      \field{number}{6}
+      \field{title}{Mycosis fungoides bullosa: Report of a case and review of the literature}
+      \field{volume}{45}
+      \field{year}{2001}
+      \field{pages}{934\bibrangedash 939}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1067/mjd.2001.117521
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0190962201751961
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0190962201751961
       \endverb
     \endentry
     \entry{briganti_artificial_2020}{article}{}
@@ -6118,7 +6917,6 @@
       \verb{doi}
       \verb 10.1109/FMEC.2019.8795362
       \endverb
-      \keyw{Privacy;Multi-access edge computing;Computational modeling;Medical services;Mobile handsets;Mobile applications;Convolutional neural networks;Bioinformatics;Skin cancer;Image classification;Machine Learning;mHealth;CNN;Image Classification;Convolutional Neural Networks;Deep Learning;Skin Cancer;Health Informatics}
     \endentry
     \entry{das_collaboration_2023}{article}{}
       \name{author}{23}{}{%
@@ -6747,6 +7545,69 @@
       \verb{doi}
       \verb 10.1007/978-3-030-32644-9_36
       \endverb
+    \endentry
+    \entry{giotis2015med}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=25d310a129e00a1c141d1bcbce55fd3b}{%
+           family={Giotis},
+           familyi={G\bibinitperiod},
+           given={Ioannis},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=827a72ed2c81d6e643ed618e91ff96fd}{%
+           family={Molders},
+           familyi={M\bibinitperiod},
+           given={Nynke},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4db19b633cabbf50dc733504a125f199}{%
+           family={Land},
+           familyi={L\bibinitperiod},
+           given={Sander},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e70aaabb31065581211b65547129da5b}{%
+           family={Biehl},
+           familyi={B\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b30e136d335b7d5979613da75570eaed}{%
+           family={Jonkman},
+           familyi={J\bibinitperiod},
+           given={Marcel\bibnamedelima F},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eef9a82a22125c381c2932d53b56b78c}{%
+           family={Petkov},
+           familyi={P\bibinitperiod},
+           given={Nicolai},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{fda1ab6d0e5bdf56b67aa617ea738b26}
+      \strng{fullhash}{38bdfda1c506542508f6d1499bd833a5}
+      \strng{bibnamehash}{38bdfda1c506542508f6d1499bd833a5}
+      \strng{authorbibnamehash}{38bdfda1c506542508f6d1499bd833a5}
+      \strng{authornamehash}{fda1ab6d0e5bdf56b67aa617ea738b26}
+      \strng{authorfullhash}{38bdfda1c506542508f6d1499bd833a5}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Expert systems with applications}
+      \field{number}{19}
+      \field{title}{MED-NODE: A computer-assisted melanoma diagnosis system using non-dermoscopic images}
+      \field{volume}{42}
+      \field{year}{2015}
+      \field{pages}{6578\bibrangedash 6585}
+      \range{pages}{8}
     \endentry
     \entry{glos_medycyna_2017}{article}{}
       \name{author}{1}{}{%
@@ -7473,6 +8334,121 @@
       \verb http://archderm.jamanetwork.com/article.aspx?doi=10.1001/archderm.144.4.554
       \endverb
     \endentry
+    \entry{Hernández2024}{article}{}
+      \name{author}{13}{}{%
+        {{un=0,uniquepart=base,hash=2698b4c2a6fa360a7b135fc46dde9306}{%
+           family={Hernández-Pérez},
+           familyi={H\bibinithyphendelim P\bibinitperiod},
+           given={Carlos},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=339619a5946c432ee6e77d0d9b4c6a3e}{%
+           family={Combalia},
+           familyi={C\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=800129c6a13f478861ead0af27a5ecfe}{%
+           family={Podlipnik},
+           familyi={P\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=038d4753214b1205992efb08dca25912}{%
+           family={Codella},
+           familyi={C\bibinitperiod},
+           given={Noel\bibnamedelimb C.\bibnamedelimi F.},
+           giveni={N\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=60abb913d03e3830abf9001aa7fc6e66}{%
+           family={Rotemberg},
+           familyi={R\bibinitperiod},
+           given={Veronica},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=34a872641ae7c9100bb730d3ee2a5e92}{%
+           family={Halpern},
+           familyi={H\bibinitperiod},
+           given={Allan\bibnamedelima C.},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d57cee7f2925de39caf580c997bfecc5}{%
+           family={Reiter},
+           familyi={R\bibinitperiod},
+           given={Ofer},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5e262601c7cfa0d22ce4e8f187e926b9}{%
+           family={Carrera},
+           familyi={C\bibinitperiod},
+           given={Cristina},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=36faf5e75584515171311379740b8f89}{%
+           family={Barreiro},
+           familyi={B\bibinitperiod},
+           given={Alicia},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9568ece3a9b243e850464f514b960d3c}{%
+           family={Helba},
+           familyi={H\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f710671a320221d02c86c94a438a205b}{%
+           family={Puig},
+           familyi={P\bibinitperiod},
+           given={Susana},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=42fefe55f516e1bae2d1e05a603f4f1d}{%
+           family={Vilaplana},
+           familyi={V\bibinitperiod},
+           given={Veronica},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=75591bc43dc1e507a9eda2e102617eec}{%
+           family={Malvehy},
+           familyi={M\bibinitperiod},
+           given={Josep},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{a9094159df702a1e96ad343a028bc46c}
+      \strng{fullhash}{14bffb5137a3ae319e83305cd3cbeae8}
+      \strng{bibnamehash}{14bffb5137a3ae319e83305cd3cbeae8}
+      \strng{authorbibnamehash}{14bffb5137a3ae319e83305cd3cbeae8}
+      \strng{authornamehash}{a9094159df702a1e96ad343a028bc46c}
+      \strng{authorfullhash}{14bffb5137a3ae319e83305cd3cbeae8}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2052-4463}
+      \field{journaltitle}{Scientific Data}
+      \field{number}{1}
+      \field{title}{BCN20000: Dermoscopic Lesions in the Wild}
+      \field{volume}{11}
+      \field{year}{2024}
+      \field{pages}{641}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s41597-024-03387-w
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/s41597-024-03387-w
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/s41597-024-03387-w
+      \endverb
+    \endentry
     \entry{Krizhevsky_2012}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=9a8750ccdb2a4cf14d2655face1ce016}{%
@@ -7894,6 +8870,65 @@
       \range{pages}{4}
       \verb{doi}
       \verb 10.1109/ISBI.2016.7493528
+      \endverb
+    \endentry
+    \entry{Hamarneh_2019}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=da947d3afb637b7e27cbc33776cce543}{%
+           family={Kawahara},
+           familyi={K\bibinitperiod},
+           given={Jeremy},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=33dca317433f473bebf123d208ea18c0}{%
+           family={Daneshvar},
+           familyi={D\bibinitperiod},
+           given={Sara},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=240f6e7e4d9967c0fa69aea0c1c382d9}{%
+           family={Argenziano},
+           familyi={A\bibinitperiod},
+           given={Giuseppe},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=061eb4eb95e9947e4010093d17626dd1}{%
+           family={Hamarneh},
+           familyi={H\bibinitperiod},
+           given={Ghassan},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{659c1fdbf8a702920ba2f2085730c412}
+      \strng{fullhash}{c1226c3bec07be6aed0a3fb6c8556555}
+      \strng{bibnamehash}{c1226c3bec07be6aed0a3fb6c8556555}
+      \strng{authorbibnamehash}{c1226c3bec07be6aed0a3fb6c8556555}
+      \strng{authornamehash}{659c1fdbf8a702920ba2f2085730c412}
+      \strng{authorfullhash}{c1226c3bec07be6aed0a3fb6c8556555}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2168-2194, 2168-2208}
+      \field{journaltitle}{IEEE Journal of Biomedical and Health Informatics}
+      \field{month}{3}
+      \field{number}{2}
+      \field{title}{Seven-Point Checklist and Skin Lesion Classification Using Multitask Multimodal Neural Nets}
+      \field{volume}{23}
+      \field{year}{2019}
+      \field{pages}{538\bibrangedash 546}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1109/JBHI.2018.2824327
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/8333693/
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/8333693/
       \endverb
     \endentry
     \entry{Kelly_Karthikesalingam_Suleyman_Corrado_King_2019}{article}{}
@@ -8546,6 +9581,74 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0169260719311460
       \endverb
     \endentry
+    \entry{Rozeira_2013}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=caae6de1c710ca7a6e74d2a96961a35d}{%
+           family={Mendonca},
+           familyi={M\bibinitperiod},
+           given={Teresa},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=55bfbc3adc1acc372a96161d9315e788}{%
+           family={Ferreira},
+           familyi={F\bibinitperiod},
+           given={Pedro\bibnamedelima M.},
+           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=351c20b98ec8f759ebbe2ed088d1bcd0}{%
+           family={Marques},
+           familyi={M\bibinitperiod},
+           given={Jorge\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5e3521be0339396e4e9d8750dbc8cecd}{%
+           family={Marcal},
+           familyi={M\bibinitperiod},
+           given={Andre\bibnamedelimb R.\bibnamedelimi S.},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3ceb50ed9d6c15e04432c7f5d352f22d}{%
+           family={Rozeira},
+           familyi={R\bibinitperiod},
+           given={Jorge},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Osaka}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{87b2d426a344633e42540f98d0f62e1c}
+      \strng{fullhash}{c4e8e10859c098bc6f80e9aa52087a52}
+      \strng{bibnamehash}{c4e8e10859c098bc6f80e9aa52087a52}
+      \strng{authorbibnamehash}{c4e8e10859c098bc6f80e9aa52087a52}
+      \strng{authornamehash}{87b2d426a344633e42540f98d0f62e1c}
+      \strng{authorfullhash}{c4e8e10859c098bc6f80e9aa52087a52}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781457702167}
+      \field{journaltitle}{2013 35th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)}
+      \field{title}{PH2 - A dermoscopic image database for research and benchmarking}
+      \field{year}{2013}
+      \field{pages}{5437\bibrangedash 5440}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1109/EMBC.2013.6610779
+      \endverb
+      \verb{urlraw}
+      \verb http://ieeexplore.ieee.org/document/6610779/
+      \endverb
+      \verb{url}
+      \verb http://ieeexplore.ieee.org/document/6610779/
+      \endverb
+    \endentry
     \entry{Menegola_Fornaciali_Pires_Bittencourt_Avila_Valle_2017}{article}{}
       \name{author}{6}{}{%
         {{un=0,uniquepart=base,hash=752e7f56aca42c33882b915d77de3bc2}{%
@@ -8948,6 +10051,157 @@
       \endverb
       \verb{url}
       \verb http://www.mecs-press.org/ijieeb/ijieeb-v12-n2/v12n2-4.html
+      \endverb
+    \endentry
+    \entry{Castro_2020}{article}{}
+      \name{author}{19}{}{%
+        {{un=0,uniquepart=base,hash=d9fef9544610b0b771a7c79d6e4087ec}{%
+           family={Pacheco},
+           familyi={P\bibinitperiod},
+           given={Andre\bibnamedelima G.C.},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=56a3fb9691416e9583dcccd158c7872c}{%
+           family={Lima},
+           familyi={L\bibinitperiod},
+           given={Gustavo\bibnamedelima R.},
+           giveni={G\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4daaa3ee74e454a6b2bd10040e1eb25d}{%
+           family={Salomão},
+           familyi={S\bibinitperiod},
+           given={Amanda\bibnamedelima S.},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8e0bf18006baaed929a9a7ef54eb8be3}{%
+           family={Krohling},
+           familyi={K\bibinitperiod},
+           given={Breno},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f97a3a4d31fe80ba3c9df8cdc15bcdfb}{%
+           family={Biral},
+           familyi={B\bibinitperiod},
+           given={Igor\bibnamedelima P.},
+           giveni={I\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=116d3306abe22e1605e8ea0b635c9256}{%
+           family={De\bibnamedelima Angelo},
+           familyi={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Gabriel\bibnamedelima G.},
+           giveni={G\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aa6449742e666a9610e8dcc85e04fc8b}{%
+           family={Alves\bibnamedelima Jr},
+           familyi={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={Fábio\bibnamedelima C.R.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f5b519d71059a8334d9385e9470db16e}{%
+           family={Esgario},
+           familyi={E\bibinitperiod},
+           given={José\bibnamedelima G.M.},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f61587719903709cb3aaaa198ff20598}{%
+           family={Simora},
+           familyi={S\bibinitperiod},
+           given={Alana\bibnamedelima C.},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=988a02c7906707ff6a9e32a7f342a702}{%
+           family={Castro},
+           familyi={C\bibinitperiod},
+           given={Pedro\bibnamedelima B.C.},
+           giveni={P\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d8dcaf95130426939adccc26cdf5f8f3}{%
+           family={Rodrigues},
+           familyi={R\bibinitperiod},
+           given={Felipe\bibnamedelima B.},
+           giveni={F\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e49d47468307e1fbb1d58dcd3fb6b107}{%
+           family={Frasson},
+           familyi={F\bibinitperiod},
+           given={Patricia\bibnamedelima H.L.},
+           giveni={P\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a71b4c6ee0af0a5030c2d47206795bf3}{%
+           family={Krohling},
+           familyi={K\bibinitperiod},
+           given={Renato\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9491d07c53feee00e67d9ea66679419e}{%
+           family={Knidel},
+           familyi={K\bibinitperiod},
+           given={Helder},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=85013ba285e72e0680f50e4d9bc14f56}{%
+           family={Santos},
+           familyi={S\bibinitperiod},
+           given={Maria\bibnamedelima C.S.},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bac77793bf85ac72145b718d46e1705f}{%
+           family={Do\bibnamedelima Espírito\bibnamedelima Santo},
+           familyi={D\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Rachel\bibnamedelima B.},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ebcb80e53f87983db586938529beab09}{%
+           family={Macedo},
+           familyi={M\bibinitperiod},
+           given={Telma\bibnamedelima L.S.G.},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8439944661129b7c01bcc40d903dd5c1}{%
+           family={Canuto},
+           familyi={C\bibinitperiod},
+           given={Tania\bibnamedelima R.P.},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b131c959b53661967448accdee9a0795}{%
+           family={De\bibnamedelima Barros},
+           familyi={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Luíz\bibnamedelima F.S.},
+           giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{2c48c5e8f2d18e00eb2cb919c156ab29}
+      \strng{fullhash}{4966f4bda78dae8ebecefaa68c3983f6}
+      \strng{bibnamehash}{4966f4bda78dae8ebecefaa68c3983f6}
+      \strng{authorbibnamehash}{4966f4bda78dae8ebecefaa68c3983f6}
+      \strng{authornamehash}{2c48c5e8f2d18e00eb2cb919c156ab29}
+      \strng{authorfullhash}{4966f4bda78dae8ebecefaa68c3983f6}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{23523409}
+      \field{journaltitle}{Data in Brief}
+      \field{month}{10}
+      \field{title}{PAD-UFES-20: A skin lesion dataset composed of patient data and clinical images collected from smartphones}
+      \field{volume}{32}
+      \field{year}{2020}
+      \field{pages}{106221}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.dib.2020.106221
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S235234092031115X
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S235234092031115X
       \endverb
     \endentry
     \entry{Rainio_2024}{article}{}
@@ -9540,6 +10794,56 @@
       \verb http://www.termedia.pl/doi/10.5114/dr.2016.57736
       \endverb
     \endentry
+    \entry{Schneider_Dittmer_2017}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0dce361fbe40a2dfc0d1640f3f2dd567}{%
+           family={Schneider},
+           familyi={S\bibinitperiod},
+           given={Johann\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2dd6e6417fc2c061aab733db309b4cae}{%
+           family={Dittmer},
+           familyi={D\bibinitperiod},
+           given={Dirk\bibnamedelima P.},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{fc4e72a88f8d4166fbe8d94a8ecac5d7}
+      \strng{fullhash}{fc4e72a88f8d4166fbe8d94a8ecac5d7}
+      \strng{bibnamehash}{fc4e72a88f8d4166fbe8d94a8ecac5d7}
+      \strng{authorbibnamehash}{fc4e72a88f8d4166fbe8d94a8ecac5d7}
+      \strng{authornamehash}{fc4e72a88f8d4166fbe8d94a8ecac5d7}
+      \strng{authorfullhash}{fc4e72a88f8d4166fbe8d94a8ecac5d7}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1175-0561, 1179-1888}
+      \field{journaltitle}{American Journal of Clinical Dermatology}
+      \field{month}{8}
+      \field{number}{4}
+      \field{title}{Diagnosis and Treatment of Kaposi Sarcoma}
+      \field{volume}{18}
+      \field{year}{2017}
+      \field{pages}{529\bibrangedash 539}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1007/s40257-017-0270-4
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/s40257-017-0270-4
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s40257-017-0270-4
+      \endverb
+    \endentry
     \entry{Sonthalia_Yumeen_Kaliyadan_2025}{inbook}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=b66980587c843920fd03d0d06cc87fa9}{%
@@ -9895,6 +11199,62 @@
       \endverb
       \verb{url}
       \verb https://publications.ersnet.org/lookup/doi/10.1183/13993003.01660-2018
+      \endverb
+    \endentry
+    \entry{Kittler_2018}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=f4c4ddb3f515e910b4e84077d32c8bcc}{%
+           family={Tschandl},
+           familyi={T\bibinitperiod},
+           given={Philipp},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=909d6d2380bcc660f994f73bea02d751}{%
+           family={Rosendahl},
+           familyi={R\bibinitperiod},
+           given={Cliff},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eed1e56a6dc94fc81cfa0da8967a5ac4}{%
+           family={Kittler},
+           familyi={K\bibinitperiod},
+           given={Harald},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{54dd54ed498a10b4a63c7bd482674626}
+      \strng{fullhash}{54dd54ed498a10b4a63c7bd482674626}
+      \strng{bibnamehash}{54dd54ed498a10b4a63c7bd482674626}
+      \strng{authorbibnamehash}{54dd54ed498a10b4a63c7bd482674626}
+      \strng{authornamehash}{54dd54ed498a10b4a63c7bd482674626}
+      \strng{authorfullhash}{54dd54ed498a10b4a63c7bd482674626}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2052-4463}
+      \field{journaltitle}{Scientific Data}
+      \field{month}{8}
+      \field{number}{1}
+      \field{title}{The HAM10000 dataset, a large collection of multi-source dermatoscopic images of common pigmented skin lesions}
+      \field{volume}{5}
+      \field{year}{2018}
+      \field{pages}{180161}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/sdata.2018.161
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/sdata2018161
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/sdata2018161
       \endverb
     \endentry
     \entry{Oirschot_2024}{article}{}
