@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2024.1.7)  1 MAR 2026 15:13
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2024.1.7)  27 MAR 2026 17:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2407,33 +2407,49 @@ LaTeX Font Info:    Font shape `TU/Calibri(0)/m/n' will be
 (Font)              scaled to size 15.56607pt on input line 110.
 LaTeX Font Info:    Font shape `TU/Calibri(0)/b/n' will be
 (Font)              scaled to size 15.56607pt on input line 110.
-[7]
 File: ai_ml_dl.png Graphic file (type bmp)
 <ai_ml_dl.png>
- [8]
-File: cnn.png Graphic file (type bmp)
-<cnn.png>
- [9]
-LaTeX Font Info:    Font shape `TU/Calibri(0)/m/n' will be
-(Font)              scaled to size 9.46936pt on input line 155.
-LaTeX Font Info:    Font shape `TU/Calibri(0)/m/n' will be
-(Font)              scaled to size 7.78304pt on input line 155.
+[7]
 File: cnn.png Graphic file (type bmp)
 <cnn.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 174--182
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[8] [9]
+LaTeX Font Info:    Font shape `TU/Calibri(0)/m/n' will be
+(Font)              scaled to size 9.46936pt on input line 154.
+LaTeX Font Info:    Font shape `TU/Calibri(0)/m/n' will be
+(Font)              scaled to size 7.78304pt on input line 154.
+
+
+! LaTeX Error: File `' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.176 ^^I\includegraphics[width=0.7\linewidth]{}
+                                                
+I could not locate the file with any of these extensions:
+.pdf,.PDF,.ai,.AI,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2,.jpf,.JPF,.bmp,.BMP
+,.ps,.PS,.eps,.EPS,.mps,.MPS
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--181
 []\TU/Calibri(1)/m/n/12 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!DODAĆ MACIERZ 
 POMY-
  []
 
 [10] [11] [12]
-Underfull \hbox (badness 1845) in paragraph at lines 249--251
+Underfull \hbox (badness 1845) in paragraph at lines 253--255
 \TU/Calibri(1)/m/n/12 zastosowania uczenia transferowego na modelach EfficientN
 etB0, EfficientNetB1 i
  []
 
 [13] [14] [15]
-Underfull \hbox (badness 10000) in paragraph at lines 301--302
+Underfull \hbox (badness 10000) in paragraph at lines 305--306
 []\TU/Calibri(1)/m/n/12 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!OPISAĆ RESZTĘ 
 BADAŃ PO DOSTANIU DO-
  []
@@ -2577,8 +2593,11 @@ L3 programming layer <2023-10-10>
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `praca.out' has not changed.
-(rerunfilecheck)             Checksum: 0B68031972F038F07B258A5B707B743C;7528.
+(rerunfilecheck)             Checksum: 8F97CF54F779568F0765A1E21D2E930C;7581.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                praca
@@ -2589,10 +2608,10 @@ Package logreq Info: Writing requests to 'praca.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 42124 strings out of 409955
- 830937 string characters out of 5781419
+ 42176 strings out of 409955
+ 831631 string characters out of 5781419
  1938674 words of memory out of 5000000
- 63238 multiletter control sequences out of 15000+600000
+ 63290 multiletter control sequences out of 15000+600000
  561663 words of font info for 119 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  123i,12n,137p,2745b,5736s stack positions out of 10000i,1000n,20000p,200000b,200000s

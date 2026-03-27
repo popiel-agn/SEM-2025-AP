@@ -4385,6 +4385,22 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S235234092031115X
       \endverb
     \endentry
+    \entry{Nowak_2022}{book}{}
+      \list{location}{1}{%
+        {Kraków}%
+      }
+      \list{publisher}{1}{%
+        {Wydawnictwa AGH}%
+      }
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9788367427050}
+      \field{title}{Podstawy uczenia maszynowego}
+      \field{year}{2022}
+    \endentry
     \entry{Rainio_2024}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=31eb6d9f894cdef018cd826123dfdcf7}{%
@@ -10203,6 +10219,22 @@
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S235234092031115X
       \endverb
+    \endentry
+    \entry{Nowak_2022}{book}{}
+      \list{location}{1}{%
+        {Kraków}%
+      }
+      \list{publisher}{1}{%
+        {Wydawnictwa AGH}%
+      }
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9788367427050}
+      \field{title}{Podstawy uczenia maszynowego}
+      \field{year}{2022}
     \endentry
     \entry{Rainio_2024}{article}{}
       \name{author}{3}{}{%
