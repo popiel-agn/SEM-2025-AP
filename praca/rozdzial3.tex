@@ -315,6 +315,108 @@ Na tle innych zbiorów danych Dermofit wyróżnia się obecnością rzadziej spo
 
 \subsection{Dobór zbiorów i opis wybranych zmian skórnych}
 
+Ponieważ zbiory danych obejmują wiele jednostek chorobowych, w celu stworzenia mobilnego systemu identyfikacji szerokiej gamy znamion konieczny jest odpowiedni wybór zbiorów oraz tym samym ujednolicenie klas przed dalszą analizą.
+Ograniczenie typów znamion rozpoznawanych przez system jest konieczne, ponieważ gdy ich liczba będzie zbyt duża, model nie będzie miał wystarczająco przykładów, żeby się uczyć, oraz znacznie wzrośnie jego złożoność algorytmiczna.
+Dobranie zbyt małej liczby klas zmniejszy przydatność modelu.
+W ramach projektu zdecydowano się na wykorzystanie zbiorów HAM10000, BCN20000, DERM7PT, ISIC 2020 oraz PAD-UFES-20.
+HAM10000, BCN20000 oraz ISIC 2020 to oficjalne zbiory International Skin Imaging Collaboration, przez co obejmują one podobne klasy i podobnie je definiują. 
+Podstawę danych stanowią HAM10000, BCN20000 ponieważ zawierają bardzo duże ilości obrazów, a diagnostyka jest wysokiej jakości.
+ISIC 2020 w większości stanowi klasa "unknown", czyli niezakwalifkowana, lecz zbiór został również uwzględniony w badaniach ponieważ zawiera wiele przykładów rzadziej występujących klas, takich jak plamy soczewicowate (ang. \textit{lentigo})
+lub rogowacenie liszajowate (ang. \textit{lichenoid keratosis}).
+Zbiór PAD-UFES-20 jets istotny w przypadku modelu ponieważ uwzględnia zdjęcia wykonane aparatem telefonu komórkowego, co stanowi faktyczne użycie systemu.
+Dodatkowo uwzględniono zbiór DERM7PT, ponieważ ze względu na oparcie na skali siedmiopunktowej obejmuje on różne cechy kliniczne i szeroką gamę znamion.
+
+Ponieważ analiza zmian skórnych w projekcie opiera się na podstawie zdjęcia, wykorzystano wyłącznie takie metadane jak obrazy oraz diagnozę.
+Po połączeniu pięciu zbiorów danych w jeden wyróżniono 45 klas, w tym:
+
+\begin{itemize}
+	\item 11 klas i 16923 obrazów znamion melanocytowych, czyli pieprzyków (ang. \textit{nevus})
+	\item 8 klas i 4857 obrazów czerniaka (ang. \textit{melanoma})
+	\item 3 klasy i 4210 obrazów raka podstawnokomórkowego (ang. \textit{basal cell carcinoma})
+	\item 2 klasy i 2237 obrazów łagodnego rogowacenia (ang. \textit{benign keratosis})
+	\item 3 klasy i 1794 obrazy rogowacenie słoneczne (ang. \textit{actinic keratosis})
+	\item 2 klasy i 623 obrazy raka kolczystkomórkowego  (ang. \textit{squamous cell carcinoma})
+	\item 3 klasy i 253 obrazów zmian naczyniowych (ang. \textit{vascular lesions})
+	\item 3 klasy i 239 obrazów włókniaka twardego (ang. \textit{dermatofibroma})
+\end{itemize}
+Pozostałe klasy obejmowały takie zmiany skórne jak rogowacenie łojotokowe (ang. \textit{seborrheic keratosis}), 
+
+\begin{table}[htbp]
+	\centering
+	\caption{Wykaz klas w wybranych zbiorach danych}
+	\renewcommand{\arraystretch}{1.2}
+	\begin{tabularx}{\textwidth}{|l|c|c|c|c|c|}
+		\hline
+		\textbf{Klasa} & \textbf{HAM10000} & \textbf{PAD-UFES-20} & \textbf{DERM7PT} & \textbf{ISIC 2020} & \textbf{BCN20000} \\ \hline
+		ACK & 0 & 730 & 0 & 0 & 0 \\ \hline
+		AK & 0 & 0 & 0 & 0 & 737 \\ \hline
+		BCC & 0 & 845 & 0 & 0 & 2809 \\ \hline
+		BKL & 0 & 0 & 0 & 0 & 1138 \\ \hline
+		DF & 0 & 0 & 0 & 0 & 124 \\ \hline
+		MEL & 0 & 52 & 0 & 0 & 2857 \\ \hline
+		NEV & 0 & 244 & 0 & 0 & 0 \\ \hline
+		NV & 0 & 0 & 0 & 0 & 4206 \\ \hline
+		SCC & 0 & 192 & 0 & 0 & 431 \\ \hline
+		SEK & 0 & 235 & 0 & 0 & 0 \\ \hline
+		VASC & 0 & 0 & 0 & 0 & 111 \\ \hline
+		akiec & 327 & 0 & 0 & 0 & 0 \\ \hline
+		atypical melanocytic proliferation & 0 & 0 & 0 & 1 & 0 \\ \hline
+		basal cell carcinoma & 0 & 0 & 42 & 0 & 0 \\ \hline
+		bcc & 514 & 0 & 0 & 0 & 0 \\ \hline
+		bkl & 1099 & 0 & 0 & 0 & 0 \\ \hline
+		blue nevus & 0 & 0 & 28 & 0 & 0 \\ \hline
+		cafe-au-lait macule & 0 & 0 & 0 & 1 & 0 \\ \hline
+		clark nevus & 0 & 0 & 399 & 0 & 0 \\ \hline
+		combined nevus & 0 & 0 & 13 & 0 & 0 \\ \hline
+		congenital nevus & 0 & 0 & 17 & 0 & 0 \\ \hline
+		dermal nevus & 0 & 0 & 33 & 0 & 0 \\ \hline
+		dermatofibroma & 0 & 0 & 20 & 0 & 0 \\ \hline
+		df & 115 & 0 & 0 & 0 & 0 \\ \hline
+		lentigo & 0 & 0 & 24 & 0 & 0 \\ \hline
+		lentigo NOS & 0 & 0 & 0 & 44 & 0 \\ \hline
+		lichenoid keratosis & 0 & 0 & 0 & 37 & 0 \\ \hline
+		mel & 1113 & 0 & 0 & 0 & 0 \\ \hline
+		melanoma & 0 & 0 & 1 & 584 & 0 \\ \hline
+		melanoma (0.76 to 1.5 mm) & 0 & 0 & 53 & 0 & 0 \\ \hline
+		melanoma (in situ) & 0 & 0 & 64 & 0 & 0 \\ \hline
+		melanoma (less than 0.76 mm) & 0 & 0 & 102 & 0 & 0 \\ \hline
+		melanoma (more than 1.5 mm) & 0 & 0 & 28 & 0 & 0 \\ \hline
+		melanoma metastasis & 0 & 0 & 4 & 0 & 0 \\ \hline
+		melanosis & 0 & 0 & 16 & 0 & 0 \\ \hline
+		miscellaneous & 0 & 0 & 8 & 0 & 0 \\ \hline
+		nevus & 0 & 0 & 0 & 5193 & 0 \\ \hline
+		nv & 6705 & 0 & 0 & 0 & 0 \\ \hline
+		recurrent nevus & 0 & 0 & 6 & 0 & 0 \\ \hline
+		reed or spitz nevus & 0 & 0 & 79 & 0 & 0 \\ \hline
+		seborrheic keratosis & 0 & 0 & 45 & 135 & 0 \\ \hline
+		solar lentigo & 0 & 0 & 0 & 7 & 0 \\ \hline
+		unknown & 0 & 0 & 0 & 27124 & 0 \\ \hline
+		vasc & 142 & 0 & 0 & 0 & 0 \\ \hline
+		vascular lesion & 0 & 0 & 29 & 0 & 0 \\ \hline
+		
+	\end{tabularx}
+	\label{tab:klasy_zbiory}
+\end{table}
+
+Następnie ujednolicono klasy na następującej podstawie
+
+\begin{table}[htbp]
+	\centering
+	\caption{Ujednolicenie klas}
+	\begin{tabularx}{\textwidth}{|l|c|}
+		\hline
+		\textbf{Klasa} & \textbf{Oryginalne klasy} \\ \hline
+		melanoma & mel, MEL, melanoma, melanoma (in situ), melanoma (less than 0.76 mm), melanoma (0.76 to 1.5 mm), melanoma (more than 1.5 mm), melanoma metastasis \\ \hline
+		nevus & nv, NV, NEV, nevus, clark nevus, blue nevus, combined nevus, congenital nevus, dermal nevus, recurrent nevus, reed or spitz nevus \\ \hline
+		actinic keratosis & akiec, ACK, AK \\ \hline
+		benign keratosis & SEK, BKL, bkl, seborrheic keratosis, lichenoid keratosis \\ \hline
+		non-melanoma skin cancer & bcc, BCC, basal cell carcinoma, SCC \\ \hline
+		dermatofibroma & df, dermatofibroma, DF \\ \hline
+		vascular lesions & vasc, vascular lesion \\ \hline
+	\end{tabularx}
+	\label{tab:klasy_ujednolicone}
+\end{table}
+
 \section{Infrastruktura}
 
 \section{Zastosowanie}
