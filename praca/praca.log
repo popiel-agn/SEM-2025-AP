@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2024.1.7)  27 MAR 2026 17:06
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2024.1.7)  5 APR 2026 14:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2413,6 +2413,7 @@ File: ai_ml_dl.png Graphic file (type bmp)
 File: cnn.png Graphic file (type bmp)
 <cnn.png>
 
+
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [8] [9]
@@ -2541,48 +2542,65 @@ Underfull \hbox (badness 10000) in paragraph at lines 290--290
 []|\TU/Calibri(3)/m/n/6 Zdjęcia wykonane
  []
 
-) (rozdzial4.tex [27] [28] [29]
+[27] [28]
+Overfull \hbox (82.94733pt too wide) in alignment at lines 397--397
+[][][][][][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 153.91283pt on input line 399.
+
+
+Package tabularx Warning: X Columns too narrow (table too wide)
+(tabularx)                 on input line 416.
+
+
+Overfull \hbox (543.62181pt too wide) in alignment at lines 416--416
+[][] 
+ []
+
+) (rozdzial4.tex [29] [30] [31]
 Rozdział 4.
-) (rozdzial5.tex [30
+) (rozdzial5.tex [32
 
 ]
 Rozdział 5.
-) (zakonczenie.tex [31
+) (zakonczenie.tex [33
 
 ]
 Rozdział 6.
-) [32
+) [34
 
 ]
 LaTeX Font Info:    Font shape `TU/InconsolataLGC(0)/m/n' will be
 (Font)              scaled to size 10.79993pt on input line 45.
- [33
+ [35
 
-] [34] [35]
+] [36] [37]
 Underfull \hbox (badness 1642) in paragraph at lines 46--46
 []\TU/Calibri(1)/m/n/12 Goodfellow, I., Bengio, Y., Courville, A. (2016). \TU/C
 alibri(0)/m/it/12 Deep Learning \TU/Calibri(1)/m/n/12 [[][]$[][][][] [] [] [] [
 ][][] []
  []
 
-[36] [37] [38] [39] [40] [41] [42] [43] (praca.lot)
+[38] [39] [40] [41] [42] [43] [44] [45] (praca.lot)
 \tf@lot=\write10
 \openout10 = `praca.lot'.
 
- [44
+ [46
 
 ] (praca.lof)
 \tf@lof=\write11
 \openout11 = `praca.lof'.
 
- [45
+ [47
 
 ]
 (praca.lol)
 \tf@lol=\write12
 \openout12 = `praca.lol'.
 
- [46
+ [48
 
 ] (praca.aux)
  ***********
@@ -2608,12 +2626,12 @@ Package logreq Info: Writing requests to 'praca.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 42176 strings out of 409955
- 831631 string characters out of 5781419
- 1938674 words of memory out of 5000000
- 63290 multiletter control sequences out of 15000+600000
+ 42183 strings out of 409955
+ 831779 string characters out of 5781419
+ 1950674 words of memory out of 5000000
+ 63297 multiletter control sequences out of 15000+600000
  561663 words of font info for 119 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  123i,12n,137p,2745b,5736s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on praca.pdf (51 pages).
+Output written on praca.pdf (53 pages).

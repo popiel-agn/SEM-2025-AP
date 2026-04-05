@@ -32,16 +32,16 @@
 \contentsline {subsection}{\numberline {3.1.7}PH2}{25}{subsection.3.1.7}%
 \contentsline {subsection}{\numberline {3.1.8}Fitzpatrick17k}{25}{subsection.3.1.8}%
 \contentsline {subsection}{\numberline {3.1.9}Dermofit}{27}{subsection.3.1.9}%
-\contentsline {subsection}{\numberline {3.1.10}Dobór zbiorów i opis wybranych zmian skórnych}{29}{subsection.3.1.10}%
-\contentsline {section}{\numberline {3.2}Infrastruktura}{29}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Zastosowanie}{29}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Podsumowanie}{29}{section.3.4}%
-\contentsline {chapter}{\numberline {4}Metodyka badania}{30}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Wstęp}{30}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Obróbka danych}{30}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Przygotowanie modelu do trenowania}{30}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Trenowanie modelu}{30}{section.4.4}%
-\contentsline {section}{\numberline {4.5}Podsumowanie}{30}{section.4.5}%
-\contentsline {chapter}{\numberline {5}Wyniki i wnioski}{31}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Podsumowanie}{31}{section.5.1}%
-\contentsline {chapter}{\numberline {6}Podsumowanie}{32}{chapter.6}%
+\contentsline {subsection}{\numberline {3.1.10}Dobór zbiorów i opis wybranych zmian skórnych}{27}{subsection.3.1.10}%
+\contentsline {section}{\numberline {3.2}Infrastruktura}{31}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Zastosowanie}{31}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Podsumowanie}{31}{section.3.4}%
+\contentsline {chapter}{\numberline {4}Metodyka badania}{32}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Wstęp}{32}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Obróbka danych}{32}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Przygotowanie modelu do trenowania}{32}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Trenowanie modelu}{32}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Podsumowanie}{32}{section.4.5}%
+\contentsline {chapter}{\numberline {5}Wyniki i wnioski}{33}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Podsumowanie}{33}{section.5.1}%
+\contentsline {chapter}{\numberline {6}Podsumowanie}{34}{chapter.6}%

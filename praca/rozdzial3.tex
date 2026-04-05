@@ -313,7 +313,7 @@ Na tle innych zbiorów danych Dermofit wyróżnia się obecnością rzadziej spo
 \end{sidewaystable}
 
 
-\subsection{Dobór zbiorów i opis wybranych zmian skórnych}
+\section{Dobór zbiorów i opis wybranych zmian skórnych}
 
 Ponieważ zbiory danych obejmują wiele jednostek chorobowych, w celu stworzenia mobilnego systemu identyfikacji szerokiej gamy znamion konieczny jest odpowiedni wybór zbiorów oraz tym samym ujednolicenie klas przed dalszą analizą.
 Ograniczenie typów znamion rozpoznawanych przez system jest konieczne, ponieważ gdy ich liczba będzie zbyt duża, model nie będzie miał wystarczająco przykładów, żeby się uczyć, oraz znacznie wzrośnie jego złożoność algorytmiczna.
@@ -323,7 +323,7 @@ HAM10000, BCN20000 oraz ISIC 2020 to oficjalne zbiory International Skin Imaging
 Podstawę danych stanowią HAM10000, BCN20000 ponieważ zawierają bardzo duże ilości obrazów, a diagnostyka jest wysokiej jakości.
 ISIC 2020 w większości stanowi klasa "unknown", czyli niezakwalifkowana, lecz zbiór został również uwzględniony w badaniach ponieważ zawiera wiele przykładów rzadziej występujących klas, takich jak plamy soczewicowate (ang. \textit{lentigo})
 lub rogowacenie liszajowate (ang. \textit{lichenoid keratosis}).
-Zbiór PAD-UFES-20 jets istotny w przypadku modelu ponieważ uwzględnia zdjęcia wykonane aparatem telefonu komórkowego, co stanowi faktyczne użycie systemu.
+Zbiór PAD-UFES-20 jest istotny w przypadku modelu ponieważ uwzględnia zdjęcia wykonane aparatem telefonu komórkowego, co stanowi faktyczne użycie systemu.
 Dodatkowo uwzględniono zbiór DERM7PT, ponieważ ze względu na oparcie na skali siedmiopunktowej obejmuje on różne cechy kliniczne i szeroką gamę znamion.
 
 Ponieważ analiza zmian skórnych w projekcie opiera się na podstawie zdjęcia, wykorzystano wyłącznie takie metadane jak obrazy oraz diagnozę.
@@ -339,7 +339,6 @@ Po połączeniu pięciu zbiorów danych w jeden wyróżniono 45 klas, w tym:
 	\item 3 klasy i 253 obrazów zmian naczyniowych (ang. \textit{vascular lesions})
 	\item 3 klasy i 239 obrazów włókniaka twardego (ang. \textit{dermatofibroma})
 \end{itemize}
-Pozostałe klasy obejmowały takie zmiany skórne jak rogowacenie łojotokowe (ang. \textit{seborrheic keratosis}), 
 
 \begin{table}[htbp]
 	\centering
@@ -398,7 +397,45 @@ Pozostałe klasy obejmowały takie zmiany skórne jak rogowacenie łojotokowe (a
 	\label{tab:klasy_zbiory}
 \end{table}
 
-Następnie ujednolicono klasy na następującej podstawie
+\subsection{Czerniak - melanoma}
+Klasa czerniaka złośliwego obejmuje czerniaki o różnych odmianach i rozmiarach.
+Są to złośliwe zmiany wywodzące się ze znamion melanocytowych, które mogą być inwazyjne lub nieinwazyjne (in situ).
+Jeżeli czerniak zostanie wykryty w wczesnym stadium, można go wyleczyć poprzez wycięcie chirurgiczne.
+Istotnie różnią się od pieprzyków swoją nieregularną strukturą oraz brakiem symetrii \cite{Bourke_2010, Kittler_2018}.
+
+\subsection{Zmiany melanocytowe - Nevus}
+Klasa nevus dotyczy łagodnych znamion melanocytowych, powszechnie nazywanych pieprzykami.
+Odmiany tej zmiany mogą się znacznie różnić pod względem dermoskopowym, na przykład pod względem koloru, lecz w przeciwieństwie do czerniaka, barwa tych znamion jest jednorodna a struktura jest symetryczna \cite{Bourke_2010, Kittler_2018}.
+
+\subsection{Rogowacenie słoneczne - actinic keratosis}
+Klasa rogowacenia słonecznego to nieninwazyjne odmiany raka płaskonabłonkowego, które można leczyć miejscowo.
+Klasa obejmuje również raka śródnabłonkowego, inaczej nazywanego chorobą Bowena. 
+W większości zbiorów wyodrębniono osobną klasę dla rogowacenia słonecznego, ponieważ mogą się one przekształcić w inwazyjnego raka płaskonabłonkowego, przez co wymagają stałej obserwacji \cite{Bourke_2010, Kittler_2018}.
+
+\subsection{Łagodne rogowacenie - benign keratosis}
+Ponieważ klasy "bkl" i "BKL" są ogólnymi klasami obejmującymi różne rodzaje łagodnego rogowacenia, postanowiono pozostawić je jako ogólną klasę i zaliczyć do niej bardziej szczegółowe klasy zmian skórnych, takie jak konkretne klasy dotyczące rogowacenia łojotokowego (SEK, seborrheic keratosis), rogowacenia liszajowatego (lichenoid keratosis) oraz plamek soczewicowatych (lentigo, lentigo NOS).
+Takie zgrupowanie wynika z tego, że znamiona tego typu są łagodne i są podobne do siebie pod względem biologicznym.
+Rogowacenie łojotokowe to często występujące, łagodne zmiany przypominające grudki o nierównej powierzchni.
+Rogowacenie liszajowate to łagodne zmiany skórne o charakterze zapalnym, często o fioletowawym lub czerwonym kolorze.
+Plamki soczewicowate to łagodne płaskie i z reguły brązowe zmiany skórne powstające wskutek namnażania melanocytów.
+Wszystkie z tych zmian nie wymagają leczenia, lecz są czasem usuwane chirurgicznie ze względów estetycznych \cite{Bourke_2010, Kittler_2018}.
+
+\subsection{Rak skóry inny niż czerniak - non-melanoma skin cancer}
+Stworzono również klasę "non-melanoma skin cancer" dotyczącą raka skóry nie będącego czerniakiem, czyli raka podstawnokomórkowego skóry (bcc, BCC, basal cell carcinoma) oraz 
+raka kolczystkokomórkowego skóry (SCC).
+Są to najczęśniej występujące złośliwe zmiany skórne, z reguły pojawiające się na skutek promieniowania UV.
+Obie zmiany rosna powoli i rzadko dają przerzuty, wobec czego wykryte wystarczająco wcześnie dają bardzo dobre rokowania.
+Leczenie obu tych zmian polega na ich chirurgicznym wycięciu.
+Decyzja o uwzględnieniu tych klas w jednej grupie wynikała z ich podobieństw biologicznych, zostały jednak wyróżnione od czerniaka ze względu na ich stopień złośliwości \cite{Bourke_2010, Hernández2024, Kittler_2018}.
+
+\subsection{Włókniak twardy - dermatofibroma}
+Włókniak twardy jest łagodna zmianą nowotworowa, przybierającą postać twardego guzka.
+Najczęściej jest reakcją zapalną na niewielki uraz.
+Charakteryzuje się siateczkowatymi liniami na obrzeżach zmiany oraz białej plamki w jej środkowej części, wskazującej na zwłóknienie \cite{Bourke_2010, Hernández2024}.
+
+\subsection{Zmiany naczyniowe - vascular lesions}
+Znamiona naczyniowe to łagodne zmiany skórne, takie jak naczyniaki wiśniowe i ziarniniaki ropne.
+Wyróżniają się one charakterystycznym czerwono-fioletowym zabarwieniem, oraz wyraźnie ograniczonymi strukturami \cite{Bourke_2010, Kittler_2018}.
 
 \begin{table}[htbp]
 	\centering
