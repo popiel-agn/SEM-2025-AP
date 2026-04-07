@@ -14,7 +14,7 @@
 \contentsline {subsection}{\numberline {2.3.4}Rozwiązania mobilne}{15}{subsection.2.3.4}%
 \contentsline {section}{\numberline {2.4}Wyzwania związane z głębokim uczeniem w dziedzinie dermatologii}{16}{section.2.4}%
 \contentsline {subsection}{\numberline {2.4.1}Stronniczość i ograniczona reprezentatywność}{16}{subsection.2.4.1}%
-\contentsline {subsection}{\numberline {2.4.2}Problemy z generalizacją}{17}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.2}Problemy z generalizacją}{16}{subsection.2.4.2}%
 \contentsline {subsection}{\numberline {2.4.3}Brak wyjaśnialności modeli}{17}{subsection.2.4.3}%
 \contentsline {subsubsection}{\numberline {2.4.3.1}Prywatność i bezpieczeństwo danych}{17}{subsubsection.2.4.3.1}%
 \contentsline {subsection}{\numberline {2.4.4}Regulacje prawne i odpowiedzialność}{18}{subsection.2.4.4}%
@@ -32,16 +32,23 @@
 \contentsline {subsection}{\numberline {3.1.7}PH2}{25}{subsection.3.1.7}%
 \contentsline {subsection}{\numberline {3.1.8}Fitzpatrick17k}{25}{subsection.3.1.8}%
 \contentsline {subsection}{\numberline {3.1.9}Dermofit}{27}{subsection.3.1.9}%
-\contentsline {subsection}{\numberline {3.1.10}Dobór zbiorów i opis wybranych zmian skórnych}{27}{subsection.3.1.10}%
-\contentsline {section}{\numberline {3.2}Infrastruktura}{31}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Zastosowanie}{31}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Podsumowanie}{31}{section.3.4}%
-\contentsline {chapter}{\numberline {4}Metodyka badania}{32}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Wstęp}{32}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Obróbka danych}{32}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Przygotowanie modelu do trenowania}{32}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Trenowanie modelu}{32}{section.4.4}%
-\contentsline {section}{\numberline {4.5}Podsumowanie}{32}{section.4.5}%
-\contentsline {chapter}{\numberline {5}Wyniki i wnioski}{33}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Podsumowanie}{33}{section.5.1}%
-\contentsline {chapter}{\numberline {6}Podsumowanie}{34}{chapter.6}%
+\contentsline {section}{\numberline {3.2}Dobór zbiorów i opis wybranych zmian skórnych}{27}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Czerniak - melanoma}{29}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Zmiany melanocytowe - Nevus}{31}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Rogowacenie słoneczne - actinic keratosis}{31}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Łagodne rogowacenie - benign keratosis}{31}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.2.5}Rak skóry inny niż czerniak - non-melanoma skin cancer}{32}{subsection.3.2.5}%
+\contentsline {subsection}{\numberline {3.2.6}Włókniak twardy - dermatofibroma}{32}{subsection.3.2.6}%
+\contentsline {subsection}{\numberline {3.2.7}Zmiany naczyniowe - vascular lesions}{32}{subsection.3.2.7}%
+\contentsline {section}{\numberline {3.3}Infrastruktura}{33}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Zastosowanie}{33}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Podsumowanie}{33}{section.3.5}%
+\contentsline {chapter}{\numberline {4}Metodyka badania}{34}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Wstęp}{34}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Obróbka danych}{34}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Przygotowanie modelu do trenowania}{34}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Trenowanie modelu}{34}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Podsumowanie}{34}{section.4.5}%
+\contentsline {chapter}{\numberline {5}Wyniki i wnioski}{35}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Podsumowanie}{35}{section.5.1}%
+\contentsline {chapter}{\numberline {6}Podsumowanie}{36}{chapter.6}%

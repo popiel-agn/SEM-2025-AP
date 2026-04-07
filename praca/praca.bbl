@@ -722,6 +722,46 @@
       \verb https://www.mdpi.com/2075-4418/12/10/2472
       \endverb
     \endentry
+    \entry{Bourke_2010}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=9d301c726fcda4a05c201073b25ef4ae}{%
+           family={Bourke},
+           familyi={B\bibinitperiod},
+           given={Johnny},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6177363cab62d03d503ce347750c82e4}{%
+           family={Graham-Brown},
+           familyi={G\bibinithyphendelim B\bibinitperiod},
+           given={Robin},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b85f4071ac53c7876d6744f6749344a1}{%
+           family={Andrzej\bibnamedelima Kaszuba},
+           familyi={A\bibinitperiod\bibinitdelim K\bibinitperiod},
+           prefix={red.\bibnamedelimi wyd.\bibnamedelimi pol.},
+           prefixi={r\bibinitperiod\bibinitdelim w\bibinitperiod\bibinitdelim p\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Urban \& Partner}%
+      }
+      \strng{namehash}{b103f485cd6fb3ffb9dd822547562f80}
+      \strng{fullhash}{b103f485cd6fb3ffb9dd822547562f80}
+      \strng{bibnamehash}{b103f485cd6fb3ffb9dd822547562f80}
+      \strng{authorbibnamehash}{b103f485cd6fb3ffb9dd822547562f80}
+      \strng{authornamehash}{b103f485cd6fb3ffb9dd822547562f80}
+      \strng{authorfullhash}{b103f485cd6fb3ffb9dd822547562f80}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9788376091716}
+      \field{title}{Dermatologia. Podręcznik i atlas.}
+      \field{year}{2010}
+    \endentry
     \entry{Bourouis_Zerdazi_Feham_Bouchachia_2013}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=92a331b73af708b9ec5a3050d043d701}{%
@@ -6556,6 +6596,46 @@
       \verb{url}
       \verb https://www.mdpi.com/2075-4418/12/10/2472
       \endverb
+    \endentry
+    \entry{Bourke_2010}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=9d301c726fcda4a05c201073b25ef4ae}{%
+           family={Bourke},
+           familyi={B\bibinitperiod},
+           given={Johnny},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6177363cab62d03d503ce347750c82e4}{%
+           family={Graham-Brown},
+           familyi={G\bibinithyphendelim B\bibinitperiod},
+           given={Robin},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b85f4071ac53c7876d6744f6749344a1}{%
+           family={Andrzej\bibnamedelima Kaszuba},
+           familyi={A\bibinitperiod\bibinitdelim K\bibinitperiod},
+           prefix={red.\bibnamedelimi wyd.\bibnamedelimi pol.},
+           prefixi={r\bibinitperiod\bibinitdelim w\bibinitperiod\bibinitdelim p\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Urban \& Partner}%
+      }
+      \strng{namehash}{b103f485cd6fb3ffb9dd822547562f80}
+      \strng{fullhash}{b103f485cd6fb3ffb9dd822547562f80}
+      \strng{bibnamehash}{b103f485cd6fb3ffb9dd822547562f80}
+      \strng{authorbibnamehash}{b103f485cd6fb3ffb9dd822547562f80}
+      \strng{authornamehash}{b103f485cd6fb3ffb9dd822547562f80}
+      \strng{authorfullhash}{b103f485cd6fb3ffb9dd822547562f80}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9788376091716}
+      \field{title}{Dermatologia. Podręcznik i atlas.}
+      \field{year}{2010}
     \endentry
     \entry{Bourouis_Zerdazi_Feham_Bouchachia_2013}{article}{}
       \name{author}{4}{}{%

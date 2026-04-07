@@ -1,26 +1,26 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'praca.blg'
-[189] biber-MSWIN64:340> INFO - === 
-[223] Biber.pm:419> INFO - Reading 'praca.bcf'
-[358] Biber.pm:979> INFO - Found 89 citekeys in bib section 0
-[385] Biber.pm:4419> INFO - Processing section 0
-[397] Biber.pm:4610> INFO - Looking for bibtex file 'bibliografia.bib' for section 0
-[513] bibtex.pm:1713> INFO - LaTeX decoding ...
-[667] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliografia.bib'
-[1328] UCollate.pm:68> INFO - Overriding locale 'pl-PL' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1328] UCollate.pm:68> INFO - Overriding locale 'pl-PL' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1328] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'pl-PL'
-[1513] UCollate.pm:68> INFO - Overriding locale 'pl-PL' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1513] UCollate.pm:68> INFO - Overriding locale 'pl-PL' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1513] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'pl-PL'
-[1631] bbl.pm:660> INFO - Writing 'praca.bbl' with encoding 'UTF-8'
-[1826] bbl.pm:763> INFO - Output to praca.bbl
-[1826] Biber.pm:131> WARN - ISBN '9781789844283 9781789844290' in entry 'sezer_application_2020' is invalid - run biber with '--validate_datamodel' for details.
-[1827] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\User\AppData\Local\Temp\biber_tmp_SnE_\499af1e6906591d6961f19d66c065a09_8144.utf8, line 541, warning: undefined macro "july"
-[1827] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\User\AppData\Local\Temp\biber_tmp_SnE_\499af1e6906591d6961f19d66c065a09_8144.utf8, line 547, warning: undefined macro "sept"
-[1827] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\User\AppData\Local\Temp\biber_tmp_SnE_\499af1e6906591d6961f19d66c065a09_8144.utf8, line 566, warning: undefined macro "july"
-[1827] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\User\AppData\Local\Temp\biber_tmp_SnE_\499af1e6906591d6961f19d66c065a09_8144.utf8, line 569, warning: undefined macro "june"
-[1827] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\User\AppData\Local\Temp\biber_tmp_SnE_\499af1e6906591d6961f19d66c065a09_8144.utf8, line 580, warning: undefined macro "july"
-[1827] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\User\AppData\Local\Temp\biber_tmp_SnE_\499af1e6906591d6961f19d66c065a09_8144.utf8, line 641, warning: undefined macro "june"
-[1827] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\User\AppData\Local\Temp\biber_tmp_SnE_\499af1e6906591d6961f19d66c065a09_8144.utf8, line 643, warning: undefined macro "july"
-[1827] Biber.pm:133> INFO - WARNINGS: 8
+[149] biber-MSWIN64:340> INFO - === 
+[190] Biber.pm:419> INFO - Reading 'praca.bcf'
+[437] Biber.pm:979> INFO - Found 90 citekeys in bib section 0
+[465] Biber.pm:4419> INFO - Processing section 0
+[481] Biber.pm:4610> INFO - Looking for bibtex file 'bibliografia.bib' for section 0
+[603] bibtex.pm:1713> INFO - LaTeX decoding ...
+[860] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliografia.bib'
+[1944] UCollate.pm:68> INFO - Overriding locale 'pl-PL' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1944] UCollate.pm:68> INFO - Overriding locale 'pl-PL' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1944] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'pl-PL'
+[2223] UCollate.pm:68> INFO - Overriding locale 'pl-PL' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2224] UCollate.pm:68> INFO - Overriding locale 'pl-PL' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2224] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'pl-PL'
+[2434] bbl.pm:660> INFO - Writing 'praca.bbl' with encoding 'UTF-8'
+[2746] bbl.pm:763> INFO - Output to praca.bbl
+[2746] Biber.pm:131> WARN - ISBN '9781789844283 9781789844290' in entry 'sezer_application_2020' is invalid - run biber with '--validate_datamodel' for details.
+[2746] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\User\AppData\Local\Temp\biber_tmp_LOi8\499af1e6906591d6961f19d66c065a09_27176.utf8, line 541, warning: undefined macro "july"
+[2746] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\User\AppData\Local\Temp\biber_tmp_LOi8\499af1e6906591d6961f19d66c065a09_27176.utf8, line 547, warning: undefined macro "sept"
+[2746] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\User\AppData\Local\Temp\biber_tmp_LOi8\499af1e6906591d6961f19d66c065a09_27176.utf8, line 566, warning: undefined macro "july"
+[2746] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\User\AppData\Local\Temp\biber_tmp_LOi8\499af1e6906591d6961f19d66c065a09_27176.utf8, line 569, warning: undefined macro "june"
+[2746] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\User\AppData\Local\Temp\biber_tmp_LOi8\499af1e6906591d6961f19d66c065a09_27176.utf8, line 580, warning: undefined macro "july"
+[2746] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\User\AppData\Local\Temp\biber_tmp_LOi8\499af1e6906591d6961f19d66c065a09_27176.utf8, line 641, warning: undefined macro "june"
+[2746] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\User\AppData\Local\Temp\biber_tmp_LOi8\499af1e6906591d6961f19d66c065a09_27176.utf8, line 643, warning: undefined macro "july"
+[2747] Biber.pm:133> INFO - WARNINGS: 8

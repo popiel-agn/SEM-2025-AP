@@ -342,9 +342,10 @@ Po połączeniu pięciu zbiorów danych w jeden wyróżniono 45 klas, w tym:
 
 \begin{table}[htbp]
 	\centering
+	\small
 	\caption{Wykaz klas w wybranych zbiorach danych}
-	\renewcommand{\arraystretch}{1.2}
-	\begin{tabularx}{\textwidth}{|l|c|c|c|c|c|}
+	\renewcommand{\arraystretch}{1}
+	\begin{tabular}{|l|c|c|c|c|c|}
 		\hline
 		\textbf{Klasa} & \textbf{HAM10000} & \textbf{PAD-UFES-20} & \textbf{DERM7PT} & \textbf{ISIC 2020} & \textbf{BCN20000} \\ \hline
 		ACK & 0 & 730 & 0 & 0 & 0 \\ \hline
@@ -392,8 +393,7 @@ Po połączeniu pięciu zbiorów danych w jeden wyróżniono 45 klas, w tym:
 		unknown & 0 & 0 & 0 & 27124 & 0 \\ \hline
 		vasc & 142 & 0 & 0 & 0 & 0 \\ \hline
 		vascular lesion & 0 & 0 & 29 & 0 & 0 \\ \hline
-		
-	\end{tabularx}
+	\end{tabular}
 	\label{tab:klasy_zbiory}
 \end{table}
 
@@ -440,7 +440,8 @@ Wyróżniają się one charakterystycznym czerwono-fioletowym zabarwieniem, oraz
 \begin{table}[htbp]
 	\centering
 	\caption{Ujednolicenie klas}
-	\begin{tabularx}{\textwidth}{|l|c|}
+	\renewcommand{\arraystretch}{1.2}
+	\begin{tabular}{|l|p{10cm}|}
 		\hline
 		\textbf{Klasa} & \textbf{Oryginalne klasy} \\ \hline
 		melanoma & mel, MEL, melanoma, melanoma (in situ), melanoma (less than 0.76 mm), melanoma (0.76 to 1.5 mm), melanoma (more than 1.5 mm), melanoma metastasis \\ \hline
@@ -450,7 +451,7 @@ Wyróżniają się one charakterystycznym czerwono-fioletowym zabarwieniem, oraz
 		non-melanoma skin cancer & bcc, BCC, basal cell carcinoma, SCC \\ \hline
 		dermatofibroma & df, dermatofibroma, DF \\ \hline
 		vascular lesions & vasc, vascular lesion \\ \hline
-	\end{tabularx}
+	\end{tabular}
 	\label{tab:klasy_ujednolicone}
 \end{table}
 

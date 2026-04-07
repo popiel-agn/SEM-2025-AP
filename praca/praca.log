@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2024.1.7)  5 APR 2026 14:13
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2024.1.7)  6 APR 2026 12:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2422,35 +2422,19 @@ LaTeX Font Info:    Font shape `TU/Calibri(0)/m/n' will be
 LaTeX Font Info:    Font shape `TU/Calibri(0)/m/n' will be
 (Font)              scaled to size 7.78304pt on input line 154.
 
-
-! LaTeX Error: File `' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.176 ^^I\includegraphics[width=0.7\linewidth]{}
-                                                
-I could not locate the file with any of these extensions:
-.pdf,.PDF,.ai,.AI,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2,.jpf,.JPF,.bmp,.BMP
-,.ps,.PS,.eps,.EPS,.mps,.MPS
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 173--181
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
 []\TU/Calibri(1)/m/n/12 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!DODAĆ MACIERZ 
 POMY-
  []
 
 [10] [11] [12]
-Underfull \hbox (badness 1845) in paragraph at lines 253--255
+Underfull \hbox (badness 1845) in paragraph at lines 246--248
 \TU/Calibri(1)/m/n/12 zastosowania uczenia transferowego na modelach EfficientN
 etB0, EfficientNetB1 i
  []
 
 [13] [14] [15]
-Underfull \hbox (badness 10000) in paragraph at lines 305--306
+Underfull \hbox (badness 10000) in paragraph at lines 298--299
 []\TU/Calibri(1)/m/n/12 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!OPISAĆ RESZTĘ 
 BADAŃ PO DOSTANIU DO-
  []
@@ -2543,64 +2527,85 @@ Underfull \hbox (badness 10000) in paragraph at lines 290--290
  []
 
 [27] [28]
-Overfull \hbox (82.94733pt too wide) in alignment at lines 397--397
-[][][][][][] 
+LaTeX Font Info:    Font shape `TU/Calibri(0)/m/n' will be
+(Font)              scaled to size 11.8367pt on input line 345.
+LaTeX Font Info:    Font shape `TU/CambriaMath(1)/m/n' will be
+(Font)              scaled to size 11.221pt on input line 348.
+LaTeX Font Info:    Font shape `TU/CambriaMath(1)/m/n' will be
+(Font)              scaled to size 8.198pt on input line 348.
+LaTeX Font Info:    Font shape `TU/CambriaMath(2)/m/n' will be
+(Font)              scaled to size 11.22217pt on input line 348.
+LaTeX Font Info:    Font shape `TU/CambriaMath(2)/m/n' will be
+(Font)              scaled to size 8.19885pt on input line 348.
+LaTeX Font Info:    Font shape `TU/CambriaMath(3)/m/n' will be
+(Font)              scaled to size 11.21983pt on input line 348.
+LaTeX Font Info:    Font shape `TU/CambriaMath(3)/m/n' will be
+(Font)              scaled to size 8.19714pt on input line 348.
+LaTeX Font Info:    Font shape `TU/Calibri(3)/m/n' will be
+(Font)              scaled to size 11.8367pt on input line 348.
+LaTeX Font Info:    Font shape `TU/Calibri(3)/m/n' will be
+(Font)              scaled to size 8.64783pt on input line 348.
+LaTeX Font Info:    Font shape `TU/CalibriItalic(0)/m/n' will be
+(Font)              scaled to size 11.8093pt on input line 348.
+LaTeX Font Info:    Font shape `TU/CalibriItalic(0)/m/n' will be
+(Font)              scaled to size 8.6278pt on input line 348.
+LaTeX Font Info:    Font shape `TU/CalibriBold(0)/m/n' will be
+(Font)              scaled to size 11.8367pt on input line 348.
+LaTeX Font Info:    Font shape `TU/CalibriBold(0)/m/n' will be
+(Font)              scaled to size 8.64783pt on input line 348.
+LaTeX Font Info:    Font shape `TU/CalibriBoldItalic(0)/m/n' will be
+(Font)              scaled to size 11.8367pt on input line 348.
+LaTeX Font Info:    Font shape `TU/CalibriBoldItalic(0)/m/n' will be
+(Font)              scaled to size 8.64783pt on input line 348.
+LaTeX Font Info:    Font shape `TU/Calibri(0)/b/n' will be
+(Font)              scaled to size 11.8367pt on input line 350.
+
+Overfull \hbox (42.40013pt too wide) in paragraph at lines 348--398
+ [][] 
  []
 
-
-LaTeX Warning: Float too large for page by 153.91283pt on input line 399.
-
-
-Package tabularx Warning: X Columns too narrow (table too wide)
-(tabularx)                 on input line 416.
-
-
-Overfull \hbox (543.62181pt too wide) in alignment at lines 416--416
-[][] 
- []
-
-) (rozdzial4.tex [29] [30] [31]
+[29] [30] [31]) (rozdzial4.tex [32] [33]
 Rozdział 4.
-) (rozdzial5.tex [32
+) (rozdzial5.tex [34
 
 ]
 Rozdział 5.
-) (zakonczenie.tex [33
+) (zakonczenie.tex [35
 
 ]
 Rozdział 6.
-) [34
+) [36
 
 ]
 LaTeX Font Info:    Font shape `TU/InconsolataLGC(0)/m/n' will be
 (Font)              scaled to size 10.79993pt on input line 45.
- [35
+ [37
 
-] [36] [37]
+] [38] [39]
 Underfull \hbox (badness 1642) in paragraph at lines 46--46
 []\TU/Calibri(1)/m/n/12 Goodfellow, I., Bengio, Y., Courville, A. (2016). \TU/C
 alibri(0)/m/it/12 Deep Learning \TU/Calibri(1)/m/n/12 [[][]$[][][][] [] [] [] [
 ][][] []
  []
 
-[38] [39] [40] [41] [42] [43] [44] [45] (praca.lot)
+[40] [41] [42] [43] [44] [45] [46] [47] (praca.lot)
 \tf@lot=\write10
 \openout10 = `praca.lot'.
 
- [46
+ [48
 
 ] (praca.lof)
 \tf@lof=\write11
 \openout11 = `praca.lof'.
 
- [47
+ [49
 
 ]
 (praca.lol)
 \tf@lol=\write12
 \openout12 = `praca.lol'.
 
- [48
+ [50
 
 ] (praca.aux)
  ***********
@@ -2611,11 +2616,8 @@ L3 programming layer <2023-10-10>
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `praca.out' has not changed.
-(rerunfilecheck)             Checksum: 8F97CF54F779568F0765A1E21D2E930C;7581.
+(rerunfilecheck)             Checksum: 16A7383723A4BEEE18F758C68F1E53DD;9344.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                praca
@@ -2626,12 +2628,12 @@ Package logreq Info: Writing requests to 'praca.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 42183 strings out of 409955
- 831779 string characters out of 5781419
- 1950674 words of memory out of 5000000
- 63297 multiletter control sequences out of 15000+600000
- 561663 words of font info for 119 fonts, out of 8000000 for 9000
+ 42169 strings out of 409955
+ 832684 string characters out of 5781419
+ 1945674 words of memory out of 5000000
+ 63270 multiletter control sequences out of 15000+600000
+ 562825 words of font info for 134 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  123i,12n,137p,2745b,5736s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on praca.pdf (53 pages).
+Output written on praca.pdf (55 pages).
