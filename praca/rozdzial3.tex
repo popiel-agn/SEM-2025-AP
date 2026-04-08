@@ -565,10 +565,28 @@ Ponad 70\% wszystkich danych pochodziło ze zbiorów BCN20000 oraz HAM10000, co 
 W kolejnych etapach przeprowadzono dalsze czyszczenie oraz przygotowanie danych pod kątem wymagań modelu, co szczegółowo opisano w rozdziale 4, w podrozdziale Obróbka danych.
 
 \section{Infrastruktura}
+Pierwszym etapem opracowania systemu identyfikacji zmian skórnych jest przygotowanie i wytrenowanie odpowiedniego modelu uczenia maszynowego.
+W ramach niniejszej pracy zastosowano technikę transfer learning, polegającą na wykorzystaniu wcześniej wytrenowanych modeli konwolucyjnych i dostosowaniu ich do specyfiki nowych danych.
+Po zakończniu procesu model został skonwertowany do formatu TensorFlow Lite (tflite), umożliwiającego jego uruchamianie bezpośrednio na urządzeniach mobilnych z systemem Android.
+W związdku z tym inferencja dobywa się lokalnie
+Aplikację mobilną napisano za pomocą języka Kotlin z biblioteką Jetpack Compose w celu stworzenia interfejsu użytkownika.
+Model w formacie tflite jest uwzględniony w plikach aplikacji, i wykorzystuje ona go bezpośrednio do wnioskowania za pomocą biblioteki TensorFlow Lite umożloiwiającej uruchamianie modeli uczenia maszynowego na urządzeniach mobilnych.
 
+Diagram \ref{fig:diagram_systemu} przedstawia ścieżkę użytkownika oraz podstawową infrastrukturę systemu.
+W pierwszym kroku użytkownik wykonuje zdjęcie zmiany skórnej aparatem telefonu komórkowego i wczytuje je do aplikacji bądź wykonuje zdjęcie bezpośrednio w niej.
+Następnie zdjęcie jest przekazane lokalnie przechowywanemu wytrenowanemu modelu w wersji tflite do wnioskowania, który zwraca wynik.
+Procentowe prawdopodobieństwa przynależności zmiany do każdej z klas są wyświetlone użytkownikowi na interfejsie.
 
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.9\linewidth]{cnn}
+	\caption{Diagram przedstawiający działanie aplikacji}
+	\source{Opracowanie własne}
+	\label{fig:diagram_systemu}
+\end{figure}
 
-\section{Zastosowanie}
+Warto podkreślić, że wynik podany przez model nie jest faktyczną diagnozą medyczną, lecz tylko przybliżeniem na podstawie wyuczonych danych.
+W związku z tym prawdopodobieństwa podane przez system powinny służyć jedynie za wskazówkę pacjentowi i powinny być skonsultowane z specjalistą.
 
 
 
