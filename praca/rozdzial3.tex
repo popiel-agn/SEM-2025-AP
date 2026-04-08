@@ -35,7 +35,7 @@ Wyróżniono następujące klasy w zbiorze:
 Klasa "akiec" obejmuje rogowacenie słoneczne, raka śródnabłonkowego oraz chorobę Bowena, czyli nieinwazyjne nowotwory, które można leczyć miejscowo bez konieczności wykonywania zabiegów chirurgicznych.
 Pomimo nieinwazyjności tych nowotworów należy wziąć pod uwagę, że te zmiany mogą przekształcić się w inwazyjnego raka płaskonabłonkowego (ang. \textit{squamous cell carcinoma}), nieuwzględnionego w zbiorze.
 "Bcc" dotyczy raka podstawnokomórkowego, czyli powszechną odmianę raka nabłonkowego skóry, który jest wysoko uleczalny, lecz w przypadku braku leczenia rozwija się destrukcyjnie.
-Kategoria bkl stanowi ogólną klasę obejmującą łagodne rogowacenia skóry, takie jak rogowacenie łojotokowe (ang. \textit{seborrheic keratoses}) i plamki słoneczne oraz rogowacenie podobne do liszaju płaskiego.
+Kategoria "bkl" stanowi ogólną klasę obejmującą łagodne rogowacenia skóry, takie jak rogowacenie łojotokowe (ang. \textit{seborrheic keratoses}) i plamki słoneczne oraz rogowacenie podobne do liszaju płaskiego.
 Zdecydowano się na zgrupowanie tych zmian razem ze względu na podobieństwo pod względem biologicznym.
 "Df" obejmuje dermatofibromę, czyli włókniaka twardego.
 Jest ona łagodną zmianą skórną, najczęściej powstająca w wyniku reakcji zapalnej na uraz.
@@ -314,19 +314,18 @@ Na tle innych zbiorów danych Dermofit wyróżnia się obecnością rzadziej spo
 
 
 \section{Dobór zbiorów i opis wybranych zmian skórnych}
+Dostępne zbiory danych obejmują szerokie spektrum jednostek chorobowych, wobec czego opracowanie mobilnego systemu umożliwiającego identyfikację różnych zmian skórnych wymaga starannego doboru źródeł danych oraz ujednolicenia klas przed rozpoczęciem dalszej analizy.
+Ograniczenie liczby rozpoznawanych typów zmian jest konieczne, ponieważ nadmierna liczba klas zwiększałaby złożoność obliczeniową modelu oraz mogłaby prowadzić do niewystarczającej liczby przykładów dla poszczególnych kategorii.
+Z kolei zbyt mała liczba klas obniżyłaby użyteczność systemu.
 
-Ponieważ zbiory danych obejmują wiele jednostek chorobowych, w celu stworzenia mobilnego systemu identyfikacji szerokiej gamy znamion konieczny jest odpowiedni wybór zbiorów oraz tym samym ujednolicenie klas przed dalszą analizą.
-Ograniczenie typów znamion rozpoznawanych przez system jest konieczne, ponieważ gdy ich liczba będzie zbyt duża, model nie będzie miał wystarczająco przykładów, żeby się uczyć, oraz znacznie wzrośnie jego złożoność algorytmiczna.
-Dobranie zbyt małej liczby klas zmniejszy przydatność modelu.
 W ramach projektu zdecydowano się na wykorzystanie zbiorów HAM10000, BCN20000, DERM7PT, ISIC 2020 oraz PAD-UFES-20.
-HAM10000, BCN20000 oraz ISIC 2020 to oficjalne zbiory International Skin Imaging Collaboration, przez co obejmują one podobne klasy i podobnie je definiują. 
-Podstawę danych stanowią HAM10000, BCN20000 ponieważ zawierają bardzo duże ilości obrazów, a diagnostyka jest wysokiej jakości.
-ISIC 2020 w większości stanowi klasa "unknown", czyli niezakwalifkowana, lecz zbiór został również uwzględniony w badaniach ponieważ zawiera wiele przykładów rzadziej występujących klas, takich jak plamy soczewicowate (ang. \textit{lentigo})
-lub rogowacenie liszajowate (ang. \textit{lichenoid keratosis}).
-Zbiór PAD-UFES-20 jest istotny w przypadku modelu ponieważ uwzględnia zdjęcia wykonane aparatem telefonu komórkowego, co stanowi faktyczne użycie systemu.
-Dodatkowo uwzględniono zbiór DERM7PT, ponieważ ze względu na oparcie na skali siedmiopunktowej obejmuje on różne cechy kliniczne i szeroką gamę znamion.
+HAM10000, BCN20000 oraz ISIC 2020, jako oficjalne zasoby International Skin Imaging Collaboration, obejmują zbliżone kategorie zmian skórnych i definują je w podobny sposób.
+Podstawę danych stanowią HAM10000 oraz BCN20000, ponieważ zawierają one bardzo dużą liczbę obrazów oraz charakteryzują się wysoką jakością diagnostyczną.
+Choć zbiór ISIC 2020 w dużej mierze składa się z klasy "unknown", został on uwzględniony ze względu na obecność licznych przykładów rzadziej występujących zmian, takich jak plamy soczewicowate (ang. \textit{lentigo}) czy rogowacenie liszajowate (ang. \textit{lichenoid keratosis}).
+Zbiór PAD-UFES-20 jest istotny dla praktyczności systemu, ponieważ obejmuje zdjęcia wykonane aparatem telefonu komórkowego, co odpowiada rzeczywistemu wykorzystaniu aplikacji.
+Dodatkowo włączono zbiór DERM7PT, który jest oparty na siedmiopunktowej skali diagnostycznej, przez co zawiera szeroki zakres cech klinicznych, reprezentując różne typy znamion.
 
-Ponieważ analiza zmian skórnych w projekcie opiera się na podstawie zdjęcia, wykorzystano wyłącznie takie metadane jak obrazy oraz diagnozę.
+Analiza zmian skórnych przez system opiera się wyłącznie na obrazie, więc wykorzystano jedynie metadane w postaci odnośników do zdjęć oraz odpowiadających im diagnoz.
 Po połączeniu pięciu zbiorów danych w jeden wyróżniono 45 klas, w tym:
 
 \begin{itemize}
@@ -339,6 +338,8 @@ Po połączeniu pięciu zbiorów danych w jeden wyróżniono 45 klas, w tym:
 	\item 3 klasy i 253 obrazów zmian naczyniowych (ang. \textit{vascular lesions})
 	\item 3 klasy i 239 obrazów włókniaka twardego (ang. \textit{dermatofibroma})
 \end{itemize}
+
+Wykaz wszystkich klas występujących w zbiorach HAM10000, BCN20000, DERM7PT, ISIC 2020 oraz PAD‑UFES‑20, wraz z ich liczebnościami, przedstawiono w tabeli \ref{tab:klasy_zbiory}.
 
 \begin{table}[htbp]
 	\centering
@@ -397,45 +398,8 @@ Po połączeniu pięciu zbiorów danych w jeden wyróżniono 45 klas, w tym:
 	\label{tab:klasy_zbiory}
 \end{table}
 
-\subsection{Czerniak - melanoma}
-Klasa czerniaka złośliwego obejmuje czerniaki o różnych odmianach i rozmiarach.
-Są to złośliwe zmiany wywodzące się ze znamion melanocytowych, które mogą być inwazyjne lub nieinwazyjne (in situ).
-Jeżeli czerniak zostanie wykryty w wczesnym stadium, można go wyleczyć poprzez wycięcie chirurgiczne.
-Istotnie różnią się od pieprzyków swoją nieregularną strukturą oraz brakiem symetrii \cite{Bourke_2010, Kittler_2018}.
-
-\subsection{Zmiany melanocytowe - Nevus}
-Klasa nevus dotyczy łagodnych znamion melanocytowych, powszechnie nazywanych pieprzykami.
-Odmiany tej zmiany mogą się znacznie różnić pod względem dermoskopowym, na przykład pod względem koloru, lecz w przeciwieństwie do czerniaka, barwa tych znamion jest jednorodna a struktura jest symetryczna \cite{Bourke_2010, Kittler_2018}.
-
-\subsection{Rogowacenie słoneczne - actinic keratosis}
-Klasa rogowacenia słonecznego to nieninwazyjne odmiany raka płaskonabłonkowego, które można leczyć miejscowo.
-Klasa obejmuje również raka śródnabłonkowego, inaczej nazywanego chorobą Bowena. 
-W większości zbiorów wyodrębniono osobną klasę dla rogowacenia słonecznego, ponieważ mogą się one przekształcić w inwazyjnego raka płaskonabłonkowego, przez co wymagają stałej obserwacji \cite{Bourke_2010, Kittler_2018}.
-
-\subsection{Łagodne rogowacenie - benign keratosis}
-Ponieważ klasy "bkl" i "BKL" są ogólnymi klasami obejmującymi różne rodzaje łagodnego rogowacenia, postanowiono pozostawić je jako ogólną klasę i zaliczyć do niej bardziej szczegółowe klasy zmian skórnych, takie jak konkretne klasy dotyczące rogowacenia łojotokowego (SEK, seborrheic keratosis), rogowacenia liszajowatego (lichenoid keratosis) oraz plamek soczewicowatych (lentigo, lentigo NOS).
-Takie zgrupowanie wynika z tego, że znamiona tego typu są łagodne i są podobne do siebie pod względem biologicznym.
-Rogowacenie łojotokowe to często występujące, łagodne zmiany przypominające grudki o nierównej powierzchni.
-Rogowacenie liszajowate to łagodne zmiany skórne o charakterze zapalnym, często o fioletowawym lub czerwonym kolorze.
-Plamki soczewicowate to łagodne płaskie i z reguły brązowe zmiany skórne powstające wskutek namnażania melanocytów.
-Wszystkie z tych zmian nie wymagają leczenia, lecz są czasem usuwane chirurgicznie ze względów estetycznych \cite{Bourke_2010, Kittler_2018}.
-
-\subsection{Rak skóry inny niż czerniak - non-melanoma skin cancer}
-Stworzono również klasę "non-melanoma skin cancer" dotyczącą raka skóry nie będącego czerniakiem, czyli raka podstawnokomórkowego skóry (bcc, BCC, basal cell carcinoma) oraz 
-raka kolczystkokomórkowego skóry (SCC).
-Są to najczęśniej występujące złośliwe zmiany skórne, z reguły pojawiające się na skutek promieniowania UV.
-Obie zmiany rosna powoli i rzadko dają przerzuty, wobec czego wykryte wystarczająco wcześnie dają bardzo dobre rokowania.
-Leczenie obu tych zmian polega na ich chirurgicznym wycięciu.
-Decyzja o uwzględnieniu tych klas w jednej grupie wynikała z ich podobieństw biologicznych, zostały jednak wyróżnione od czerniaka ze względu na ich stopień złośliwości \cite{Bourke_2010, Hernández2024, Kittler_2018}.
-
-\subsection{Włókniak twardy - dermatofibroma}
-Włókniak twardy jest łagodna zmianą nowotworowa, przybierającą postać twardego guzka.
-Najczęściej jest reakcją zapalną na niewielki uraz.
-Charakteryzuje się siateczkowatymi liniami na obrzeżach zmiany oraz białej plamki w jej środkowej części, wskazującej na zwłóknienie \cite{Bourke_2010, Hernández2024}.
-
-\subsection{Zmiany naczyniowe - vascular lesions}
-Znamiona naczyniowe to łagodne zmiany skórne, takie jak naczyniaki wiśniowe i ziarniniaki ropne.
-Wyróżniają się one charakterystycznym czerwono-fioletowym zabarwieniem, oraz wyraźnie ograniczonymi strukturami \cite{Bourke_2010, Kittler_2018}.
+Na podstawie dostępnej literatury zdecydowano się na arbitralne pogrupowanie dostępnych kategorii w siedem ogólnych klas zmian skórnych. 
+Strategię ujednolicenia klas zaprezentowano w tabeli \ref{tab:klasy_ujednolicone}.
 
 \begin{table}[htbp]
 	\centering
@@ -455,8 +419,157 @@ Wyróżniają się one charakterystycznym czerwono-fioletowym zabarwieniem, oraz
 	\label{tab:klasy_ujednolicone}
 \end{table}
 
+\subsection{Czerniak - melanoma}
+Klasa czerniaka złośliwego obejmuje różne odmiany i stadia rozwoju czerniaka, przedstawione w zestawieniu \ref{fig:melanoma_classes}.
+Są to nowotworowe zmiany wywodzące się ze znamion melanocytowych, mogące przyjmować postać inwazyjną lub nieinwazyjną (in situ).
+Wczesne wykrycie czerniaka umożliwia skuteczne leczenie chirurgiczne.
+Czerniak różni się od łagodnych znamion melanocytowych nieregularną strukturą, asymetrią oraz niejednorodnością barwy \cite{Bourke_2010, Kittler_2018}.
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.9\linewidth]{cnn}
+	\caption{Klasy zawarte w klasie "melanoma"}
+	\source{Opracowanie własne}
+	\label{fig:melanoma_classes}
+\end{figure}
+
+
+\subsection{Zmiany melanocytowe - Nevus}
+Klasa nevus dotyczy łagodnych znamion melanocytowych, powszechnie określanych jako pieprzyki.
+Zawarto w niej jedenaście podkategorii przedstawionych na rysunku \ref{fig:nevus_classes}, w tym odmiany specyficzne, takie jak znamię Reeda czy znamię Clarka.
+Zmiany melanocytowe nie stanowią zagrożenia zdrowotnego, usuwa się je głównie ze względów estetycznych bądź w przypadku podejrzenia zezłośliwienia \cite{Bourke_2010}.
+Pod względem dermoskopowym mogą znacznie się różnić między sobą, m.in. w zakresie barwy, jednak w przeciwieństwie do czerniaka cechują się symetrią oraz jednorodnością struktury \cite{Kittler_2018}.
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.9\linewidth]{cnn}
+	\caption{Klasy zawarte w klasie "nevus"}
+	\source{Opracowanie własne}
+	\label{fig:nevus_classes}
+\end{figure}
+
+\subsection{Rogowacenie słoneczne - actinic keratosis}
+Klasa rogowacenia słonecznego obejmuje nieninwazyjne odmiany raka płaskonabłonkowego skóry, które można leczyć miejscowo.
+Uwzględnia również raka śródnabłonkowego, określanego jako choroba Bowena.
+Przykłady rogowacenia słonecznego przedstawiono na rysunku \ref{fig:actinic_keratosis_classes}.
+Zarówno rogowacenie słoneczne, jak i choroba Bowena są związane z przewlekłą ekspozycją na promieniowanie UV, szczególnie u osób o jasnej karnacji i w regionach o wysokim nasłonecznieniu.
+Rozpoznanie wymaga potwierdzenia histopatologicznego, a leczenie może polegać na wycięciu chirurgicznym, krioterapii lub wyłyżeczkowaniu zmiany.
+W analizowanych zbiorach rogowacenie słoneczne stanowi odrębną kategorię ze względu na ryzyko progresji do inwazyjnego raka płaskonabłonkowego \cite{Bourke_2010, Kittler_2018}.
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.9\linewidth]{cnn}
+	\caption{Klasy zawarte w klasie "actinic keratosis"}
+	\source{Opracowanie własne}
+	\label{fig:actinic_keratosis_classes}
+\end{figure}
+
+\subsection{Łagodne rogowacenie - benign keratosis}
+Klasy "bkl" i "BKL" obejmują wiele rodzajów łagodnych zmian rogowaciejących, dlatego zdecydowano się traktować je jako kategorię nadrzędną, do której przyporządkowano bardziej szczegółowe typy znamion, takie jak rogowacenie łojotokowe (seborrheic keratosis), rogowacenie liszajowate (lichenoid keratosis) oraz plamy soczewicowate (lentigo, lentigo NOS).
+Autorzy zbiorów BCN20000 i HAM10000 zdecydowali się na szeroką kategorię zrogowaceń ze względu na ich łagodny charakter oraz podobieństwo kliniczne.
+Rogowacenie łojotokowe przyjmuje postać grudkowatych zmian o nierównej powierzchni, rogowacenie liszajowate ma charakter zapalny i często przybiera barwę czerwoną lub fioletową, a plamy soczewicowate są płaskimi, brązowymi zmianami wynikającymi z proliferacji melanocytów.
+Zmiany te nie wymagają leczenia, a ich usunięcie ma zwykle charakter estetyczny \cite{Bourke_2010, Kittler_2018}.
+Przykłady łagodnego rogowacenia przedstawiono na rysunku \ref{fig:benign_keratosis_classes}.
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.9\linewidth]{cnn}
+	\caption{Klasy zawarte w klasie "benign keratosis"}
+	\source{Opracowanie własne}
+	\label{fig:benign_keratosis_classes}
+\end{figure}
+
+\subsection{Rak skóry inny niż czerniak - non-melanoma skin cancer}
+
+W ramach projektu wyodrębniono klasę "non‑melanoma skin cancer", obejmującą raka podstawnokomórkowego (basal cell carcinoma, BCC) oraz raka kolczystokomórkowego (SCC), zaprezentowane na rysunku \ref{fig:non_melanoma_skin_cancer_classes}
+Są to najczęściej występujące złośliwe nowotwory skóry, zwykle związane z przewlekłą ekspozycją na promieniowanie słoneczne.
+Oba typy nowotworów rosną powoli i rzadko dają przerzuty, co sprawia, że rokowania są bardzo dobre przy wczesnym wykryciu.
+Standardem leczenia jest chirurgiczne usunięcie zmiany.
+Połączenie tych kategorii wynika z ich podobieństw biologicznych, przy jednoczesnym odróżnieniu od czerniaka ze względu na niższy stopień złośliwości \cite{Bourke_2010, Hernández2024, Kittler_2018}.
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.9\linewidth]{cnn}
+	\caption{Klasy zawarte w klasie "non-melanoma skin cancer"}
+	\source{Opracowanie własne}
+	\label{fig:non_melanoma_skin_cancer_classes}
+\end{figure}
+
+\subsection{Włókniak twardy - dermatofibroma}
+Włókniak twardy jest łagodną zmianą nowotworową o charakterze guzka, najczęściej stanowiącą reakcję zapalną na drobny uraz.
+Cechuje się obecnością siateczkowatych linii na obrzeżach oraz białej plamki w jej środkowej części odpowiadającej zwłóknieniu.
+Zmiany te usuwa się jedynie w przypadku podejrzenia czerniaka, natomiast w większości przypadków nie wymagają leczenia \cite{Bourke_2010, Hernández2024}.
+Przykłady przedstawiono na rysunku \ref{fig:dermatofibroma_classes}.
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.9\linewidth]{cnn}
+	\caption{Klasy zawarte w klasie "dermatofibroma"}
+	\source{Opracowanie własne}
+	\label{fig:dermatofibroma_classes}
+\end{figure}
+
+\subsection{Zmiany naczyniowe - vascular lesions}
+Zmiany naczyniowe vharakteryzują się intensywnym czerwono‑fioletowym zabarwieniem oraz wyraźnie odgraniczoną strukturą, wynikającą z poszerzenia i krętego przebiegu naczyń krwionośnych w skórze.
+Przykładami zmian naczyniowych są naczyniaki wiśniowe oraz ziarniniaki ropne.
+Nie powodują one dolegliwości zdrowotnych i są usuwane głównie ze względów estetycznych \cite{Bourke_2010, Kittler_2018}.
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.9\linewidth]{cnn}
+	\caption{Klasy zawarte w klasie "vascular lesions"}
+	\source{Opracowanie własne}
+	\label{fig:vascular_classes}
+\end{figure}
+
+Po połączeniu wszystkich źródeł w jeden zbiór oraz przeprowadzeniu procesu ujednolicenia klas, uzyskano następujący rozkład liczebności:
+
+\begin{itemize}
+	\item nevus - 16 923 obrazów,
+	\item melanoma - 4 858 obrazów,
+	\item non‑melanoma skin cancer - 4 833 obrazów,
+	\item benign keratosis - 2 757 obrazów,
+	\item actinic keratosis - 1 794 obrazów,
+	\item vascular lesions - 253 obrazy,
+	\item dermatofibroma - 239 obrazów.
+\end{itemize}
+
+Łącznie zintegrowany zbiór obejmował 31 657 obrazów, co przedstawiono na wykresie słupkowym \ref{fig:classes_bar} oraz wykresie kołowym \ref{fig:classes_pie}.
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.9\linewidth]{cnn}
+	\caption{Rozkład klas w zbiorze po ich ujednoliceniu}
+	\source{Opracowanie własne}
+	\label{fig:classes_bar}
+\end{figure}
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.9\linewidth]{cnn}
+	\caption{Procentowy udział klas w zbiorze po ich ujednoliceniu}
+	\source{Opracowanie własne}
+	\label{fig:classes_pie}
+\end{figure}
+
+Ponad 70\% wszystkich danych pochodziło ze zbiorów BCN20000 oraz HAM10000, co zilustrowano na rysunku \ref{fig:datasets}.
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.9\linewidth]{cnn}
+	\caption{Procentowy udział poszczególnych zbiorów źródłowych}
+	\source{Opracowanie własne}
+	\label{fig:datasets}
+\end{figure}
+
+W kolejnych etapach przeprowadzono dalsze czyszczenie oraz przygotowanie danych pod kątem wymagań modelu, co szczegółowo opisano w rozdziale 4, w podrozdziale Obróbka danych.
+
 \section{Infrastruktura}
 
+
+
 \section{Zastosowanie}
+
+
 
 \section{Podsumowanie}
