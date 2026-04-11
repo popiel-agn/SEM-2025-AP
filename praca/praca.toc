@@ -33,22 +33,21 @@
 \contentsline {subsection}{\numberline {3.1.8}Fitzpatrick17k}{25}{subsection.3.1.8}%
 \contentsline {subsection}{\numberline {3.1.9}Dermofit}{27}{subsection.3.1.9}%
 \contentsline {section}{\numberline {3.2}Dobór zbiorów i opis wybranych zmian skórnych}{27}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}Czerniak - melanoma}{29}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}Zmiany melanocytowe - Nevus}{31}{subsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.2.3}Rogowacenie słoneczne - actinic keratosis}{31}{subsection.3.2.3}%
-\contentsline {subsection}{\numberline {3.2.4}Łagodne rogowacenie - benign keratosis}{31}{subsection.3.2.4}%
-\contentsline {subsection}{\numberline {3.2.5}Rak skóry inny niż czerniak - non-melanoma skin cancer}{32}{subsection.3.2.5}%
-\contentsline {subsection}{\numberline {3.2.6}Włókniak twardy - dermatofibroma}{32}{subsection.3.2.6}%
-\contentsline {subsection}{\numberline {3.2.7}Zmiany naczyniowe - vascular lesions}{32}{subsection.3.2.7}%
-\contentsline {section}{\numberline {3.3}Infrastruktura}{33}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Zastosowanie}{33}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Podsumowanie}{33}{section.3.5}%
-\contentsline {chapter}{\numberline {4}Metodyka badania}{34}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Wstęp}{34}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Obróbka danych}{34}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Przygotowanie modelu do trenowania}{34}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Trenowanie modelu}{34}{section.4.4}%
-\contentsline {section}{\numberline {4.5}Podsumowanie}{34}{section.4.5}%
-\contentsline {chapter}{\numberline {5}Wyniki i wnioski}{35}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Podsumowanie}{35}{section.5.1}%
-\contentsline {chapter}{\numberline {6}Podsumowanie}{36}{chapter.6}%
+\contentsline {subsection}{\numberline {3.2.1}Czerniak - melanoma}{31}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Zmiany melanocytowe - Nevus}{32}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Rogowacenie słoneczne - actinic keratosis}{32}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Łagodne rogowacenie - benign keratosis}{33}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.2.5}Rak skóry inny niż czerniak - non-melanoma skin cancer}{34}{subsection.3.2.5}%
+\contentsline {subsection}{\numberline {3.2.6}Włókniak twardy - dermatofibroma}{35}{subsection.3.2.6}%
+\contentsline {subsection}{\numberline {3.2.7}Zmiany naczyniowe - vascular lesions}{35}{subsection.3.2.7}%
+\contentsline {section}{\numberline {3.3}Infrastruktura}{37}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Podsumowanie}{39}{section.3.4}%
+\contentsline {chapter}{\numberline {4}Metodyka badania}{40}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Wstęp}{40}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Obróbka danych}{40}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Przygotowanie modelu do trenowania}{40}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Trenowanie modelu}{40}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Podsumowanie}{40}{section.4.5}%
+\contentsline {chapter}{\numberline {5}Wyniki i wnioski}{41}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Podsumowanie}{41}{section.5.1}%
+\contentsline {chapter}{\numberline {6}Podsumowanie}{42}{chapter.6}%

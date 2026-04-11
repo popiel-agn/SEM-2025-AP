@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2024.1.7)  6 APR 2026 12:19
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2024.1.7)  11 APR 2026 11:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2187,7 +2187,17 @@ Package biblatex Warning: Conflicting options.
 (biblatex)                'urldate=iso' requires 'seconds=true'.
 (biblatex)                Setting 'seconds=true' on input line 28.
 
-(praca.aux)
+(praca.aux
+! Undefined control sequence.
+l.649 \abx@aux@ci
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+)
 \openout1 = `praca.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
@@ -2250,10 +2260,34 @@ Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package hyperref Info: Link coloring ON on input line 28.
-(praca.out) (praca.out)
+(praca.out)
+Runaway argument?
+{\376\377\000W\000y\000z\000w\000a\000n\000i\000a\000\040\000z\000w\0\ETC.
+! File ended while scanning use of \@@BOOKMARK.
+<inserted text> 
+                \par 
+l.28 \begin{document}
+                     
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+(praca.out)
+Runaway argument?
+{\376\377\000W\000y\000z\000w\000a\000n\000i\000a\000\040\000z\000w\0\ETC.
+! File ended while scanning use of \@@BOOKMARK.
+<inserted text> 
+                \par 
+l.28 \begin{document}
+                     
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
 \@outlinefile=\write7
 \openout7 = `praca.out'.
-
 
 
 Package todonotes Warning: The length marginparwidth is less than 2cm and will 
@@ -2359,20 +2393,17 @@ LaTeX Font Info:    Font shape `TU/Calibri(0)/m/n' will be
 (Font)              scaled to size 26.89474pt on input line 34.
 LaTeX Font Info:    Font shape `TU/Calibri(0)/b/n' will be
 (Font)              scaled to size 26.89474pt on input line 34.
- (praca.toc
-LaTeX Font Info:    Font shape `TU/Calibri(0)/b/n' will be
-(Font)              scaled to size 12.97174pt on input line 2.
- [1
-
-])
+ (praca.toc)
 \tf@toc=\write8
 \openout8 = `praca.toc'.
 
- [2] (praca.tdo)
+ [1
+
+] (praca.tdo)
 \tf@tdo=\write9
 \openout9 = `praca.tdo'.
 
- [3
+ [2
 
 ] (wstep.tex
 Rozdział 1.
@@ -2391,6 +2422,9 @@ Rozdział 2.
 LaTeX Font Info:    Font shape `TU/Calibri(0)/m/it' will be
 (Font)              scaled to size 12.94171pt on input line 26.
  [3] [4]
+LaTeX Font Info:    Font shape `TU/Calibri(0)/b/n' will be
+(Font)              scaled to size 12.97174pt on input line 47.
+
 Overfull \hbox (17.01274pt too wide) in paragraph at lines 49--80
  [][] 
  []
@@ -2527,85 +2561,192 @@ Underfull \hbox (badness 10000) in paragraph at lines 290--290
  []
 
 [27] [28]
-LaTeX Font Info:    Font shape `TU/Calibri(0)/m/n' will be
-(Font)              scaled to size 11.8367pt on input line 345.
-LaTeX Font Info:    Font shape `TU/CambriaMath(1)/m/n' will be
-(Font)              scaled to size 11.221pt on input line 348.
-LaTeX Font Info:    Font shape `TU/CambriaMath(1)/m/n' will be
-(Font)              scaled to size 8.198pt on input line 348.
-LaTeX Font Info:    Font shape `TU/CambriaMath(2)/m/n' will be
-(Font)              scaled to size 11.22217pt on input line 348.
-LaTeX Font Info:    Font shape `TU/CambriaMath(2)/m/n' will be
-(Font)              scaled to size 8.19885pt on input line 348.
-LaTeX Font Info:    Font shape `TU/CambriaMath(3)/m/n' will be
-(Font)              scaled to size 11.21983pt on input line 348.
-LaTeX Font Info:    Font shape `TU/CambriaMath(3)/m/n' will be
-(Font)              scaled to size 8.19714pt on input line 348.
-LaTeX Font Info:    Font shape `TU/Calibri(3)/m/n' will be
-(Font)              scaled to size 11.8367pt on input line 348.
-LaTeX Font Info:    Font shape `TU/Calibri(3)/m/n' will be
-(Font)              scaled to size 8.64783pt on input line 348.
-LaTeX Font Info:    Font shape `TU/CalibriItalic(0)/m/n' will be
-(Font)              scaled to size 11.8093pt on input line 348.
-LaTeX Font Info:    Font shape `TU/CalibriItalic(0)/m/n' will be
-(Font)              scaled to size 8.6278pt on input line 348.
-LaTeX Font Info:    Font shape `TU/CalibriBold(0)/m/n' will be
-(Font)              scaled to size 11.8367pt on input line 348.
-LaTeX Font Info:    Font shape `TU/CalibriBold(0)/m/n' will be
-(Font)              scaled to size 8.64783pt on input line 348.
-LaTeX Font Info:    Font shape `TU/CalibriBoldItalic(0)/m/n' will be
-(Font)              scaled to size 11.8367pt on input line 348.
-LaTeX Font Info:    Font shape `TU/CalibriBoldItalic(0)/m/n' will be
-(Font)              scaled to size 8.64783pt on input line 348.
-LaTeX Font Info:    Font shape `TU/Calibri(0)/b/n' will be
-(Font)              scaled to size 11.8367pt on input line 350.
+Underfull \hbox (badness 3849) in paragraph at lines 321--327
+[]\TU/Calibri(1)/m/n/12 W ramach projektu zdecydowano się na wykorzystanie zbio
+rów HAM10000,
+ []
 
-Overfull \hbox (42.40013pt too wide) in paragraph at lines 348--398
+Missing character: There is no ‑ in font Calibri/OT:script=latn;language=dflt;m
+apping=tex-text;!
+Missing character: There is no ‑ in font Calibri/OT:script=latn;language=dflt;m
+apping=tex-text;!
+LaTeX Font Info:    Font shape `TU/Calibri(0)/m/n' will be
+(Font)              scaled to size 11.8367pt on input line 346.
+LaTeX Font Info:    Font shape `TU/CambriaMath(1)/m/n' will be
+(Font)              scaled to size 11.221pt on input line 349.
+LaTeX Font Info:    Font shape `TU/CambriaMath(1)/m/n' will be
+(Font)              scaled to size 8.198pt on input line 349.
+LaTeX Font Info:    Font shape `TU/CambriaMath(2)/m/n' will be
+(Font)              scaled to size 11.22217pt on input line 349.
+LaTeX Font Info:    Font shape `TU/CambriaMath(2)/m/n' will be
+(Font)              scaled to size 8.19885pt on input line 349.
+LaTeX Font Info:    Font shape `TU/CambriaMath(3)/m/n' will be
+(Font)              scaled to size 11.21983pt on input line 349.
+LaTeX Font Info:    Font shape `TU/CambriaMath(3)/m/n' will be
+(Font)              scaled to size 8.19714pt on input line 349.
+LaTeX Font Info:    Font shape `TU/Calibri(3)/m/n' will be
+(Font)              scaled to size 11.8367pt on input line 349.
+LaTeX Font Info:    Font shape `TU/Calibri(3)/m/n' will be
+(Font)              scaled to size 8.64783pt on input line 349.
+LaTeX Font Info:    Font shape `TU/CalibriItalic(0)/m/n' will be
+(Font)              scaled to size 11.8093pt on input line 349.
+LaTeX Font Info:    Font shape `TU/CalibriItalic(0)/m/n' will be
+(Font)              scaled to size 8.6278pt on input line 349.
+LaTeX Font Info:    Font shape `TU/CalibriBold(0)/m/n' will be
+(Font)              scaled to size 11.8367pt on input line 349.
+LaTeX Font Info:    Font shape `TU/CalibriBold(0)/m/n' will be
+(Font)              scaled to size 8.64783pt on input line 349.
+LaTeX Font Info:    Font shape `TU/CalibriBoldItalic(0)/m/n' will be
+(Font)              scaled to size 11.8367pt on input line 349.
+LaTeX Font Info:    Font shape `TU/CalibriBoldItalic(0)/m/n' will be
+(Font)              scaled to size 8.64783pt on input line 349.
+LaTeX Font Info:    Font shape `TU/Calibri(0)/b/n' will be
+(Font)              scaled to size 11.8367pt on input line 351.
+
+Overfull \hbox (42.40013pt too wide) in paragraph at lines 349--399
  [][] 
  []
 
-[29] [30] [31]) (rozdzial4.tex [32] [33]
+
+LaTeX Warning: Reference `tab:klasy_ujednolicone' on page 29 undefined on input
+ line 402.
+
+
+LaTeX Warning: Reference `fig:melanoma_classes' on page 29 undefined on input l
+ine 423.
+
+[29] [30]
+File: melanoma_classes.png Graphic file (type bmp)
+<melanoma_classes.png>
+
+
+LaTeX Warning: Reference `fig:nevus_classes' on page 31 undefined on input line
+ 439.
+
+[31]
+File: nevus_classes.png Graphic file (type bmp)
+<nevus_classes.png>
+
+
+LaTeX Warning: Reference `fig:actinic_keratosis_classes' on page 32 undefined o
+n input line 454.
+
+[32]
+File: actinic_keratosis_classes.png Graphic file (type bmp)
+<actinic_keratosis_classes.png>
+
+
+LaTeX Warning: Reference `fig:benign_keratosis_classes' on page 33 undefined on
+ input line 472.
+
+File: benign_keratosis_classes.png Graphic file (type bmp)
+<benign_keratosis_classes.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Missing character: There is no ‑ in font Calibri/OT:script=latn;language=dflt;m
+apping=tex-text;!
+
+LaTeX Warning: Reference `fig:non_melanoma_skin_cancer_classes' on page 33 unde
+fined on input line 484.
+
+[33]
+File: non_melanoma_skin_cancer_classes.png Graphic file (type bmp)
+<non_melanoma_skin_cancer_classes.png>
+
+
+LaTeX Warning: Reference `fig:dermatofibroma_classes' on page 34 undefined on i
+nput line 502.
+
+[34]
+File: dermatofibroma_classes.png Graphic file (type bmp)
+<dermatofibroma_classes.png>
+
+Missing character: There is no ‑ in font Calibri/OT:script=latn;language=dflt;m
+apping=tex-text;!
+File: vascular_classes.png Graphic file (type bmp)
+<vascular_classes.png>
+[35]
+Missing character: There is no ‑ in font Calibri/OT:script=latn;language=dflt;m
+apping=tex-text;!
+
+LaTeX Warning: Reference `fig:classes_bar' on page 36 undefined on input line 5
+37.
+
+
+LaTeX Warning: Reference `fig:classes_pie' on page 36 undefined on input line 5
+37.
+
+File: classes_bar.png Graphic file (type bmp)
+<classes_bar.png>
+File: classes_pie.png Graphic file (type bmp)
+<classes_pie.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Reference `fig:datasets' on page 36 undefined on input line 555.
+
+
+File: datasets.png Graphic file (type bmp)
+<datasets.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[36]
+
+LaTeX Warning: Reference `fig:diagram_systemu' on page 37 undefined on input li
+ne 575.
+
+[37]
+File: diagram_systemu.png Graphic file (type bmp)
+<diagram_systemu.png>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) (rozdzial4.tex [38] [39]
 Rozdział 4.
-) (rozdzial5.tex [34
+) (rozdzial5.tex [40
 
 ]
 Rozdział 5.
-) (zakonczenie.tex [35
+) (zakonczenie.tex [41
 
 ]
 Rozdział 6.
-) [36
+) [42
 
 ]
 LaTeX Font Info:    Font shape `TU/InconsolataLGC(0)/m/n' will be
 (Font)              scaled to size 10.79993pt on input line 45.
- [37
+ [43
 
-] [38] [39]
+] [44] [45]
 Underfull \hbox (badness 1642) in paragraph at lines 46--46
 []\TU/Calibri(1)/m/n/12 Goodfellow, I., Bengio, Y., Courville, A. (2016). \TU/C
 alibri(0)/m/it/12 Deep Learning \TU/Calibri(1)/m/n/12 [[][]$[][][][] [] [] [] [
 ][][] []
  []
 
-[40] [41] [42] [43] [44] [45] [46] [47] (praca.lot)
+[46] [47] [48] [49] [50] [51] [52] [53] (praca.lot)
 \tf@lot=\write10
 \openout10 = `praca.lot'.
 
- [48
+ [54
 
 ] (praca.lof)
 \tf@lof=\write11
 \openout11 = `praca.lof'.
 
- [49
+ [55
 
 ]
 (praca.lol)
 \tf@lol=\write12
 \openout12 = `praca.lol'.
 
- [50
+ [56
 
 ] (praca.aux)
  ***********
@@ -2616,8 +2757,17 @@ L3 programming layer <2023-10-10>
 
 LaTeX Warning: There were undefined references.
 
-Package rerunfilecheck Info: File `praca.out' has not changed.
-(rerunfilecheck)             Checksum: 16A7383723A4BEEE18F758C68F1E53DD;9344.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `praca.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `praca.out':
+(rerunfilecheck)             Before: 798FE0506CD2392F0BBA7E7980A3617E;4096
+(rerunfilecheck)             After:  CE017DA85C0A59F58899CD838A24638D;9229.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                praca
@@ -2628,12 +2778,12 @@ Package logreq Info: Writing requests to 'praca.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 42169 strings out of 409955
- 832684 string characters out of 5781419
- 1945674 words of memory out of 5000000
- 63270 multiletter control sequences out of 15000+600000
+ 42354 strings out of 409955
+ 837980 string characters out of 5781419
+ 1949674 words of memory out of 5000000
+ 63455 multiletter control sequences out of 15000+600000
  562825 words of font info for 134 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  123i,12n,137p,2745b,5736s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on praca.pdf (55 pages).
+Output written on praca.pdf (60 pages).
