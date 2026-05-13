@@ -14,7 +14,7 @@
 \contentsline {subsection}{\numberline {2.3.4}Rozwiązania mobilne}{15}{subsection.2.3.4}%
 \contentsline {section}{\numberline {2.4}Wyzwania związane z głębokim uczeniem w dziedzinie dermatologii}{16}{section.2.4}%
 \contentsline {subsection}{\numberline {2.4.1}Stronniczość i ograniczona reprezentatywność}{16}{subsection.2.4.1}%
-\contentsline {subsection}{\numberline {2.4.2}Problemy z generalizacją}{16}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.2}Problemy z generalizacją}{17}{subsection.2.4.2}%
 \contentsline {subsection}{\numberline {2.4.3}Brak wyjaśnialności modeli}{17}{subsection.2.4.3}%
 \contentsline {subsubsection}{\numberline {2.4.3.1}Prywatność i bezpieczeństwo danych}{17}{subsubsection.2.4.3.1}%
 \contentsline {subsection}{\numberline {2.4.4}Regulacje prawne i odpowiedzialność}{18}{subsection.2.4.4}%
@@ -34,7 +34,7 @@
 \contentsline {subsection}{\numberline {3.1.9}Dermofit}{27}{subsection.3.1.9}%
 \contentsline {section}{\numberline {3.2}Dobór zbiorów i opis wybranych zmian skórnych}{27}{section.3.2}%
 \contentsline {subsection}{\numberline {3.2.1}Czerniak - melanoma}{31}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}Zmiany melanocytowe - Nevus}{32}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.2}Zmiany melanocytowe - nevus}{32}{subsection.3.2.2}%
 \contentsline {subsection}{\numberline {3.2.3}Rogowacenie słoneczne - actinic keratosis}{32}{subsection.3.2.3}%
 \contentsline {subsection}{\numberline {3.2.4}Łagodne rogowacenie - benign keratosis}{33}{subsection.3.2.4}%
 \contentsline {subsection}{\numberline {3.2.5}Rak skóry inny niż czerniak - non-melanoma skin cancer}{34}{subsection.3.2.5}%
@@ -42,12 +42,15 @@
 \contentsline {subsection}{\numberline {3.2.7}Zmiany naczyniowe - vascular lesions}{35}{subsection.3.2.7}%
 \contentsline {section}{\numberline {3.3}Infrastruktura}{37}{section.3.3}%
 \contentsline {section}{\numberline {3.4}Podsumowanie}{39}{section.3.4}%
-\contentsline {chapter}{\numberline {4}Metodyka badania}{40}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Wstęp}{40}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Obróbka danych}{40}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Przygotowanie modelu do trenowania}{40}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Trenowanie modelu}{40}{section.4.4}%
-\contentsline {section}{\numberline {4.5}Podsumowanie}{40}{section.4.5}%
-\contentsline {chapter}{\numberline {5}Wyniki i wnioski}{41}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Podsumowanie}{41}{section.5.1}%
-\contentsline {chapter}{\numberline {6}Podsumowanie}{42}{chapter.6}%
+\contentsline {chapter}{\numberline {4}Metodyka badania}{41}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Model sieci neuronowej}{41}{section.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.0.1}Wstęp}{41}{subsubsection.4.1.0.1}%
+\contentsline {subsection}{\numberline {4.1.1}Obróbka danych}{42}{subsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.1.1}Przygotowanie do trenowania}{43}{subsubsection.4.1.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.1.2}Przygotowanie do trenowania}{45}{subsubsection.4.1.1.2}%
+\contentsline {section}{\numberline {4.2}Aplikacja mobilna}{46}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Wyniki}{48}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Podsumowanie}{48}{section.4.4}%
+\contentsline {chapter}{\numberline {5}Wyniki i wnioski}{49}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Podsumowanie}{49}{section.5.1}%
+\contentsline {chapter}{\numberline {6}Podsumowanie}{50}{chapter.6}%

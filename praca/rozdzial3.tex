@@ -547,7 +547,7 @@ Po połączeniu wszystkich źródeł w jeden zbiór oraz przeprowadzeniu procesu
 \begin{figure}[h]
 	\centering
 	\includegraphics[width=0.9\linewidth]{classes_pie}
-	\caption{Procentowy udział klas w zbiorze po ich ujednoliceniu}
+	\caption{Procentowy udział klas w zbiorze przed ich ujednoliceniem}
 	\source{Opracowanie własne}
 	\label{fig:classes_pie}
 \end{figure}
@@ -583,33 +583,6 @@ Znajduje się on w zasobach programu i jest wykorzystywany bezpośrednio do proc
 Diagram \ref{fig:diagram_systemu} przedstawia uproszczoną architekturę systemu oraz ścieżkę interakcji użytkownika z aplikacją.
 W pierwszym kroku użytkownik wykonuje zdjęcie zmiany skórnej za pomocą aparatu telefonu komórkowego lub wczytuje je z pamięci urządzenia.
 Następnie obraz jest przekazany do lokalnie przechowywanego modelu TFLite, który dokonuje inferencji i zwraca wynik klasyfikacji, który jest wyświetlony na interfejsie użytkownika w postaci procentowych prawdopodobieństw przynależności badanej zmiany do każdej z klas.
-
-\begin{figure}[h!]
-	\centering
-	\includegraphics[width=0.9\linewidth]{diagram_klas}
-	\caption{Diagram klas przedstawiający działanie aplikacji}
-	\source{Opracowanie własne}
-	\label{fig:diagram_klas}
-\end{figure}
-
-Diagram \ref{fig:diagram_klas} przedstawia pełną architekturę aplikacji, w której warstwa interfejsu użytkownika jest ściśle oddzielona od logiki przetwarzania obrazu i inferencji modelu uczenia maszynowego.
-Klasa MainActivity pełni rolę punktu wejścia aplikacji i inicjuje środowisko Compose, delegując dalsze zarządzanie stanem i logiką do komponentu MainContent.
-MainContent stanowi centralny element warstwy interfejsu użytkownika - przechowuje stan bieżącego obrazu, wyniki klasyfikacji oraz instancję klasy TFLiteHelper.
-TFLiteHelper odpowiada za przygotowanie danych wejściowych, uruchomienie modelu TensorFlow Lite oraz przetworzenie wyników inferencji.
-Obraz dostarczony przez użytkownika jest skalowany, normalizowany i konwertowany do formatu akceptowanego przez Interpreter z biblioteki TensorFlow Lite.
-Następnie model zwraca wektor prawdopodobieństw, który jest mapowany na typy zmian skórnych zdefiniowane w enumeracji LesionType.
-Każdy wynik jest reprezentowany jako obiekt PredictionResult, zawierający LesionType jak i poziom prawdopodobieństwa przynależności do danej grupy.
-Stworzenie dedykowanej klasy umożliwia łatwą prezentacje wyników i ich dalsze przetwarzanie.
-
-Warstwa prezentacji została zaprojektowana w sposób modularny. 
-Komponent ScreenLayout odpowiada za ogólny układ ekranu, a szczegółowa prezentacja wyników delegowana jest do AnalysisPanel, który generuje dynamiczną listę komponentów PredictionRow, z których każdy odpowiada pojedynczemu wynikowi klasyfikacji.
-
-Relacje przedstawione na diagramie \ref{fig:diagram_klas} odzwierciedlają naturalny przepływ danych w aplikacji.
-Użytkownik inicjuje proces analizy poprzez wykonanie zdjęcia lub wybór obrazu z galerii.
-Klasa MainContent obsługuje te zdarzenia za pomocą systemowych launcherów i aktualizuje stan imageBitmap, czyli obrazu reprezentowanego w postaci mapy bitów.
-Zmiana stanu imageBitmap automatycznie wywołuje metodę predict() klasy TFLiteHelper, która dokonuje inferencji.
-Wyniki klasyfikacji reprezentowane są w postaci listy obiektów PredictionResult, a następnie zaprezentowane w komponencie ScreenLayout, konkretnie w elementach PredictionRow.
-
 
 \section{Podsumowanie}
 Prezentowany system stanowi przykład praktycznego wykorzystania głębokich sieci neuronowych do wstępnego rozpoznawania zmian skórnych, uwzględniający zarówno obecne regulacje prawne, jak i ograniczenia technologii sztucznej inteligencji oraz związane z nią zagadnienia etyczne.
