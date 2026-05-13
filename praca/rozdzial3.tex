@@ -434,7 +434,7 @@ Czerniak różni się od łagodnych znamion melanocytowych nieregularną struktu
 \end{figure}
 
 
-\subsection{Zmiany melanocytowe - Nevus}
+\subsection{Zmiany melanocytowe - nevus}
 Klasa nevus dotyczy łagodnych znamion melanocytowych, powszechnie określanych jako pieprzyki.
 Zawarto w niej jedenaście podkategorii przedstawionych na rysunku \ref{fig:nevus_classes}, w tym odmiany specyficzne, takie jak znamię Reeda czy znamię Clarka.
 Zmiany melanocytowe nie stanowią zagrożenia zdrowotnego, usuwa się je głównie ze względów estetycznych bądź w przypadku podejrzenia zezłośliwienia \cite{Bourke_2010}.
@@ -567,26 +567,59 @@ W kolejnych etapach przeprowadzono dalsze czyszczenie oraz przygotowanie danych 
 \section{Infrastruktura}
 Pierwszym etapem opracowania systemu identyfikacji zmian skórnych jest przygotowanie i wytrenowanie odpowiedniego modelu uczenia maszynowego.
 W ramach niniejszej pracy zastosowano technikę transfer learning, polegającą na wykorzystaniu wcześniej wytrenowanych modeli konwolucyjnych i dostosowaniu ich do specyfiki nowych danych.
-Po zakończniu procesu model został skonwertowany do formatu TensorFlow Lite (tflite), umożliwiającego jego uruchamianie bezpośrednio na urządzeniach mobilnych z systemem Android.
-W związdku z tym inferencja dobywa się lokalnie
-Aplikację mobilną napisano za pomocą języka Kotlin z biblioteką Jetpack Compose w celu stworzenia interfejsu użytkownika.
-Model w formacie tflite jest uwzględniony w plikach aplikacji, i wykorzystuje ona go bezpośrednio do wnioskowania za pomocą biblioteki TensorFlow Lite umożloiwiającej uruchamianie modeli uczenia maszynowego na urządzeniach mobilnych.
-
-Diagram \ref{fig:diagram_systemu} przedstawia ścieżkę użytkownika oraz podstawową infrastrukturę systemu.
-W pierwszym kroku użytkownik wykonuje zdjęcie zmiany skórnej aparatem telefonu komórkowego i wczytuje je do aplikacji bądź wykonuje zdjęcie bezpośrednio w niej.
-Następnie zdjęcie jest przekazane lokalnie przechowywanemu wytrenowanemu modelu w wersji tflite do wnioskowania, który zwraca wynik.
-Procentowe prawdopodobieństwa przynależności zmiany do każdej z klas są wyświetlone użytkownikowi na interfejsie.
+Po zakończeniu procesu uczenia model został skonwertowany do formatu TensorFlow Lite, umożliwiającego uruchamianie bezpośrednio na urządzeniach mobilnych z systemem Android, co oznacza, że inferencja odbywa się lokalnie, bez konieczności przesyłania danych do zewnętrznej infrastruktury obliczeniowej.
+Aplikacja mobilna została opracowana w języku Kotlin z wykorzystaniem biblioteki Jetpack Compose, która umożliwia stworzenie interfejsu użytkownika.
+Model w formacie TFlite jest integralną częścią aplikacji.
+Znajduje się on w zasobach programu i jest wykorzystywany bezpośrednio do procesu wnioskowania za pomocą biblioteki TensorFlow Lite, zapewniającej obsługę modeli uczenia maszynowego na urządzeniach mobilnych.
 
 \begin{figure}[h!]
 	\centering
 	\includegraphics[width=0.9\linewidth]{diagram_systemu}
-	\caption{Diagram przedstawiający działanie aplikacji}
+	\caption{Uproszczony diagram systemu przedstawiający działanie aplikacji}
 	\source{Opracowanie własne}
 	\label{fig:diagram_systemu}
 \end{figure}
 
-Warto podkreślić, że wynik podany przez model nie jest faktyczną diagnozą medyczną, lecz tylko przybliżeniem na podstawie wyuczonych danych.
-W związku z tym prawdopodobieństwa podane przez system powinny służyć jedynie za wskazówkę pacjentowi i powinny być skonsultowane z specjalistą.
+Diagram \ref{fig:diagram_systemu} przedstawia uproszczoną architekturę systemu oraz ścieżkę interakcji użytkownika z aplikacją.
+W pierwszym kroku użytkownik wykonuje zdjęcie zmiany skórnej za pomocą aparatu telefonu komórkowego lub wczytuje je z pamięci urządzenia.
+Następnie obraz jest przekazany do lokalnie przechowywanego modelu TFLite, który dokonuje inferencji i zwraca wynik klasyfikacji, który jest wyświetlony na interfejsie użytkownika w postaci procentowych prawdopodobieństw przynależności badanej zmiany do każdej z klas.
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.9\linewidth]{diagram_klas}
+	\caption{Diagram klas przedstawiający działanie aplikacji}
+	\source{Opracowanie własne}
+	\label{fig:diagram_klas}
+\end{figure}
+
+Diagram \ref{fig:diagram_klas} przedstawia pełną architekturę aplikacji, w której warstwa interfejsu użytkownika jest ściśle oddzielona od logiki przetwarzania obrazu i inferencji modelu uczenia maszynowego.
+Klasa MainActivity pełni rolę punktu wejścia aplikacji i inicjuje środowisko Compose, delegując dalsze zarządzanie stanem i logiką do komponentu MainContent.
+MainContent stanowi centralny element warstwy interfejsu użytkownika - przechowuje stan bieżącego obrazu, wyniki klasyfikacji oraz instancję klasy TFLiteHelper.
+TFLiteHelper odpowiada za przygotowanie danych wejściowych, uruchomienie modelu TensorFlow Lite oraz przetworzenie wyników inferencji.
+Obraz dostarczony przez użytkownika jest skalowany, normalizowany i konwertowany do formatu akceptowanego przez Interpreter z biblioteki TensorFlow Lite.
+Następnie model zwraca wektor prawdopodobieństw, który jest mapowany na typy zmian skórnych zdefiniowane w enumeracji LesionType.
+Każdy wynik jest reprezentowany jako obiekt PredictionResult, zawierający LesionType jak i poziom prawdopodobieństwa przynależności do danej grupy.
+Stworzenie dedykowanej klasy umożliwia łatwą prezentacje wyników i ich dalsze przetwarzanie.
+
+Warstwa prezentacji została zaprojektowana w sposób modularny. 
+Komponent ScreenLayout odpowiada za ogólny układ ekranu, a szczegółowa prezentacja wyników delegowana jest do AnalysisPanel, który generuje dynamiczną listę komponentów PredictionRow, z których każdy odpowiada pojedynczemu wynikowi klasyfikacji.
+
+Relacje przedstawione na diagramie \ref{fig:diagram_klas} odzwierciedlają naturalny przepływ danych w aplikacji.
+Użytkownik inicjuje proces analizy poprzez wykonanie zdjęcia lub wybór obrazu z galerii.
+Klasa MainContent obsługuje te zdarzenia za pomocą systemowych launcherów i aktualizuje stan imageBitmap, czyli obrazu reprezentowanego w postaci mapy bitów.
+Zmiana stanu imageBitmap automatycznie wywołuje metodę predict() klasy TFLiteHelper, która dokonuje inferencji.
+Wyniki klasyfikacji reprezentowane są w postaci listy obiektów PredictionResult, a następnie zaprezentowane w komponencie ScreenLayout, konkretnie w elementach PredictionRow.
 
 
 \section{Podsumowanie}
+Prezentowany system stanowi przykład praktycznego wykorzystania głębokich sieci neuronowych do wstępnego rozpoznawania zmian skórnych, uwzględniający zarówno obecne regulacje prawne, jak i ograniczenia technologii sztucznej inteligencji oraz związane z nią zagadnienia etyczne.
+Choć współczesne modele uczenia maszynowego nie osiągnęły jeszcze poziomu dojrzałości umożliwiającego ich pełnoprawne zastosowanie kliniczne, rozwijanie prototypowych rozwiązań tego typu pozostaje kluczowe dla dalszego postępu AI.
+Systemy wykorzystujące sieci neuronowe mogą w przyszłości wspierać lekarzy w procesie diagnostycznym, odciążać służbę zdrowia oraz zwiększać świadomość pacjentów w zakresie wczesnego wykrywania zmian skórnych.
+Należy podkreślić, że wynik wygenerowany przez model nie stanowi diagnozy medycznej, lecz jedynie statystyczne przybliżenie oparte na ograniczonym zbiorze danych treningowych.
+W kontekście wyzwań opisanych w Rozdziale 2, obejmujących m.in. stronniczość danych, brak wyjaśnialności wyniku oraz kwestie regulacyjne, które dopiero rozwijają się w dziedzinie sztucznej inteligencji, kliniczne zastosowanie przedstawionego rozwiązania pozostaje znacząco ograniczone.
+
+Wykorzystanie lokalnie działającego modelu, bez konieczności przesyłania zdjęć do chmury, stanowi zaletę pod względem prywatności i bezpieczeństwa danych użytkownika.
+Jednocześnie jednak takie podejście uniemożliwia dalsze doskonalenie modelu na podstawie rzeczywistych zdjęć wykonywanych przez użytkowników, co mogłoby przyczynić się do zwiększenia jego skuteczności i lepszej generalizacji.
+Ponadto proponowane rozwiązanie nie eliminuje fundamentalnych ograniczeń technologii głębokiego uczenia, takich jak podatność na błędy wynikające z jakości zdjęcia, różnorodności urządzeń czy brak pełnej interpretowalności decyzji modelu.
+Z tych względów opracowany system należy traktować jako narzędzie wspomagające, którego główną rolą jest zwiększanie świadomości użytkownika oraz ułatwianie wczesnej identyfikacji zmian mogących wymagać konsultacji dermatologicznej.
+Ostateczna decyzja diagnostyczna powinna zawsze należeć do lekarza, a system może jedynie wspierać proces podejmowania decyzji, nie zastępując profesjonalnej oceny klinicznej.

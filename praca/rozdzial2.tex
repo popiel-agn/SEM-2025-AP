@@ -288,14 +288,15 @@ Najlepsze wyniki osiągnął model DenseNet169 z dokładnością 92,25\% i pełn
 Autorzy wykorzystali uczenie transferowe oraz augmentację zdjęć.
 Model przekonwertowano do formatu tensorlite i utworzono aplikację mobilną android, która zbiera również informacje o ekspozycji na UV oraz lokalizacji użytkownika.
 
+\citet{Bouchachia_2013} opracowali prototyp mobilnego systemu do analizy zmian skórnych, wykorzystującego aparat smartfona oraz lokalnie działającą sieć neuronową.
+Model został wytrenowany na zbiorze 200 obrazów w zadaniu binarnej klasyfikacji zmian skórnych na łagodne i złośliwe.
+
 \citet{8795362} przedstawili aplikację mobilną przeznaczoną dla systemu iOS, wykorzystującą autorską sieć konwolucyjną wytrenowaną na podstawie 10 015 obrazów z zbioru HAM10000.
 Model został następnie przekonwertowany na format mobilny za pomocą biblioteki Core ML, co umożliwiło dokonanie predykcji w czasie niemal rzeczywistym.
 Po zrobieniu zdjęcia przez użytkownika aplikacja prezentuje na ekranie telefonu najbardziej prawdopodobną klasę zmiany skórnej.
 Autorzy nie opublikowali szczegółowych wyników walidacji ani metryk oceniających skuteczność modelu.
 
 \citet{Janda_2021} przeprowadzili analizę aplikacji wykrywających raka skóry dostępnych dla konsumentów przez platformy dystrybucji aplikacji mobilnych takie jak Google Play (aplikacje na systemy Android) oraz App Store (aplikacje na systemy iOS).
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!OPISAĆ RESZTĘ BADAŃ PO DOSTANIU DOSTĘPU!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 \section{Wyzwania związane z głębokim uczeniem w dziedzinie dermatologii}
 Wprowadzanie systemów opartych na głębokim uczeniu do praktyki klinicznej, szczególnie do diagnostyki dermatologicznej, wiąże się z szeregiem wyzwań technicznych, etycznych, regulacyjnych i społecznych.
